@@ -1,0 +1,4 @@
+# Production planning
+Use T05/T06/T09. Start from concept and verified assets. Specify talent, location, available equipment, shots, framing, light, clean audio, demonstration, B-roll, captions, overlays, safe zones and edits. Capture alternate hooks and natural delivery. Use existing equipment; historical product prices are not buying advice.
+Screen recordings must show the actual workflow, with private details redacted and dead time removed. Check rights and consent for people, music, footage and reviews. Represent reenactments and generated presenters honestly.
+For AI define audience/problem/mechanism/script first, then consistent product/character storyboards and prompts. Provide prompts without paid calls. Check packaging, labels, hands, outcomes, continuity and pronunciation. Verify current specs before export. Deliver creator brief, shot/edit lists, rights status and effort estimate. Never claim rendering or upload without tool evidence.

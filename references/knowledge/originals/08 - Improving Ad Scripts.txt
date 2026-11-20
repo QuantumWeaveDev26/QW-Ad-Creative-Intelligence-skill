@@ -1,0 +1,107 @@
+# Improving Ad Scripts
+
+## Summary
+### Flow Summary
+अच्छी ad script के नियम: specific relatable hook, एक core message, specific proof, spoken language और एक single CTA। Meta के Andromeda update के बाद creative diversification ज़रूरी है।
+
+### Skincare script: bad vs good
+- Bad script "नमस्ते, मैं हूँ ब्रांड से" से शुरू होती है, जिसे viewer 2 सेकंड में skip कर देता है।
+- एक साथ 5 बातें (moisturize, pimples, glow, price 499, reviews) audience को overwhelm करती हैं, problem साफ़ नहीं होती।
+- Script written language में है, spoken में नहीं। उसमें emotion, story और connection भी नहीं है।
+- Better version: hook में exact problem ("moisturize के बाद भी skin dry क्यों?"), सिर्फ moisturization benefit, 20-30 सेकंड की script।
+- Proof न होने पर risk reversal CTA इस्तेमाल किया: 7 दिन try करो, फर्क न दिखे तो पूरा refund।
+
+### Fashion, fitness और café के उदाहरण
+- Fashion bad script "सबके लिए है" कहती है, कोई specific TG नहीं। "Quality में believe करते हैं" हर brand कहता है, कोई differentiation नहीं।
+- Fashion good version: compliments वाली कहानी, family dinner का social proof, 5-6 दिन का handcrafted piece, कम stock से scarcity।
+- Fitness bad script: obvious hook, nutrition, workout, mindset तीन बातें एक साथ, "life change" का बिना proof claim, और दो CTA (call या DM)।
+- Fitness good version: 4 साल gym postpone करने की first-person story, 20 मिनट घर पर बिना equipment, 90 days का result।
+- Fitness CTA specific audience के लिए है: जिन्हें नहीं पता कहाँ से शुरू करें।
+- Café good version में emotion जोड़ा: नानी की सिखाई 40 साल पुरानी चाय की recipe।
+
+### Script patterns का सार
+- Bad script: generic opening, multiple messages, बिना proof के claim, written language, weak या confused CTA।
+- Good script: specific relatable hook, एक core message, specific proof, spoken language, single CTA।
+
+### Creative diversification
+- Meta के पिछले साल के Andromeda update के बाद targeting कम matter करती है। Creative की messaging, angle और shooting style ज़्यादा matter करते हैं।
+- तरीका: product से जुड़ी audience problems निकालो, हर problem को अलग angle से जोड़कर ad बनाओ, और format अलग रखो।
+    - Formats: UGC, storytelling, ad review, screen recording, before vs after, value-based
+- Similar ads (same angle, messaging, format) Meta एक ही audience को दिखाता है। Ads overlap करते हैं और conversion नहीं आता।
+- एक TG के लिए: problem same, 4 अलग angles, messaging same, format अलग। हर ad अलग audience pool तक पहुँचेगा।
+- अलग-अलग TG के लिए हर audience के हिसाब से problem भी बदलो।
+
+### Practical shoot chapter
+- अगले chapter में एक घंटे के अंदर 6 ad creatives का conceptualization और shoot practically किया जाएगा।
+
+## Transcript
+[00:01] Speaker 1: 13, 4, 27. ಅದನ್ನ ಹೇಳಲಾ, ಕೇಳಲಾ?
+[00:09] Speaker 2:  अब, before we end this module, कुछ ऐसी स्क्रिप्टें देख लेते हैं जिससे आपको समझ आए bad vs good script में क्या difference होता है। तो यहाँ पर मेरे पास एक स्किनकेयर ब्रांड की bad स्क्रिप्ट है, जो start हो रही है: "नमस्ते, मैं हूँ ब्रांड नेम से"—whatever my brand name is। हमारा dash product skin के लिए बहुत ही ज़्यादा अच्छा है, इसमें natural ingredients हैं, ये moisturize करता है, pimples कम करता है, और glow देता है।
+[00:28] Speaker 2:  Price भी बहुत ज़्यादा affordable है, सिर्फ 499। 4.4 reviews हैं, "आज ही order करो, thanks"।
+[00:33] Speaker 2:  अब इसमें गंदा क्यों है ये script, let's understand। "नमस्ते, मैं हूँ ब्रांड से" बहुत possible opening हो सकती है, क्योंकि 2 सेकंड के अंदर-अंदर viewer आपकी वीडियो को easily ऐसे skip कर देगा।
+[00:42] Speaker 2:  Secondly, 5 benefits, वो भी एक साथ, जिसमें आप moisturize, pimple, glow, price, reviews—सारी चीज़ें बता रहे हो, जिससे सामने वाली audience का brain ही overwhelm हो गया और वो समझ नहीं पाया what exactly the video is about, what problem are you trying to cater। Third, written language है, spoken language नहीं है।
+[00:56] Speaker 2:  हम लिखते अलग तरीके से हैं, बात अलग तरीके से करते हैं। कोई ऐसे बात नहीं करता है।
+[01:00] Speaker 2:  Lastly, कोई emotion नहीं है, कोई story नहीं है, कोई connection नहीं है। अगर ये तीन script में नहीं हैं चीज़ें, तो वो script is not a good script।
+[01:06] Speaker 2:  अब इसका better version क्या हो सकता है? Skin moisturize करने के बाद भी dry क्यों लगती है?
+[01:10] Speaker 2:  क्योंकि ज़्यादातर moisturizers सिर्फ surface पर काम करते हैं। Dash product में है deep penetration formula, जो अंदर तक जाता है।
+[01:16] Speaker 2:  7 दिन भी try कर लोगे ना, और अगर फर्क नहीं दिख रहा है, तो मैं आपको genuinely पूरा refund कर दूँगी। आपको link bio में मिल जाएगी।
+[01:22] Speaker 2:  इसमें hook में exact problem statement cover की है। सिर्फ एक benefit की बात कर रही है, that is moisturization।
+[01:28] Speaker 2:  Risk reversal CTA है, मतलब हमने एक proof हमारे पास नहीं है, तो हमने risk reversal CTA का use कर लिया। और 20-30 सेकंड के अंदर ये हमारी script खत्म हो जाएगी।
+[01:35] Speaker 2:  इसके अंदर आप और भी, you know, lines add कर सकते हो। But हमारा यहाँ पर hook और हमारी problem जो थी, वो on point है।
+[01:43] Speaker 2:  Let's see one more script। ये एक fashion e-commerce के लिए है।
+[01:47] Speaker 2:  "Hi friends, देखो हमारा नया collection आ गया है। ये बहुत ही stylish है, और ये सबके लिए है।
+[01:51] Speaker 2:  हम quality में believe करते हैं, dress बहुत comfortable है, और occasions के लिए perfect है। आज ही order करो और free delivery पाओ।
+[01:57] Speaker 2:  हमारी website को visit करो।" Same समझ रहे हो?
+[02:00] Speaker 2:  Force, fake, cringe—हो क्या ये? सबके लिए है, nobody feels spoken to, because आप किसी specific TG को target नहीं कर पा रहे हो।
+[02:06] Speaker 2:  Quality में believe करते हैं, क्योंकि हर brand ये कहता है, तो हमारे पास कोई differentiation नहीं बचा। और बहुत ही ज़्यादा generic है, ये कोई भी brand इस script को use कर सकता है।
+[02:13] Speaker 2:  आपकी कोई differentiation नहीं निकलकर आ पा रही है। इसका एक good version क्या हो सकता है?
+[02:17] Speaker 2:  मुझे किसी भी dress में इतनी ज़्यादा compliment नहीं मिली, जितनी इस dress में मिली है, वो भी सिर्फ एक party में। Pooja ने इसे family dinner में पहना, और 3-4 लोगों ने पूछ लिया, "भाई, कहाँ से है?"
+[02:27] Speaker 2:  Look at the design, look at what I have created. We took, you know, almost 5-6 days to build this piece, and it's all worth it because we have created something which is a masterpiece in 2026।
+[02:39] Speaker 2:  बहुत ही कम stock है, order yours now। तो this is a good script, because specific है, relatable, social proof है, situation है, handcrafted, limited pieces, scarcity—ये सारी चीज़ें हमने add करी हैं।
+[02:48] Speaker 2:  That's why this is called a good script। एक और example देखते हैं।
+[02:51] Speaker 2:  "क्या तुम fit रहना चाहते हो? हमारे fitness program के साथ अब ये possible है।
+[02:54] Speaker 2:  हमारे expert trainers हैं, जो तुम्हें guide करेंगे। हम nutrition, workout, और mindset तीनों पर focus करते हैं।
+[02:59] Speaker 2:  अगर तुम अपनी life change करना चाहते हो, तो आज join करो, call करो, या DM करो हमें।" Okay?
+[03:04] Speaker 2:  "क्या तुम fit रहना चाहते हो?" सबको fit रहना है, बहुत ही obvious है, कोई specificity नहीं है।
+[03:08] Speaker 2:  Nutrition plus workout for mindset—फिर से तीन चीज़ें एक बार आ गईं, हमें सिर्फ एक पर बात करनी है। "Life change करना चाहते हो?"
+[03:14] Speaker 2:  बहुत बड़ा claim है, कोई proof नहीं है उस claim का। "Two call to actions?"
+[03:17] Speaker 2:  Call करो या DM करो, too confusion create कर रहा है, you need to use always one call to action। इसका good version क्या हो सकता है?
+[03:22] Speaker 2:  "मैं पिछले 4 साल से gym join करना postpone कर रहा था। डर नहीं था, बस सोचता था यार पता नहीं कैसे करूँ और कहाँ से करूँ।
+[03:28] Speaker 2:  लेकिन फिर मैंने पहले दिन बहुत ही ज़्यादा simple रखा, 20 मिनट घर पर, बिना किसी equipment के, ये वाला program try out किया। और आज 90 days हो गए हैं, and मैं रुकना नहीं चाहता, because मेरी body पर genuinely बहुत अच्छा response दिख रहा है।
+[03:40] Speaker 2:  And if you—अगर आपको भी लगता है कि start करना मुश्किल है, ये आपके लिए है, आपको link नीचे मिल जाएगी। First-person story है, relatable है, honest है, human written लग रही है।
+[03:48] Speaker 2:  कोई specific barrier हमने address किया है कि शुरू कहाँ से करूँ। 20 मिनट घर पे, no equipment, जिससे ये add बहुत ज़्यादा effortless लग रहा है।
+[03:55] Speaker 2:  मतलब सामने वाले बंदे को कोई effort नहीं मारना पड़ेगा। और CTA एक specific audience के लिए है कि अगर आपको पता नहीं है कहाँ से start करना है, तो ये आपके लिए है।
+[04:03] Speaker 2:  "आओ dash café में। हमारा café बहुत अच्छा है और खाना delicious है।
+[04:06] Speaker 2:  हम fresh ingredients use करते हैं, हमारा ambience भी बहुत ज़्यादा अच्छा है। Breakfast, lunch, और dinner सब कुछ serve करते हैं।
+[04:11] Speaker 2:  Family or friend के साथ आओ और enjoy करो।" मुझे बताने की ज़रूरत नहीं है why this is a bad script, I think अब तक आप लोग समझ गए होंगे।
+[04:16] Speaker 2:  Good क्या हो सकती है? ये चाय 40 साल पुरानी recipe से created है, हमारी नानी ने सिखाया था, and मैं उनसे better नहीं बना सकती, but some recipes are something that you care about।
+[04:26] Speaker 2:  तो इसमें हमने क्या add किए हैं? Emotions।
+[04:28] Speaker 2:  And that's why this script is good। कुछ न कुछ आपको add करना पड़ेगा हर एक script में, ताकि लोगों को लगे कि this is something that they need to watch।
+[04:35] Speaker 2:  तो patterns: bad script, generic opening, multiple messages, बिना proof के कोई भी claim करना, written language में लिखना, और weak और confused call to action। Good script: specific, relatable hook, एक core message, specific proof, spoken language, और एक single call to action।
+[04:49] Speaker 2:  अगर आप इतनी चीज़ें भी कर लेते हो, तो I'm 100% sure आपकी script automatically बहुत ज़्यादा अच्छी हो जाएगी। तो I hope आपके basics clear हो गए होंगे कि किस तरीके से हम script लिखते हैं, और किस तरीके से उन्हें और भी ज़्यादा better बनाते हैं।
+[05:01] Speaker 2:  अब हम next chapters में कुछ बहुत सारी चीज़ें ऐसी हैं जो practically करने वाले हैं, and I think it's going to blow your mind। मिलते हैं next chapter में, bye bye।
+[05:13] Speaker 2:  Hi everyone, welcome to a new chapter, and ये एक बहुत छोटा सा chapter होगा, but बहुत important chapter है, जो kind of add creative सिखाने के बारे में नहीं है, but I wanted to cover this out, because कई बार क्या होता है ना, आप ads बनाते रहते हो, उसके बावजूद भी आपको result नहीं आते हैं। That's why जहाँ पर अभी मैं आपके साथ बात करने वाली हूँ creative diversification की, जिसको मैं आपको बहुत ही simple भाषा में explain करने की कोशिश करूँगी, what exactly it is।
+[05:33] Speaker 2:  देखो, Meta में अभी ना last year Andromeda update बोल के एक update आया था, जिसका बहुत ही simple सा मतलब था कि अब targeting आप जो करते हो अपने ad creatives पर, उस पर ज़्यादा focus नहीं किया जाएगा। आपके ad creative में आप क्या बोल रहे हो, उसकी messaging क्या है, उसका angle क्या है, किस तरीके से आपने उसको shoot किया है, ये सारी चीज़ें आजकल उसमें बहुत ज़्यादा matter करने लगी हैं।
+[05:53] Speaker 2:  And that's why आपने मान लो ad creative बनाए, Meta पर आपने करीबन उसे 5-10 दिन के लिए run किया, but आपको उस पर result नहीं आए, हो सकता है आपने इस एक strategy का use नहीं किया हो। मैं basically बात कर रही हूँ creative diversification की, जो समझना आपके लिए बहुत ही ज़्यादा important है।
+[06:10] Speaker 2:  Creative diversification basically क्या होता है, जहाँ पर आप अपने, like for example, एक हम यहाँ पर लेते हैं product, like this is my product, ठीक है। आपको सबसे पहले क्या करना है, उस product के around जितनी भी problems audience को face होती हैं, वो problems figure out करनी हैं।
+[06:24] Speaker 2:  Like for example, problem A, problem B, problem C, problem D, ठीक है। अब उन problems के around आपको angles चाहिए। 
+[06:31] Speaker 2: ठीक है, angles क्या हो सकता है, like for example, A angle, B angle, C angle। मैं आपको angle already समझा चुकी हूँ, ये A, B, C, ठीक है। अब उसके बाद आप क्या करते हो, इन इस problem को इस angle के साथ जोड़ के एक ad create करते हो।
+[06:44] Speaker 2:  इस problem को इस angle के साथ जोड़ के एक ad create करते हो। इस problem को इस angle के साथ जोड़ के एक ad create करते हो।
+[06:49] Speaker 2:  और ज़रूरी नहीं कि आप ये जो तीन ad हैं, ये सारे के सारे same format में create करो, कि आपने सारे UGC create कर लिए हैं। आप इन तीनों का format अलग-अलग रखो, जैसे ये वाला UGC किया तो ये storytelling कर लिया, ये वाला मैंने ad review type कर लिया।
+[07:03] Speaker 2:  और इसी का use करके आप creative diversification लेकर आते हो। तो creative diversification का मतलब basically ये होता है कि आप अपने product के around बहुत सारे ads जो बना रहे हो, उन ads को same न रखे, diversified ads बनाओ।
+[07:15] Speaker 2:  Like आप UGC बनाओ, आप storytelling ads बनाओ, आप screen recording ads बनाओ, आप before vs after बनाओ, आप value-based ads बनाओ, लेकिन अपने ad creative को same मत रखो। Because अगर आप अपने ad creative को same रखते हो, इसके पीछे बहुत simple सी psychology काम करती है।
+[07:29] Speaker 2:  Like आज का जो वो होता है ना, basically जो हमारा algorithm होता है, वो कैसे काम करता है, मैं एक बार आपको बताती हूँ। मैंने मान लो ये ad creative बनाया, ठीक है, ये मेरा ad 1, ad 2, ad 3।
+[07:40] Speaker 2:  इस ad creative को मैंने Meta पर launch कर दिया, and ये तीनों ad creative एकदम similar हैं, तीनों UGC ads ही हैं। अब इनको मैंने क्या किया, Meta पर run किया, तो मैंने notice किया कि मेरे को सिर्फ इस ad में अच्छी performance आ रही है, इन दोनों ad में अच्छी performance आ ही नहीं रही है।
+[07:54] Speaker 2:  And इसके पीछे का reason बहुत simple सा हो सकता है, क्योंकि आपका जो तीनों ad था, उस तीनों ad का जो angle था, वो भी same था, messaging थी, वो भी same थी। तो उसने Meta ने क्या किया, आपके तीनों ads सिर्फ एक ही audience को दिखा दिए।
+[08:05] Speaker 2:  अब एक ही audience को वो same ad दिखा रहा है, जिसकी वजह से आपके ये सारे जो ads अब जिस TG को पहुँचाते थे, basically target audience को, उन तक पहुँच नहीं पा रहा है, because वो देखने में बहुत ज़्यादा similar लग रहे हैं, और वो एक ही audience को दिखा रहा है। तो ये एक दूसरे में overlap हो रहे हैं, ad 1, ad 2, ad 3, एक दूसरे में overlap हो रहे हैं, जिससे finally आपको कोई ढंग की conversion आ नहीं रही है।
+[08:23] Speaker 2:  And that's why मैंने आपको इस curriculum में इतने सारे different type of ad formats बताए हैं, ताकि आप भी creative diversification maintain कर सको, because आज के time पर वही सबसे ज़्यादा important चीज़ हो चुकी है। तो आपको make sure करना है कि जब भी आप कोई नया ad बनाओगे, तो creative diversification maintain करने के लिए, आप जैसे ये A1, A2, A3, आपको चार ad बनाने हैं, ठीक है।
+[08:42] Speaker 2:  इनकी problems same हो सकती हैं, अगर आपको एक TG को cater करना है, अलग-अलग TG को करना है, तो आप सबकी problem भी different रखोगे। But मान लो आपने इनकी problem same रखी, ठीक है।
+[08:51] Speaker 2:  इसके बाद आपने इनके angle different रखे, like this is angle 1, 2, 3, 4, ठीक है। Messaging same रखी, and at the end of the day, जो इसका ad format है, वो different रखा।
+[09:02] Speaker 2:  तो इससे क्या होंगे, ये चारों ads थोड़े-थोड़े different हो जाएंगे। अगर आपको एक audience को cater करना है, तो ये अलग-अलग pool of audience को दिखेगा।
+[09:08] Speaker 2:  अगर आपको अलग-अलग audiences हर एक ad में cater करनी है, तो आप इनकी problems change कर दीजिए। हर एक audience के हिसाब से different problem define कर दीजिए, ताकि आपकी creative diversification maintain हो सके।
+[09:17] Speaker 2:  ये chapter मैं सिर्फ इसलिए include कर रही हूँ, ताकि आपको पता चले कि आज के time पर ad जो बना तो लेते हो, लेकिन perform नहीं करते, उसके पीछे का reason क्या है। Obviously, अगर आप Meta ads सीखना चाहते हो, तो मेरा already एक curriculum है, आप उसे definitely check out कर सकते हो, because वहाँ पर मैंने in-depth Meta ads के बारे में बात करी है।
+[09:30] Speaker 2:  But ad creatives में भी ये जानना बहुत ही ज़्यादा important है। I hope आपको समझ आ गया होगा, creative diversification कैसे create करते हैं।
+[09:36] Speaker 2:  And now we are coming to the second last chapter, जहाँ पर we will learn how to create ads practically। तब तक के लिए, bye bye।
+[09:50] Speaker 1:  Harshit, before we start, do you have anything to say?
+[09:55] Speaker 2:  Yes, all the best।
+[09:56] Speaker 1:  Thank you। तो guys, आज हम लोग total 6 ad creatives shoot करने जा रहे हैं, एक घंटे के अंदर-अंदर, जिसमें conceptualization, shoot, and।

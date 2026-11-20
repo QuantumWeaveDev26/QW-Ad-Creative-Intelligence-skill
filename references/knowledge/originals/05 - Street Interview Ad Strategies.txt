@@ -1,0 +1,699 @@
+# Street Interview Ad Strategies
+
+## Summary
+### Flow Summary
+आठ high-converting Meta ad structures समझाए गए (street interview, mini drama, calling out, first person POV, in office, ad review, Ask Me Anything, storytelling), हर एक का structure, कारण और उपयुक्त industries के साथ।
+
+### Street Interview Ads
+- Random person से street में question पूछा जाता है; ad fake (scripted) भी हो सकता है, पर देखने में real लगना ज़रूरी है, वरना conversions नहीं आते
+    - Answer देने वाला stranger या teammate ही ad है, host सिर्फ question पूछता है
+- क्यों काम करते हैं: relatable लोग पर trust, कई unconnected लोगों का same POV (volume), real time discovery और local proof
+- काम करने वाले formats: price guess, blind test, awareness question, spend confession, opinion poll, reaction reveal
+    - Example: "इसका cost कितना होगा?" फिर reveal कि सिर्फ 999 rupees
+- Structure: question, 3-4 quick montages, wrong और right answers, product reveal, reaction, simple या optional CTA
+    - Eyewear example: सबने 2500 से ऊपर बोला, reveal सिर्फ 899
+- Best industries: eyewear, watches, accessories, perfumes, food/FMCG, local services, fashion, fintech, edtech; skin care, healthcare, B2B में कम
+- Tips: 5 में से 3 agreements और 2 disagreements दिखाएँ ताकि realistic लगे; CTA subtle रखें
+
+### Mini Drama Ads
+- 60 seconds जैसे short scripted serials (Pocket FM, Kuku FM जैसे): multiple characters, conflict, resolution, product बीच या end में
+- Professional B-roll ads से अलग हैं क्योंकि इनमें story होती है; audience story पर focus करती है और pitch बिना एहसास के सुन लेती है
+- Rules: पहले 3 seconds में hook, recognizable recurring characters, product as resolution
+- Story templates: The Deadline, Judgement, Reversal, Reveal, Comparison, Sacrifice; अन्य: दो दोस्त, family, work, misunderstanding, time jump
+- Structure: conflict (hook), stakes, turning point, product से resolution, CTA
+    - Example: shirt पर चाय, 15 मिनट में client presentation, roommate का stain spray
+- Mini drama ads Meta पर लंबे format चला सकते हैं; एक example 26 minutes का था
+- AI (Claude, ChatGPT) से मदद ले सकते हैं, पर exact script न लें क्योंकि AI आपका product आपसे बेहतर नहीं जानता
+
+### Calling Out Ads
+- Camera के पीछे वाला person नाम लेकर, shoulder tap करके या question पूछकर किसी को call out करता है, जैसे "are you a small business owner?"
+- Specific audience automatically filter होती है, जिससे ad cost कम रहती है; TOFU, MOFU, BOFU तीनों में काम करता है
+- Content educational या infotainment होना चाहिए, ज़्यादा fun नहीं; viewer की नज़र बोलने वाले person पर fix रहती है
+- Structure: call out, problem पर question, answer, दूसरा problem, solution, subtle CTA
+- Best: B2B, edtech, local services, courses/skills, travel; mother-son जैसे duo formats भी अच्छे convert करते हैं
+
+### First Person POV Ads
+- Viewer के POV से shoot, कोई person नहीं दिखता, सिर्फ hands और voice over; Meta glasses आने के बाद यह format बढ़ा है
+- Convert करते हैं: direct demonstration से trust, presenter न होने से negative comments कम, buying pressure कम
+- Camera viewer की eye level पर, product consistent POV में, ज़्यादा movement या cuts नहीं
+- Structure: hook (visual या verbal), product/service in action, CTA; production cost बहुत कम, phone, GoPro, DJI action camera से shoot
+- Formats: routine, unboxing/setup, task completion, workday, shopping trip, order fulfillment; MOFU और BOFU audience के लिए अच्छे
+
+### In Office Ads
+- Real workplace या warehouse में shoot; office दिखने से proof, authenticity और process transparency बढ़ती है
+- यह एक format है जिसमें UGC, storytelling या कोई भी ad type integrate हो सकता है
+- Example: warehouse से रोज 400 orders dispatch, pickup, pack, label और quality check दिखाना
+- Best: D2C, manufacturing, cloud kitchens, agencies, local retail/showrooms, repairs/workshops; founder या employee खुद shoot करें
+
+### Ad Review Ads
+- कोई person आपके ad को देखकर review करता है, product मंगाता है, test करके opinion देता है; usually fake बनाया जाता है
+- अपने ad या customer testimonial को review करवाना सबसे authentic; competitor ad review में safety issues हो सकते हैं
+- Structure: ad दिखाना, कहाँ मिला, test, review/verdict, should you buy it, CTA
+- E-commerce (jewelry, fashion, home decor, home utility) और tech में सबसे अच्छा
+
+### Ask Me Anything Ads
+- Instagram के AMA sticker के साथ founder, teammate, customer या creator एक real question का answer देता है; sticker template से fake भी कर सकते हैं
+- Retargeting और MOFU audience के लिए; एक बार में 10-12 shoot हो सकते हैं, जिससे volume और जल्दी analysis संभव
+- Questions के sources: comments, WhatsApp/DMs, sales calls, support tickets, story AMAs, Google search suggestions, competitor comments
+- Structure: question पढ़ें, answer, product pitch, proof/credibility, CTA; best: courses, skin care, SaaS, fashion, services
+
+### Storytelling Ads
+- Product से जुड़ी real या hypothetical story; mini drama से अलग क्योंकि personal story और single narrator चल सकता है
+- Emotion और कम buying pressure से perform करते हैं; conversion न भी दें तो brand value बढ़ाते हैं
+- Anatomy: story ढूँढें, relatable hook, engaging story, subtle CTA
+    - Example: customer ने boyfriend को moisturizer gift किया, brand ने उसे unisex बना दिया
+- Formats: camera पर बैठकर, चलते हुए, voice over पर B-roll, पुरानी photos, message पढ़कर, किसी और की story
+- Best: founder-led D2C, services/agencies, food/beverages, courses/coaching, handmade/craft, local services
+
+## Transcript
+[00:03] Speaker 1: सी बात है कि, उhm, जैसे कस्टमर रिव्यूज़ के ऐड होते हैं, लोग कस्टमर रिव्यूज़ ऐड की बहुत अच्छी तरीके से बात कर ली है। Next, we'll be talking about one more high-converting ad structure, which is called street interview ad. अब देखो, आपने ना Instagram पर बहुत सारी ऐसी वीडियोज़ देखी होंगी, जहाँ पर एक random person किसी के पास street में जाता है और उससे कुछ questions पूछता है, and वो जो stranger होता है, उसका answer देता है।
+[00:24] Speaker 1:  अब point ये आता है कि अगर आपको ये style के ads अपने brand, या फिर business, या फिर as a performance marketer किसी को suggest करने हैं, तो guarantee नहीं है कि वो ये जो चीज़ है, इसको pull off कर लेगा, obvious सी बात है। तो कई बार ऐसी situations में ना, आप इसे fake करते हो।
+[00:37] Speaker 1:  आप या तो fake street interview ad create कर सकते हो, या इसे genuinely real में कर सकते हो। अगर आप इसे real में करते हो, तो obviously जो सामने वाले question का answer देगा, ज़रूरी नहीं है आप उसे अपने ad में देख सको या फिर use कर सको।
+[00:47] Speaker 1:  लेकिन अगर आप fake करते हो, तो आप उसकी proper scripting कर सकते हो, and then उसके बाद उस interview को shoot करके live कर सकते हो। अब, wo- जैसा podcast style में, मैंने आपको पहले भी बताया था कि जैसे podcast style ads को आप बहुत ज़्यादा fake भी बनाओगे ना, जैसे for example उसकी scripting भी करी आपने, setup भी की है, but वो देखने में fake नहीं लगना चाहिए।
+[01:03] Speaker 1:  Same style में आपका street interview ad होना चाहिए। आप उसे भले ही fake बना रहे हो, लेकिन वो देखने में fake नहीं लगना चाहिए।
+[01:08] Speaker 1:  अगर ऐसा लग रहा है सामने वाली audience को कि आप जाके किसी से question पूछ रहे हो, वो जब answer कर रहा है, तो वो देखने में बहुत ज़्यादा fake है, या फिर ऐसा लग रहा है कि ये इन्होंने genuinely नहीं किया है, तो उस पर conversions नहीं आएगी। Street interview style ads should look real, जिससे conversions आपकी better हो सकें।
+[01:21] Speaker 1:  मतलब ये basically ऐसे ads होते हैं, जहाँ पर आप किसी unknown person से कुछ question पूछते हो, और वो answer करता है public में। इसमें ना बहुत सारी चीज़ें, as a matter of fact, important होती हैं।
+[01:30] Speaker 1:  पहली बात तो, जो stranger आपका answer कर रहा है, वो ही ad है। आप as a host सिर्फ question पूछते हो, आपका stranger या जो भी आपका teammate है, जो answer करता है, वही define करता है whether आपको अच्छी conversions आएँगी कि नहीं आएँगी।
+[01:42] Speaker 1:  And that's why तीन चीज़ें बहुत ही ज़्यादा matter करती हैं। सबसे पहला, कि strangers आप लो, लेकिन make sure करिए वो जो strangers हैं, वो genuinely—अगर आप मान लो strangers नहीं लेना चाहते हो, आपके कोई teammates हैं, friends हैं, तो वो जो act कर रहे हैं, वो real act करें।
+[01:55] Speaker 1:  अगर fake act करेंगे, तो वो sense नहीं बनाएगा। Second, सिर्फ एक question ही करो।
+[02:00] Speaker 1:  आपने कई सारे street interview style ads देखे होंगे, उसमें ऐसे वीडियो start होती है कि एक बंदा गया, उसने एक बंदे से question पूछा, उस question का जो उसने answer दिया, उसका शुरू का जो तीन second है, वो एकदम crazy तरीके से दिखाया गया, फिर उसका वही दूसरे person का answer दिखाया गया तीन second में, और ऐसे cut short clips होती हैं, और उसके बाद वीडियो start होती है ताकि एक engagement maintain हो सके। तो ये दो चीज़ें आपको make sure करनी हैं।
+[02:19] Speaker 1:  अब next part आता है कि क्यों ये perform करते हैं। देखो, बहुत simple सी बात है कि, uhm, जैसे customer reviews के ad होते हैं, लोग customer review ad पर क्यों trust करते हैं?
+[02:27] Speaker 1:  Because वहाँ पर कोई founder, कोई teammate, या फिर brand से associated कोई बंदा बात नहीं करता है product के बारे में। कोई random person करता है, ऐसा person जो आपकी potential audience से relate करता है, and जब वो relate करता है, तो सामने वाले लोग उसको trust करते हैं, because वो भी same situation को face कर रहे हैं।
+[02:43] Speaker 1:  And ऐसे ही same चीज़ आपके street interview ads में भी है। अगर आप किसी random person से question पूछ रहे हो, उस question के answer में आप कुछ twitch कर रहे हो, या फिर कुछ भी कर रहे हो, तो लोगों को उन पर trust होता है, because वो same situation से गुज़र रहे होते हैं।
+[02:54] Speaker 1:  Second, आपको पता है सबसे बड़ा reason क्या होता है? आप इसमें volume create कर सकते हो।
+[02:58] Speaker 1:  And volume मैं ad creatives के मामले में नहीं कह रही हूँ। जैसे for example, मैंने एक street interview style ad create किया, उस ad में basically मैंने एक, दो, तीन, मान लो चार लोगों से question पूछा।
+[03:09] Speaker 1:  उन चार लोगों के POVs same निकले। तो मैं as a person, मेरा एक different POV हो सकता है, लेकिन अगर मेरे जैसे और छह लोगों का same POV होगा, तो लोगों को लगेगा कि exactly ये छह लोग अगर कोई चीज़ बोल रहे हैं, तो वो genuinely सच्ची होगी।
+[03:21] Speaker 1:  तो जैसे मैंने यहाँ पर mention किया है कि, uhm, कोई person कुछ कह रहा है, वो opinion होता है, लेकिन five unconnected people saying the same thing in a row reads as fast about the world। मतलब पाँच से छह लोग अगर same चीज़ पर agree कर रहे हैं, तो obviously वहाँ पर लोगों को उस चीज़ पर trust ज़्यादा होता है।
+[03:35] Speaker 1:  And third is discovery in real time। आप अगर कोई normal type का ad shoot करते हो, उसमें आपका पूरा, uhm, setup होता है, जो लोगों को अलग से दिखता है।
+[03:42] Speaker 1:  लेकिन जब discovery real time में होती है, like आप किसी के पास randomly गए, randomly किसी ने, पाँच लोगों ने same answer कर दिया, वो same answer से आपका product आ गया, तो फिर वो ना, लोगों को लगता है कि यार ये तो real time discovery है, like वीडियो चालू हुआ और वीडियो के अंदर ही इन्होंने ये discover किया, ऐसा नहीं लगा कि आपने pitch करने के लिए वो वीडियो को create किया है। And साथ ही साथ local proof रहता है।
+[04:00] Speaker 1:  अगर आप किसी random street में कहीं पर भी कुछ shoot कर रहे हो, तो लोगों को already एक proof, trust feel होने लगता है। Because कई बार ऐसा होता है ना, कोई ऐसा brand है जिसके दस-बारह followers हैं, वो AI का use करके ads run कर रहा है, तो वो देखने में trustable नहीं लगते।
+[04:11] Speaker 1:  लेकिन अगर वही brand बाहर जाके street interview style ads shoot कर रहा है, अपना face दिखा रहा है, strangers का face दिखा रहा है, तो obviously एक connection build होता है। अब देखो, कुछ ऐसी चीज़ें होती हैं जो street interview style ads में बहुत ज़्यादा काम कर रही हैं इस समय में।
+[04:22] Speaker 1:  कुछ ऐसे questions हैं जो आप अपने product में integrate कर सकते हो, जिसमें सबसे पहला आता है, "How much do you think this costs?" आपने बहुत सारे ऐसे videos देखे होंगे, जहाँ पर एक बंदा जाता है, एक product उसके हाथ में रहता है, like for example this है, और जाके पूछता है, "What do you think, uh, इसका cost कितना होगा?"
+[04:34] Speaker 1:  Multiple लोगों से answers मिलते हैं, finally वो reveal करता है कि no, whatever, अगर आप पाँच हज़ार सोच रहे थे, तो this is just 999 rupees, and इस पर अभी offer भी चल रहा है, and then you pitch your product. तो ये वाले type of ad बहुत ज़्यादा convert कर रहे हैं।
+[04:45] Speaker 1:  Second, blind test। अगर आपका ऐसा product है, specially FMCG का product है या ऐसा कुछ है, तो आप definitely blind test कर सकते हो, जहाँ पर आपने सामने वाले को बोला, if उनकी आँखें बंद करवाईं और आपने उसको दो product दिए और बोला कि इन दोनों में से आप कौन सा prefer करना चाहोगे।
+[04:57] Speaker 1:  तो ये वाला style of ad भी इस समय बहुत ज़्यादा काम कर रहा है। एक होता है awareness kind of, जहाँ पर awareness kind of question पूछते हो, like for example कि आप बता सकते हो कि इसमें कौन-कौन से ingredients मिले हुए हैं।
+[05:07] Speaker 1:  तो ऐसे questions भी बहुत ज़्यादा चलते हैं। एक होता है spend confession, like for example आप हर महीने अपने protein supplement पर कितना spend करते हो, या फिर आप हर महीने gym में कितना, uhm, gym membership में कितना spend करते हो, या अपने खाने में कितना spend करते हो, और उसके बाद फिर आप, होता है ना, अपने brand को easily integrate कर सकते हो।
+[05:22] Speaker 1:  उसके बाद होता है opinion poll। Like for example आप एक सामने वाले चार-पाँच लोगों से एक opinion ले रहे हो किसी चीज़ को लेकर, for example ऐसा हो सकता है कि आपको पूरे दिन में one of the most annoying part कौन सा लगता है।
+[05:33] Speaker 1:  तो ये वाले type of questions भी बहुत ज़्यादा चलते हैं। और The last one is reaction reveal.
+[05:37] Speaker 1:  आप उनको एक चीज़ दोगे, like for example, uhm, ये आपके लिए है, आप बताइए कि इसका cost कितना होगा। उसने बोला कि, uhm, "I don't know, maybe 5000 rupees?"
+[05:45] Speaker 1:  तो आप फिर उसको as an answer बोलोगे, "No, this just costs 999 rupees." और फिर आप उसका reaction capture करते हो।
+[05:51] Speaker 1:  तो इस तरीके के street interview formats अभी बहुत ज़्यादा काम कर रहे हैं। Make sure आप इसमें से एक से दो तो definitely try out करो।
+[05:57] Speaker 1:  अब आता है कि आप इसको record कैसे करते हो, इसका structure कैसे होता है, इसकी scripting कैसे करोगे। बहुत ही simple है।
+[06:02] Speaker 1:  सबसे पहले, you will have to figure out a question. क्या question आपको सामने वाली audience से पूछना है?
+[06:06] Speaker 1:  क्या वो, uhm, awareness के लिए होना चाहिए, react करवाने के लिए होना चाहिए, etcetera etcetera, आप कोई भी question decide कर सकते हो। जब question decide हो गया ना, तो आपको फिर next script में तीन-चार छोटे-छोटे quick montages लगाने हैं कि क्या reaction मिला लोगों से।
+[06:21] Speaker 1:  उसके बाद आप लगा सकते हो कई लोगों के wrong answers, कई लोगों के right answers, और उसके बाद reveal लगाओगे, like यहाँ पर आपका product integrate होगा, और उसके बाद आप उस product पर reaction लगाओगे, and then आप एक बहुत ही simple CTA दोगे। बहुत simply इसे याद करने की कोशिश करिए।
+[06:33] Speaker 1:  सबसे पहले हम एक question ढूँढते हैं। उस question के हमें जो सबसे best answers मिले हैं, उन answers को आप छोटा-छोटा part में cut करके उसके बाद use करो।
+[06:39] Speaker 1:  उसके बाद आप फिर wrong answers और right answers का एक mix ऐसे लगा दो। और उसके बाद फिर आप reveal करो कि exactly उस problem को क्या product solve करता है।
+[06:47] Speaker 1:  And उसके बाद उस product reveal पर आप अपनी audience का reaction लो। And आप subtle call to action देते हो तो भी ठीक है, नहीं देते हो तो भी ठीक है, दोनों ही street interview style ads में बहुत easily काम कर जाते हैं।
+[06:56] Speaker 1:  For example, eyewear brand है। एक बंदा गया, उसने पूछा, "ये चश्मा देख के बताइए कितने का लगता है?"
+[07:01] Speaker 1:  Uhm, वो तीन ऐसे छोटे-छोटे clips आ गए, जहाँ पे एक बंदा बोल रहा है, "3000? 4000 तो होगा।"
+[07:06] Speaker 1:  कम से कम 2500 रुपये। उसके बाद कुछ wrong answers।
+[07:08] Speaker 1:  सबने 2500 से ऊपर ही बोला, एक भी नीचे नहीं गया। Reveal: "ये सिर्फ 899 का है, same lens material, same to same frame।"
+[07:14] Speaker 1:  Reaction: "सच में? देखने में तो बिल्कुल भी नहीं लग रहा यार।"
+[07:17] Speaker 1:  और call to action पे, "घर पर try करके देख लो, link bio में है।" आप चाहो तो ये CTA use कर सकते हो, चाहो तो नहीं use कर सकते हो, because आपकी जो strangers होते हैं, वो already उस समय तक आपकी audience को convert कर चुके होते हैं।
+[07:26] Speaker 1:  मैं आपको ये already बता चुकी हूँ कुछ ऐसे questions जो आपको use करने चाहिए, like for example, "ये कितने का है?" "आपने last time ये कब किया था?"
+[07:33] Speaker 1:  "इसका exactly meaning क्या होता है?" "इन दोनों में से better कौन सा है?"
+[07:36] Speaker 1:  "How much do you spend on this monthly?" "आपका दिन का सबसे annoying part आपको कौन सा लगता है?"
+[07:40] Speaker 1:  क्या आप इन दोनों के बीच में difference बता सकते हो? या फिर क्या आप इसके लिए pay करोगे?
+[07:44] Speaker 1:  ये कुछ ऐसे questions हैं जो definitely हर एक industry के लिए चल सकते हैं। तो आप इनमें से कोई भी question को use कर सकते हो।
+[07:51] Speaker 1:  अब कौन सी industries में ये सबसे ज़्यादा काम करता है? सबसे पहला, eyewear, watches, accessory।
+[07:56] Speaker 1:  यहाँ पर मैं perfume add करना भूल गई, perfumes। ऐसी में बहुत अच्छे से काम करता है।
+[08:00] Speaker 1:  Perfumes में तो बहुत crazily काम करता है। आप उन्हें अपने brand का, दूसरे brand का perfume दो, जाकर पूछो कि किसकी fragrance ज़्यादा अच्छी लग रही है।
+[08:06] Speaker 1:  And फिर finally, आपका product इसमें जीत जाए, आप बता दो कि आपने इसमें क्या मिलाया है। And उसके बाद आप अपना subtle call to action दे दो।
+[08:12] Speaker 1:  Food, snacks, beverages, obviously FMCG में बहुत crazy काम करते हैं street interview ads। Local services and retail में भी बहुत अच्छे काम करते हैं।
+[08:18] Speaker 1:  Fashion, apparel, fintech, edtech में, edtech and careers में भी काम करते हैं। बाकी skin care, healthcare, B2B में इतने काम नहीं करते।
+[08:24] Speaker 1:  But शुरू में जो भी consumer brands हैं, अगर आपका product consumer से related है, directly hit करता है, तो इन industries के लिए ये बहुत ही ज़्यादा अच्छे से perform करता है। Now let's look at some of the examples.
+[08:34] Speaker 2:  Uhm, hi, uhm, may I ask you a question?
+[08:36] Speaker 1:  Yeah, sure.
+[08:37] Speaker 2:  Single हो या girlfriend है?
+[08:38] Speaker 1:  Girlfriend है मेरी।
+[08:40] Speaker 2:  ये boy।
+[08:41] Speaker 1:  कहाँ मिले उससे?
+[08:42] Speaker 2:  गया, पर quiet quiet करके वहाँ पर।
+[08:43] Speaker 1:  Oh, तो approximately आज तक कितने dates पे गए हो?
+[08:45] Speaker 2:  शायद तीन।
+[08:46] Speaker 1:  Oh my god, wow.
+[08:49] Speaker 2:  Oh, wow. So अब आपने delete कर दिया या अभी भी है?
+[08:51] Speaker 1:  Delete क्यों करना है, वहाँ पर और भी लड़कियों से बात होती है।
+[08:56] Speaker 2:  That stickers for their siblings. जहाँ पे सारी लड़कियों से उन्होंने बात करी है कि वो अपना। Cut.
+[09:00] Speaker 2:  Ask question in my stated.
+[09:02] Speaker 1:  Hello, किसके साथ date पे जाना पसंद करोगे?
+[09:04] Speaker 2:  ऑलराइट।
+[09:04] Speaker 1:  आपको पता है ये। Just 799.
+[09:06] Speaker 2:  इतना।
+[09:07] Speaker 1:  Testing करी।
+[09:08] Speaker 2:  तो आपका daily source of protein क्या है?
+[09:09] Speaker 1:  दूध, दही, पनीर, ये सब।
+[09:11] Speaker 2:  क्या आप ये daily consume करते हो?
+[09:12] Speaker 1:  Daily तो नहीं हो पाता।
+[09:13] Speaker 2:  तो फिर आप रोज़ दही consume करते हो, फिर रोटी।
+[09:15] Speaker 1:  हाँ।
+[09:15] Speaker 2:  तो आपके हिसाब से एक रोटी में कितना gram of protein होता है?
+[09:18] Speaker 1:  होता होगा 15-20 gram, मतलब कितना?
+[09:20] Speaker 2:  Actually it's just 3 grams of protein.
+[09:21] Speaker 1:  सच में? क्या बात कर रहे हो, सही में?
+[09:23] Speaker 2:  हाँ। इसलिए normal रोटी खाने से आपका daily protein intake complete नहीं होगा।
+[09:26] Speaker 1:  हर कोई यही खा रहा है, और as a vegetarian कोई और option भी तो नहीं है।
+[09:28] Speaker 2:  मेरे पास इसका solution है। इसको आपको अपने normal आटे में mix करना है, और ये आपको three times extra protein देगा।
+[09:32] Speaker 1:  वाह यार, ये तो बढ़िया चीज़ है।
+[09:33] Speaker 2:  लेकिन इसे कहाँ से purchase करना है? ये तो आप रख लो। You also want this, then click the link below.
+[09:38] Speaker 1:  ये भी बहुत simple था, जहाँ पर हम protein के बारे में aware करके simply एक CTA दे रहे हैं। एक ये देख लीजिए, ये वाला हमने।
+[09:43] Speaker 2:  अगर।
+[09:43] Speaker 1:  ये वाला हमने ad पर run करके देखा था, it performed really well for the brand.
+[09:46] Speaker 2:  Excuse me, अगर आपको इस दुनिया में कहीं पे भी घूमने का मौका मिले, तो आप कहाँ जाना चाहेंगे?
+[09:49] Speaker 1:  यार, मैं South America जाना चाहूँगा।
+[09:51] Speaker 2:  Okay.
+[09:52] Speaker 1:  न्यूजीलैंड।
+[09:53] Speaker 2:  और।
+[09:53] Speaker 1:  Japan.
+[09:54] Speaker 2:  All right. So let me ask you a question, and अगर आपने सही जवाब दिया, तो आपके लिए एक बहुत बड़ा prize है।
+[09:57] Speaker 1:  हाँ, हाँ, sure.
+[09:58] Speaker 2:  Okay, so 8 + 9 × 10 + 12 × 0 कितना होता है?
+[10:01] Speaker 1:  Uh, 2000?
+[10:02] Speaker 2:  Wrong answer।
+[10:02] Speaker 1:  मैथ्स नहीं आती भाई मुझे। Uh, zero.
+[10:04] Speaker 2:  सही जवाब। And इसी में आपको मिलता है dream travel की तरफ से आपको एक sponsored travel plan, and वो भी आपकी favorite country में।
+[10:09] Speaker 1:  ये kind of ऐसा था कि इसे funny create करना था, इसमें BGM नहीं लगा, but ये एक हमने globe का इसलिए use किया था ताकि एक visual hook create हो सके। And podcast style में ही हमने वो जो travel agency है, उसको pitch किया है। तो ये कुछ ad creatives थे, जिससे आपको समझ आ गया होगा कि किस तरीके से street interview shoot किया जाता है।
+[10:25] Speaker 1:  अब कुछ चीज़ें जो आपको ध्यान में रखने की ज़रूरत होती हैं। Always make sure करिए कि जो सामने वाला बंदा बात करने वाला है, वो बिल्कुल भी fake act ना करे।
+[10:31] Speaker 1:  देखने में लगना चाहिए कि वो exactly कोई उस पर अचानक से, अचानक से, you know, conversation करने आया है। Otherwise वो ad convert करके नहीं देगा।
+[10:38] Speaker 1:  सिर्फ और सिर्फ agreements मत दिखाओ कि सब लोग आपके product से agree कर रहे हैं। कुछ disagreements भी दिखाओ।
+[10:42] Speaker 1:  But most, मतलब for example, पाँच लोग हैं, तो पाँच में से तीन लोगों का agreement दिखाओ, दो लोगों का disagreement दिखाओ। लेकिन disagreements दिखाना भी important होता है, तभी वो realistic feeling देते हैं।
+[10:50] Speaker 1:  And also आप make sure करिए कि आप एक-दो से ज़्यादा questions पूछ रहे हैं, ताकि अपनी conversation को continue कर सकें। आप अपने CTAs को जो हैं, वो subtly integrate कर सकते हो।
+[10:59] Speaker 1:  आप simply नहीं चाहो तो नहीं भी कर सकते हो, because लोग वो काम आपके लिए कर देते हैं। And अगर आप इतना भी कर लेते हो, तो आप अपने लिए बहुत ही crazy street style interview ad बना पाओगे।
+[11:07] Speaker 1:  अब हम move on करेंगे next chapter में, जहाँ पर हम एक और high converting ad structure की बात करेंगे। तब तक के लिए, bye-bye।
+[11:13] Speaker 1:  एक turning point आता है, वो turning point से आपका product से उसे results। Last chapter से आप ये तो सीख गए होंगे कि street interview ads create कैसे किए जाते हैं।
+[11:20] Speaker 1:  Now we will be talking about कि एक और ad का structure जो इस समय बड़े से बड़ा brand use कर रहा है। And ये इसके जैसे conversions literally कोई भी type of ad नहीं लाकर दे सकता है।
+[11:29] Speaker 1:  And मैं बात कर रही हूँ mini drama ad की। आपने mini drama पता नहीं सुना है कि नहीं सुना।
+[11:33] Speaker 1:  आपने micro drama hundred percent सुना होगा। And आप कुछ platforms भी जानते होंगे, जैसे आपने Pocket FM सुना होगा, Kuku FM सुना होगा, और एक और बड़ा ही famous Asian brand है जो ऐसे mini dramas launch करता है।
+[11:44] Speaker 1:  Basically ये क्या होते हैं, ये 60 seconds के छोटे-छोटे serials होते हैं, जो जिस पर आजकल लोग बहुत ही ज़्यादा hooked हैं। Like, उसमें लोगों की इतनी ज़्यादा attention grab हो रही है कि वो लोग app पर sign up कर करके, कर करके पूरे series को complete कर रहे हैं।
+[11:57] Speaker 1:  तो इस समय, like 2026 या 2028, 2029 में भी ये बहुत ज़्यादा चलेगा, because ये अभी just boom up हो रहा है। और बहुत सारे brands इसे ad में already use करने लगे हैं।
+[12:06] Speaker 1:  And it's high time कि आप ऐसे जो formats हैं, इनको भी definitely try out करो। तो mini drama ad basically क्या होते हैं, कि short scripted scenes होते हैं, जहाँ पर multiple characters होते हैं, कुछ conflict होती है, जिसका resolution मिलता है, और ending में, या फिर in middle, आप अपना product integrate कर सकते हो।
+[12:21] Speaker 1:  It's that simple as that. Always make sure करिए कि जब भी हम mini drama ad create करेंगे ना, तो शुरू के 3 seconds में आपको कुछ ना कुछ ऐसा करना है, जिससे एक hook create हो।
+[12:28] Speaker 1:  ऐसा hook, जिसका, जिसको देखकर लोग आपके drama को पूरा end तक complete करें। Recognizable characters होने चाहिए।
+[12:34] Speaker 1:  Like, ऐसे characters जो आप अपने mini drama में आगे चलकर भी use करते रहोगे, ताकि लोग उनको recognize करने लग जाएँ। And आप अपना product as a resolution pitch कर सकते हो।
+[12:42] Speaker 1:  कोई भी mini drama का बहुत simple सा rule यही होता है। And बहुत सारे brands अभी mini drama कर भी रहे हैं, इसलिए मैंने ये ad structure यहाँ पर, uhm, रुकवाया है।
+[12:48] Speaker 1:  अभी question ये आता है कि आप सोच रहे होंगे कि दामिनी तो शुरू में बोल रही थी कि professional, एकदम B-roll वाले ads जो हैं, वो तो नहीं चलते meta ads पर। But differentiation बहुत बड़ा है।
+[12:56] Speaker 1:  Mini drama आप भले ही professionally भी shoot कर लो, but they are different because it involves the story. Professional ads वो होते हैं, जिसमें आप अपने product के B-rolls and everything etcetera add करते हो, जो perform नहीं करते।
+[13:06] Speaker 1:  But अगर कोई ऐसा है, story build-up है, जहाँ पर characters हैं, बहुत सारी चीज़ें हैं, तो वो genuinely काफी अच्छे perform करते हैं। आपने कई सारे बड़े creators को देखा होगा कि वो brands के लिए ऐसे ads बनाकर दे रहे हैं, because उसमें performance अच्छी आ रही है।
+[13:18] Speaker 1:  अब देखो, सीधी सी बात है, क्यों perform करते हैं, उसके बारे में पहले बात कर लेते हैं। देखो, सबसे पहला reason तो यही है कि सामने वाली जो audience है ना, वो आपकी story पर focus कर रही है।
+[13:26] Speaker 1:  वो ये नहीं देख रही कि इसमें आप कुछ sale करने वाले हो। सीधी सी बात है।
+[13:29] Speaker 1:  तो अगर कोई बंदा story पर focus कर रहा है, तो वो आपके ad को end तक तो देखेगा ही देखेगा, और आपकी sale pitch भी सुन लेगा, without even knowing कि आपने कोई pitch किया है। Second, कि शुरू में जो आप open loop करते हो, like, हो सकता है आप end में उसको unfinished रख दो, या फिर past से कुछ ले आओ, या फिर आप कुछ एकदम ही नया start कर दो।
+[13:45] Speaker 1:  तो लोगों को ये सारी चीज़ें ना, बहुत ही ज़्यादा interesting लगती हैं। Next, आप basically ऐसे characters present करते हो अपने mini drama में, जो आपकी audience से कहीं ना कहीं relate करते हैं।
+[13:53] Speaker 1:  And जब आपकी audience आपके character से relate करती है, तो ultimately वो आपके ad से relate करती है, आपकी sales pitch से relate करती है, और आपकी conversions better हो जाती हैं। And मुझे नहीं पता कि आपको पता है कि नहीं, लेकिन ad create करने का one of the biggest points ये होता है कि आप उसमें किसी ना किसी type का emotion add करो।
+[14:08] Speaker 1:  Because आपने बहुत जगह ये line सुनी होगी कि सामने वाला बंदा जो है, वो आपका product या service नहीं खरीदता, they buy emotions. तो उसमें emotions होने बहुत ज़्यादा ज़रूरी हैं।
+[14:15] Speaker 1:  और mini drama ads में emotions तो बहुत crazily आप use कर सकते हो। And ultimately वो आपके लिए performance लाकर दे देते हैं।
+[14:21] Speaker 1:  अब देखो, कुछ ऐसे mini drama ads हैं जो हर जगह काम करते हैं। Like, for example, The Deadline।
+[14:24] Speaker 1:  आपने कुछ ऐसा create किया, जहाँ पर आपको ये वाला task एक घंटे के अंदर-अंदर complete करके देना है। SaaS softwares हो गया, edtech हो गया, वहाँ पर ये बहुत अच्छे perform करते हैं।
+[14:32] Speaker 1:  एक होता है judgement, कि कोई बंदा किसी चीज़ को देखने जा रहा है, किसी को taste करने जा रहा है, किसी को evaluate करना है, या कुछ ऐसा है जहाँ पे उसे कुछ judgement लेनी है। तो उस type के ads भी बहुत अच्छे perform करते हैं।
+[14:42] Speaker 1:  एक होता है the reversal, मतलब आप किसी, मान लो, कोई character है, उसकी life में सब कुछ बहुत ही बढ़िया चल रहा है, लेकिन अचानक से एक चीज़ बहुत ही ज़्यादा ruin हो जाती है। And उसके बाद, as a solution, आपका product वहाँ पर pitch होता है।
+[14:53] Speaker 1:  Next, reveal। जैसे reveal में आप कुछ ऐसा create कर सकते हो कि एक ऐसा character है, जिसे कुछ पता नहीं है कि उसकी life में क्या हो रहा है, लेकिन ad के end में आपके product के through उसको पता चल जाता है कि भाई, उसके साथ exactly हो क्या रहा था।
+[15:05] Speaker 1:  इसके बाद comparison, जहाँ पर दो characters को आप place कर सकते हो, जो एक ही situation में हैं। एक बहुत ही ज़्यादा prepared है अपने कुछ भी, maybe career को लेकर, एक बहुत ही ज़्यादा नहीं है।
+[15:13] Speaker 1:  And उसके बाद, जो नहीं है, उसके लिए आपका product pitch होता है। एक होता है the sacrifice।
+[15:17] Speaker 1:  एक ऐसा character जो आप शुरू में introduce करते हो, जो किसी दूसरे character के लिए कुछ give up करता है। ये बहुत simple सी story lines और basics हैं।
+[15:25] Speaker 1:  इसके लिए आपको थोड़ा बहुत अपनी stories को better बनाना पड़ेगा। But ऐसे type के story formats बहुत ही ज़्यादा चलते हैं।
+[15:30] Speaker 1:  अब mini drama ad create कैसे करते हो? देखो, बहुत ही simple सी बात है।
+[15:33] Speaker 1:  सबसे पहले आपको एक conflict create करना पड़ेगा। ऐसा conflict कि सामने वाला जो character है, वो या तो किसी problem में है बीच में, या किसी emotion में है, या ऐसा कुछ उसके साथ हो रहा है जो लोगों को देखने में interesting लगे, which is your hook.
+[15:47] Speaker 1:  जब आपका conflict हो जाता है, तब आपको बताना है उस conflict की वजह से उसकी life में क्या stakes हैं। Stakes in the sense कि किस तरीके से वो उसको fix करने की कोशिश कर रहा है।
+[15:56] Speaker 1:  लेकिन जब चीज़ें बहुत ही ज़्यादा खराब हो जाती हैं, तो उसको समझ नहीं आता है क्या करना है। उसके बाद उसकी life में एक turning point आता है।
+[16:01] Speaker 1:  वो turning point से आपका product से उसे resolution मिल जाता है। And finally, एक CTA आ जाता है।
+[16:06] Speaker 1:  तो basically, this is the story only. Story create करना आपकी responsibility है।
+[16:10] Speaker 1:  But एक story ऐसे ही create होती है। आप एक पहले conflict decide करते हो कि overall story किस चीज़ के around evolve करेगी।
+[16:15] Speaker 1:  उस conflict पे आप decide करते हो कि सामने वाला जो character है, वो उस पर कैसे react कर रहा है। कैसे उसकी life उससे बहुत ज़्यादा खराब हो रही है, या बहुत ज़्यादा अच्छी हो रही है।
+[16:21] Speaker 1:  अच्छी तो नहीं बता सकते, because आपका product pitch करना है। And फिर उसके बाद कैसे उसकी life में turn आता है, आपका product मिलता है।
+[16:26] Speaker 1:  And then, finally, CTA। Typical Bollywood movies.
+[16:29] Speaker 1:  For example, किसी बंदे की चाय पर shirt गिर गई। और फिर वो character बोल रहा है, meeting में, shit यार, सिर्फ 15 मिनट बचे हुए हैं।
+[16:37] Speaker 1:  और फिर stake क्या है? और आज ही client, और आज ही client की presentation भी देनी है।
+[16:40] Speaker 1:  दूसरी shirt धुलाई में है, पानी डाला तो दाग और फैल जाएगा। Turn क्या आता है?
+[16:44] Speaker 1:  Roommate उसको ये देता है कि ले भाई, ये try कर, मेरे पास रखा हुआ है। And वो लगाता है, उसका दाग गायब हो जाता है।
+[16:49] Speaker 1:  And the tag से कहता है, एक spray, 2 मिनट, link bio में है। तो ऐसे करके आप mini drama ad create कर सकते हो।
+[16:54] Speaker 1:  अब कुछ ऐसे formats हैं जो काम करते हैं। मैं आपको बता चुकी हूँ, लेकिन एक बार आप और सुन लीजिए।
+[16:59] Speaker 1:  दो दोस्तों की कहानियाँ आप दिखा सकते हो। किसी family का कोई scene दिखा सकते हो।
+[17:02] Speaker 1:  Work environment दिखा सकते हो। कुछ misunderstanding create करवा सकते हो।
+[17:06] Speaker 1:  Transformation mini drama में दिखा सकते हो। कोई secret revelation।
+[17:09] Speaker 1:  या फिर time jump in the sense कि 1 year later क्या हुआ, 2 year later क्या हुआ। ऐसे जो mini drama के stories होते हैं, वो बहुत अच्छे काम करते हैं।
+[17:15] Speaker 1:  अब मैं आपको कुछ ads दिखाती हूँ, ताकि आपको clearly समझ आए कि mini drama ads actually में होते कैसे हैं और किस तरीके से दिखते हैं। उससे पहले कुछ industries की बात कर लेते हैं।
+[17:23] Speaker 1:  Home care, cleaning, food and snacks, personal care, appliances, insurance, edtech। Almost ये जितनी categories आप देख रहे हो ना, आप किसी भी category में हो, हर एक category में mini drama ad काम करते हैं।
+[17:33] Speaker 1:  आपको बस make sure करना है कि वो जो drama आप create कर रहे हो, वो आपकी industry और आपके product से exactly relevant हो। ये देख लीजिए सबसे पहले।
+[17:41] Speaker 1:  मेरे पैरों पर मोटर चला के भयंकर गरीबी में जीवन काट रहे इस लड़के को नहीं पता कि वो अरबों की संपत्ति का इकलौता वारिस है। 20 साल पहले उसके माँ-बाप ने divorce लिया, उसे एक नौकर के घर छोड़ दिया और विदेश चले गए।
+[17:51] Speaker 1:  आज बाप दुनिया के सबसे अमीर businessman में गिना जाता है और माँ international intelligence agency की chief है। लेकिन उनका बेटा गरीबी में auto चलाकर दिन काट रहा है।
+[17:59] Speaker 1:  और तभी 20 साल बाद माँ-बाप को अपने बेटे की याद आती है और वो उसे ढूँढने India निकल पड़ते हैं। उन्हें ज़रा भी अंदाज़ा नहीं कि उसी वक्त उनका बेटा अपनी गरीबी की वजह से एक होटल में अपनी ही अमीर girlfriend से बेइज्जत हो रहा है।
+[18:15] Speaker 1:  ये जो वाइन गिरी है ना, इसे साफ करना है तेरा काम। यही काम है तेरा मेरी ज़िंदगी में।
+[18:20] Speaker 1:  तान्या, ये क्या कर रही हो? तुम पागल हो गई हो क्या?
+[18:25] Speaker 1:  ये basically ना वो वाले ad हैं जहाँ पर mini drama के ही ad चल रहे हैं। जहाँ पर वो क्या करते हैं, story line pitch कर देते हैं और end में किसी cliffhanger पर छोड़ देते हैं।
+[18:33] Speaker 1:  बहुत चलते हैं इस type के ads। And अगर आप notice करो तो देखो, 6-6, 7-7, 8-8 मिनट के ये ads होते हैं।
+[18:39] Speaker 1:  And लोग genuinely इसके साथ बहुत ही ज़्यादा engagement showcase करते हैं। और mini drama ads की speciality यही होती है कि आप लंबे format of ads meta पर run कर सकते हो।
+[18:46] Speaker 1:  Let's look at second ads। मुंबई की साँस।
+[18:48] Speaker 1:  मैंने तुम्हारे लिए ये दो लड़के पसंद किए हैं। अभी तुम फाइनल करो।
+[18:51] Speaker 1:  आपने पढ़ाई कहाँ तक की है? बीटेक किया है।
+[18:53] Speaker 1:  मैंने भी। आप काम क्या करते हैं?
+[18:55] Speaker 1:  सॉफ्टवेयर इंजीनियर। दोनों कमाते कितना हो?
+[18:58] Speaker 1:  80,000। 80,000।
+[18:59] Speaker 1:  ओहो। पापा, आपके दोनों भी same हैं।
+[19:01] Speaker 1:  मैं कैसे decide करूँ? तो आपने देखा, शुरू में conflict create किए गए कि वो लड़की को कौन से दो पसंद आएँगे।
+[19:06] Speaker 1:  उसके बाद stake क्या है कि जहाँ पे लड़की समझ नहीं पा रही कि भाई, दोनों same हैं, अब कैसे करूँ? अब कुछ escalation होगा।
+[19:11] Speaker 1:  पापा, अभी बताओ, मेरे महीने का BP और diabetes का दवाई का खर्चा है 6,000 रुपये। इसे मैं कैसे कम कर सकता हूँ?
+[19:16] Speaker 1:  अंकल जी, मेडिकल बिल कम थोड़ी होते हैं। MRP तो fix होती है।
+[19:19] Speaker 1:  और वैसे भी सेहत के सामने कंजूसी नहीं करते। 6,000 तो देने ही पड़ेंगे ना।
+[19:22] Speaker 1:  ये escalation build up हुआ। 2400 हो गया।
+[19:25] Speaker 1:  अब ये turn आया। 6,000 से सीधा 2400?
+[19:27] Speaker 1:  भाई, नकली दवाई खिलाओगे क्या? ये platinum RX app है।
+[19:29] Speaker 1:  And then product pitch हो गया। Exactly जिस तरीके से मैंने अभी आपको structure बताया था।
+[19:34] Speaker 1:  बिल्कुल same thought। Let's look at this ad।
+[19:36] Speaker 1:  आपने notice किया होगा कि ये जो drama वाले ads हैं, वो TV commercial में बहुत ज़्यादा चलते हैं। But अब online ads में भी ये बहुत अच्छी performance दे रहे हैं।
+[19:42] Speaker 1:  वही नहीं है जो अरमान चौधरी का दिल जीत गया।
+[19:49] Speaker 1:  यहाँ देखो, free to watch लिखा है और उन्होंने अपना जो cliffhanger वाला mini drama है, वो पूरा डाल दिया है। And this ad is freaking 26 minutes.
+[19:55] Speaker 1:  बहुत ही ज़्यादा crazy। बहुत ही अच्छे perform कर रहे हैं।
+[19:58] Speaker 1:  Please give this a try। हमने भी कुछ ads create किए थे, वो देख लेते हैं।
+[20:01] Speaker 1:  नहीं, अभी एक बार बात कर लेना मुझसे। क्या बात करूँ?
+[20:05] Speaker 1:  कॉफी चाहिए कुछ? कोई भी पर्सनल डालिए।
+[20:09] Speaker 1:  Conflict create हो गया है, है ना?
+[20:15] Speaker 1:  Hey, can I help? नहीं यार, रोज़ का हो गया है।
+[20:18] Speaker 1:  कभी grammar mistake, कभी spelling mistake। कर तो रहा है यार काम।
+[20:20] Speaker 1:  इतना थोड़ी हो सकता है किसी से। तो तुम ये वाला extension क्यों नहीं try करती?
+[20:23] Speaker 1:  अरे, Chrome store पे जाके ये mini bot का grammar extension install कर लो। और अब तुम भी कुछ भी लिखती रहोगी, suppose तो वो automatically तुम्हारी grammatical mistakes भी correct कर देगा।
+[20:32] Speaker 1:  Plus, sentences को भी rewrite कर देता है। और ये AI में detect भी नहीं होता।
+[20:35] Speaker 1:  वाह यार, ये extension तो बहुत अच्छा है। Yes, मैं तुम्हें और भी सिखा सकता हूँ अगर हम लोग शाम में मिलें तो।
+[20:40] Speaker 1:  नहीं नहीं, ठीक है। Thanks।
+[20:42] Speaker 1:  Pranav? हाँ?
+[20:44] Speaker 1:  कॉफी? हाँ, नीचे ही बहुत बढ़िया कॉफी बनाते हैं।
+[20:47] Speaker 1:  चलो, अभी मेरे साथ। नहीं, मैं कॉफी मशीन से जा रही हूँ।
+[20:49] Speaker 1:  तुम्हें कॉफी चाहिए? तो this is the mini drama ad.
+[20:54] Speaker 1:  वही workspace दिखाया जिस मैंने आपको पहले बताया था। और उस workspace में ऐसा create कर दिया जहाँ पे बीच में एक extension integrate हो गया।
+[21:00] Speaker 1:  Let's look at this one. भाई, याद है तुझे?
+[21:03] Speaker 1:  12th में तूने कहा था कि अगर जिंदगी में कुछ नहीं उखाड़ा तो business start करेंगे। हाँ, कहा तो था।
+[21:07] Speaker 1:  Conflict create हुई है अभी। कुछ उखाड़ भी नहीं रहे हैं।
+[21:09] Speaker 1:  क्या ही कर रहे हैं। Business start करें?
+[21:11] Speaker 1:  हाँ भाई यार, अपना business start करते हैं। मैंने भी देखा है कि लोग Instagram पे e-commerce करके करोड़ों रुपये कमा रहे हैं।
+[21:17] Speaker 1:  भाई, brand का नाम क्या रखेंगे? अच्छा, t-shirt कौन सा?
+[21:20] Speaker 1:  ब्लैक? ये तेरे notebook पे कौन सा proof बना है?
+[21:22] Speaker 1:  पाइनएप्पल? ब्लैक एप्पल?
+[21:24] Speaker 1:  हाँ भाई, सही नाम है। मज़ा आ जाएगा।
+[21:26] Speaker 1:  अरे, sourcing दिल्ली वाले चाचा से करा लेंगे। सारा माल एक बार में आ जाएगा।
+[21:29] Speaker 1:  और packaging बिट्टू भैया से करवा लेंगे। भाई यार, पेट में गुदगुदी हो रही है।
+[21:32] Speaker 1:  मज़ा सा आ जाएगा। भाई यार, online सामान बेचने के लिए तो website लगेगी।
+[21:36] Speaker 1:  सामान list करना पड़ेगा। Product listing होगी।
+[21:38] Speaker 1:  Payment कैसे आएगा? करेंगे कैसे?
+[21:40] Speaker 1:  भाई, भांग धतूरा हो गया। ओह भाई, मैंने ना Instagram पे ad देखी थी।
+[21:45] Speaker 1:  क्या था नाम? Montify?
+[21:47] Speaker 1:  रुक, मैं तेरे को दिखाता हूँ। भाई, ये platform देख।
+[21:49] Speaker 1:  इसके तुम अपनी website भी set up कर सकते हैं। Plus, product orders, sales, inventory और यहाँ तक कि return भी manage हो जाएगा।
+[21:54] Speaker 1:  Plus, 3 महीने। तो आपने देखा, वही same structure है।
+[21:57] Speaker 1:  पहले वो conflict build हुआ, उसके बारे में बात करी गई कि कैसे ये solve करेंगे। इनसे हुआ नहीं, turn आया, product pitch हुआ।
+[22:02] Speaker 1:  ये वाला भी देख लेते हैं एक बार। ये kind of ऐसा है कि ये लोग trip पर जा रहे हैं अभी।
+[22:09] Speaker 1:  इन लोगों ने पूरी packing करी। And tripper आ गए, कार में बैठ रहे हैं।
+[22:15] Speaker 1:  कार में बैठते ही क्या? Guys, बहुत मज़ा आने वाला है इस trip पे।
+[22:19] Speaker 1:  बहुत सालों बाद, भाई, boys। इसलिए आराम भी करेंगे।
+[22:21] Speaker 1:  हाँ भाई, कसौल का sunrise तो बहुत बवाल होता है भाई, होटल से देखने में। पर तुम में से होटल किसने बुक किया है?
+[22:26] Speaker 1:  होटल? अरे, तुझे बोला था था बुक करने को।
+[22:28] Speaker 1:  कर क्या रहा था तू? भाई, फिर तूने कर दी।
+[22:29] Speaker 1:  मैंने कब, मैं कब बुक करने वाला था? जबरदस्ती मेरे ऊपर क्यों थोप रहा है?
+[22:32] Speaker 1:  भाई, अब हाइप बन रही है। मैं तेरे साथ हो जाऊँगा।
+[22:34] Speaker 1:  भाई, तेरे को बोला था मैंने कल रात में। फोन भी पकड़ाया था यार।
+[22:36] Speaker 1:  तू फोन पकड़ाता है। तू जा।
+[22:37] Speaker 1:  तुम लोगों से तो होटल को फोन ही नहीं दी। इसलिए मैंने आदि ट्रेवल के Instagram पेज से होटल बुक कर ली है।
+[22:40] Speaker 1:  वहाँ पर हमको 5-स्टार होटल मिली है और लंच, ब्रेकफास्ट, डिनर सब included है। और मैंने उनके Instagram पेज पे सारे होटल्स के reviews देख लिए हैं।
+[22:45] Speaker 1:  एकदम authentic है। मुझे तो पता था तुम लोग लड़ने के अलावा कुछ करने नहीं वाले।
+[22:48] Speaker 1:  इसलिए मैंने ये सब पहले से करके रखा था। और वहाँ से कहीं जाने की जरूरत भी नहीं है।
+[22:51] Speaker 1:  सनराइज पॉइंट वहीं है। इसलिए चुपचाप बैठो और चलो।
+[22:54] Speaker 1:  पर भाई, वो। अभी, अभी भी तुम लोगों को शक हो रहा है तो जाके Instagram पे चेक करो ना।
+[22:57] Speaker 1:  आदि ट्रेवल से यूजरनेम। चेक कर, चेक कर, तू चेक कर।
+[23:00] Speaker 1:  जाके चेक करो। चलो यार, चुपचाप।
+[23:01] Speaker 1:  चलो। हाँ भाई, टेस्ट तो सही है।
+[23:04] Speaker 1:  बहुत ही smooth integration था और script भी इसकी काफी अच्छी बनी थी। अब देखो, कुछ ऐसी चीजें हैं जो आपको ध्यान में रखने की जरूरत हैं कि आपका जो भी mini drama ad होता है ना, you have to make sure कि उसमें आप random story lines मत add करो।
+[23:16] Speaker 1:  Mini drama ads perform ही तभी करेंगे जब आप एक बहुत crazy story create करते हो। And crazy story create करना आपके product के around आपकी responsibility है।
+[23:22] Speaker 1:  अगर आप वो नहीं कर पाते हो, कहीं पर भी कोई doubt या फिर confusion आता है तो obviously आप Claude ChatGPT की help ले सकते हो। But मेरा personal opinion हमेशा यही रहता है कि अगर आप AI से कोई चीज करवा रहे हो तो make sure करो कि आप उसकी exact script मत लो।
+[23:34] Speaker 1:  Because वो आपके product या business को आपसे better नहीं जानता। आप जानते हो कि आप अपने product को अपनी audience को किस तरीके से दिखा सकते हो।
+[23:40] Speaker 1:  I hope mini drama ads आपको clear out हो गए होंगे। We'll be going into the next chapter जहाँ पर हम एक और high converting ad structure के बारे में बात करेंगे।
+[23:46] Speaker 1:  तब तक के लिए bye।
+[23:51] Speaker 1:  से use कर रहे हैं तो आप कुछ examples एक बार check out कर लीजिए। जैसे ये वाला।
+[23:56] Speaker 1:  Hi everyone, welcome to our new chapter. और आज जिस high converting ad structure के बारे में मैं बात करने जा रही हूँ, that is calling out ads।
+[24:02] Speaker 1:  अब ये calling out ads basically क्या होते हैं? देखो, आपने notice किया होगा, मेरे भी कई reels में भी आपने देखा होगा कि कोई बंदा forced POV से ऐसे camera लेकर जाता है और अपने हाथ से tap करके उसको बुलाता है या फिर उसका नाम call out करता है, which is kind of a vox pop ad।
+[24:15] Speaker 1:  लेकिन जो person question पूछ रहा है, वो दिखता नहीं है। वो कैमरे के पीछे रहता है, लेकिन वही सिर्फ दिखता है जो आगे बोलने वाला है।
+[24:21] Speaker 1:  That is what we call calling out ad. अब calling out ad basically ना सबसे ज्यादा अच्छी performance देते हैं जहाँ पर आपकी audience बहुत ही ज्यादा specific है।
+[24:29] Speaker 1:  We'll check one ad at a time. जहाँ पर specific audience से मेरा कहने का मतलब ये है कि जैसे for example मैं किसी के पास गई, मैंने बोला, "Hey, hey, are you a small business owner?"
+[24:37] Speaker 1:  उसने बोला, "Yes." तो मेरी audience बहुत ज्यादा specific हो गई।
+[24:40] Speaker 1:  तो जो small business owners हैं, सिर्फ वही उस वीडियो को देखेंगे, बाकी लोग scroll कर देंगे। And it's pretty good for us as an ad कि हम अपनी सही target audience को ही अपना ad दिखा रहे हैं।
+[24:47] Speaker 1:  बाकी जो random junk audience है, वो automatically filter out होती जा रही है। And calling out ads इसलिए आपकी top of the funnel में, middle of the funnel में, and bottom of the funnel तीनों type की audiences के लिए बहुत अच्छी काम करती है।
+[24:57] Speaker 1:  Because authentic feeling तो देती ही देती है। साथ ही साथ आपकी trustability automatically increase करती है।
+[25:02] Speaker 1:  Because आप किसी random person से बात कर रहे हो। ये kind of street interview का एक alternative ही समझो।
+[25:07] Speaker 1:  Street interview में आप kind of थोड़ा rush maintain करते हो। लेकिन calling out में आपका major goal यही रहता है कि आप सिर्फ अपनी exact specific audience से बात करो।
+[25:17] Speaker 1:  और उस specific audience से कुछ question पे बात कर लो। कोई ऐसे topic पर बात कर लो जो बहुत ही ज्यादा famous हो आपकी industry में और उसके बाद आप अपना product easily integrate कर सकते हो।
+[25:25] Speaker 1:  अब question सबसे पहला वही आता है कि भाई, ये वाला ad इतना ज्यादा convert क्यों कर रहा है? बहुत ही simple सा है।
+[25:30] Speaker 1:  देखो, जब आप किसी को call out करते हो तो आपकी target audience automatically fix हो जाती है। और जब TG fix हो जाती है तो आपका जो selection है audience का, वो और भी ज्यादा accurate हो जाता है।
+[25:39] Speaker 1:  जिससे आपकी ad cost ज्यादा नहीं जाती है। काफी कम रहती है।
+[25:42] Speaker 1:  और फिर भी आप अपनी audience को सही तरीके से cater कर पाते हो। इसके अलावा, मुझे ऐसा लगता है जो calling out ads होते हैं ना, वो किसी ना किसी की life में आपकी audience में कोई value create करते हैं।
+[25:53] Speaker 1:  Because calling out ads आप mostly बहुत ज्यादा fun नहीं कर सकते हो। It has to be educational या फिर वो infotainment nature के बारे में होना चाहिए।
+[26:00] Speaker 1:  और जब वो चीज educational होती है ना, तो आपकी audience को value मिलती है। और जब किसी को value मिलती है, तो ad की जो conversion rate होती है, वो automatically increase होती है।
+[26:08] Speaker 1:  इसके बाद calling out ads से ना, like for example, आप कहीं पर road पर चल रहे हो, बहुत सारे लोग ऐसे हैं। आपने इसको सिर्फ call out किया।
+[26:14] Speaker 1:  तो लोगों को लगता है कि जो शुरू में हमारा जो eye level होता है ना, आप कोई भी ad देखते हो, तो आप उस ad में कुछ specific चीज ही देखते हो। या तो आप सिर्फ ऊपर का part देख रहे हो या नीचे का देख रहे हो या सिर्फ captions पर ध्यान दे रहे हो।
+[26:24] Speaker 1:  तो ऐसे क्या होता है, आप शुरुआत में ही अपनी audience की eye एक जगह fix कर लेते हो। That is the person who is talking into the camera.
+[26:31] Speaker 1:  तो वो काफी ज्यादा help करता है audience का attention retain करने में। And audience का attention retain होगा, वो आपका ad पूरा देखेगी।
+[26:37] Speaker 1:  जिसको भी आपकी sales pitch अच्छी लगेगी, वो automatically आगे चलके convert हो जाएगी। तो इस structure का ना, बहुत ही ज्यादा simple सा scenario है।
+[26:44] Speaker 1:  एक अच्छी accuracy maintain कर सकते हो आप। आपको पता रहता है कि आपको कौन सी target audience को cater करना है।
+[26:49] Speaker 1:  अब question आता है कि किस तरीके से calling out ad create करते हैं। सबसे पहला तो call out।
+[26:53] Speaker 1:  आपको क्या करके लोगों को बुलाना है? Like for example, आप नाम से बुला सकते हो।
+[26:57] Speaker 1:  आप चाहो तो सिर्फ shoulder पर tap कर सकते हो। आप चाहो तो उनसे एक question पूछ सकते हो। 
+[27:02] Speaker 1: ठीक है? इन तीनों में से कोई भी चीज से आप अपने इस specific ad को start कर सकते हो। Like for example, "Hey, hey दामिनी।"
+[27:07] Speaker 1:  वो भी calling out ad है। आप ऐसे बोल रहे हो, "Hey, hey, are you a small business owner?"
+[27:11] Speaker 1:  ये भी एक calling out ad है। और आप गए, आपने shoulder पर tap किया और उसने पीछे देखा, वो भी एक calling out ad है।
+[27:15] Speaker 1:  अब उसके बाद आपको उससे कुछ question पूछना है या किसी problem के बारे में discuss करना है। सबसे पहले आपने call out किया।
+[27:21] Speaker 1:  किसी problem के बारे में पूछा। उसने उस चीज का answer किया।
+[27:25] Speaker 1:  आपने एक और problem के ऊपर focus किया। आपने उसके बाद उसने specifically बता दिया कि exactly वो कैसे उस problem को solve करता है।
+[27:31] Speaker 1:  और एक subtle CTA के साथ end हो गया। आप इसे podcast ही समझो, street interview ही समझो।
+[27:36] Speaker 1:  है ये interview ही, but एक थोड़े से different style में। Like for example, एक script कैसी हो सकती है?
+[27:41] Speaker 1:  मैं किसी के पास गई, मैंने बोला, "मैं आपको ये live करके ही दिखा देती हूँ।" एक calling out ad अपन कर रहे हैं।
+[27:46] Speaker 1:  Like for example, "तू कैमरा लेके मेरे पीछे आना और मुझे tap करके मुझसे question पूछना।" तो like for example, मैं अपने laptop पर कुछ काम कर रही हूँ, अपने studio में।
+[27:55] Speaker 1:  कोई ऐसे पीछे से आ रहा है, first POV से। हाँ, और ऐसे मुझसे कुछ question पूछ रहा है।
+[27:58] Speaker 1:  अब मान लो, उसने मुझसे... अब मान लो, उसने मुझसे एक question पूछा कि, "यार, आप marketing सिखाते हो ना?"
+[28:04] Speaker 1:  तो मैं यहाँ पर ही answer करूँगी। फिर वो मुझे cross question करेगा।
+[28:07] Speaker 1:  और फिर वहाँ पर एक subtle call to action के साथ हमारा जो ad है, वो खत्म हो जाएगा। तो I hope आप समझ गए होंगे calling out ads create कैसे करते हैं।
+[28:13] Speaker 1:  अब point ये आता है कि कौन सी industries के लिए ये काफी अच्छे काम करते हैं। I personally think कि हर एक industry में ये काम कर जाते हैं।
+[28:20] Speaker 1:  लेकिन अगर आपका specifically B2B business है, edtech है, local services हैं, या फिर courses या skills से related आप कोई चीजें करते हो, travel से related कुछ करते हो, तो उन industries में ये बहुत अच्छे perform करते हैं। अब ना, मैं कुछ आपको ऐसे ad creatives दिखाती हूँ जो...
+[28:32] Speaker 1:  जिससे आपको समझ आए calling out ads होते क्या हैं। कि ये कुछ ऐसे ads हैं जो हमने basically create किए हैं।
+[28:36] Speaker 1:  मैंने देखा है बहुत सारे brands इस type के ad format को use नहीं करते हैं। लेकिन हम कई सारे brands के लिए इसे use कर रहे हैं।
+[28:41] Speaker 1:  तो आप कुछ examples एक बार check out कर लीजिए। जैसे ये वाला।
+[28:44] Speaker 1:  इससे start करते हैं। किसी ने tap किया।
+[28:47] Speaker 1:  क्या है? Excuse me sir?
+[28:48] Speaker 1:  हाँ, पूछिए। आप ये जो chocolate bar लेकर जा रहे हैं, आपको पता है कि इसमें कितना refined sugar, palm oil और protein है?
+[28:52] Speaker 1:  Ask the question. Chocolate है तो इसमें palm oil और sugar तो होगा ही ना?
+[28:55] Speaker 1:  And what about protein? Chocolate में protein?
+[28:58] Speaker 1:  Exactly. It's a conversation style.
+[29:00] Speaker 1:  ऐसी chocolate है जिसमें आपको 16% तक protein मिलता है without any sugar और palm oil। झूठ।
+[29:05] Speaker 1:  Wait, let me show you. ये रही chocolate।
+[29:09] Speaker 1:  या तो इसका taste वैसा नहीं होगा chocolate वाला, या तो इसमें वो दाम महंगा होगा इसका। नहीं नहीं, ऐसा कुछ नहीं है।
+[29:13] Speaker 1:  They've delight के इस chocolate में आपको 16% protein मिलता है और ये सिर्फ 40 rupees में आपको मिल जाएगी। भाई साहब, सब तो बहुत बढ़िया है।
+[29:20] Speaker 1:  फिर तो मैं यही खाऊंगा, gym ही नहीं जाऊंगा। ऐसा नहीं, आपको gym तो जाना पड़ेगा।
+[29:23] Speaker 1:  But bake delight की अगर आप ये chocolate खाते हो, तो आपको बहुत अच्छा लगेगा। And exercise में effective लगेगी। 
+[29:27] Speaker 1: ठीक है। कहाँ से खरीद सकते हैं? आप इसको bake delight की website से easily purchase कर सकते हैं।
+[29:30] Speaker 1:  या फिर किसी भी website पे आपको ये मिल जाएगी। सही है, फिर 5 rupees उठाऊंगा।
+[29:33] Speaker 1:  Okay, bye। तो ऐसे वीडियो खत्म हो गई।
+[29:36] Speaker 1:  Let's see this one. ये भी calling out ही है।
+[29:39] Speaker 1:  ये क्या कर रही है? ये कैसा सवाल है?
+[29:40] Speaker 1:  पानी भर रही हो और क्या? तुझे पता है ये normal water में कितने ज्यादा harmful chemicals और bacteria होते हैं जो हमारी body को internally damage करते हैं?
+[29:46] Speaker 1:  तो normal पानी ही पिएगा ना यार इंसान और क्या पिएगा? नहीं, हमारी body को जरूरत होती है alkaline water की जो हमारी body की सारी process help करने में बहुत ज्यादा help करता है।
+[29:53] Speaker 1:  यार, मेरे office में तो ये normal पानी ही मिलता है, फिर ये मैं alkaline water की intake कैसे पूरी करूँ? अरे, ये लेना clarity का alkaline water bottle।
+[29:59] Speaker 1:  इसमें ये जो filter लगा है ना, ये normal पानी को alkaline water में convert कर देता है। जो हमारी body का दिन भर का alkaline water है।
+[30:03] Speaker 1:  तो ऐसे ये water bottle pitch हुआ। Let's look at this one.
+[30:07] Speaker 1:  क्या हो गया? अरे भाई, तू office में बैठ के क्यों सो रहा है?
+[30:10] Speaker 1:  भाई, नींद नहीं पूछ रही वो बात। तू रात भर सोता क्यों नहीं है?
+[30:13] Speaker 1:  work stress, घर का stress, चार तरीके की बातें। भाई, नींद नहीं complete कर पाता।
+[30:16] Speaker 1:  अरे यार, इतनी सी बात पहले बताना था ना। Let me help you.
+[30:19] Speaker 1:  ये देखो, ये sleepy bear की gummies हैं और इसको खा के तू आराम से सो सकता है। है भाई, ये इसमें...
+[30:25] Speaker 1:  भाई, मैं यकीन नहीं मानता। कैसे?
+[30:27] Speaker 1:  इसमें क्या है ऐसा? इसमें ऐसे natural ingredients हैं जो तुम्हारे melatonin को trigger करते हैं और तुम easily peacefully सो सकते हो और आप घर पर।
+[30:32] Speaker 1:  बस भाई, यही सब chemical के चक्कर में दिक्कत होने लगेगी। नहीं नहीं नहीं, इसमें कोई भी chemical नहीं है।
+[30:36] Speaker 1:  ये fully एक natural ingredients से बना हुआ है जिसको तुम daily consume कर सकते हो। तो जैसा कि आपने देखा, basically वही।
+[30:40] Speaker 1:  Call out किया, question पूछा, उसने answer किया, उसको solution दिया। That is the basic structure of calling out ads.
+[30:45] Speaker 1:  और ये मैंने ये जो structure है, personally अपने ads में बहुत ही ज्यादा use किया है। And ये सिर्फ आपके paid ads में नहीं, organically भी ये format बहुत ही अच्छा perform करता है।
+[30:53] Speaker 1:  Because इसमें एक kind of होता है ना, एक spontaneity रहती है कि कोई गया, किसी ने कुछ पूछा, देखने में बहुत ज्यादा crazy लग रहा है। बहुत सारे ऐसे protein supplement के brands हैं जिसमें मैंने ये same चीज son और mother के duo में देखी है।
+[31:04] Speaker 1:  जहाँ पर एक जाता है बंदा, बोलता है, "मम्मी, मम्मी, आज मेरे को खाने में रोटी नहीं खानी है।" तो मम्मी पूछती है, "बेटा, क्यों?"
+[31:09] Speaker 1:  तो वो बताता है कि यार, नहीं, इसमें protein नहीं होता है। मैं gym जा रहा हूँ, आप ध्यान नहीं दे रही हो मुझ पर।
+[31:14] Speaker 1:  उसकी मम्मी बताने लगती है कि बेटा, मैं तेरे को बहुत अच्छे से जानती हूँ। ये देख, मैं ये मिला रही हूँ आटे में।
+[31:18] Speaker 1:  इसमें इसको खाने से तेरे को 15 से 16, 18 ग्राम ज्यादा protein मिल जाएगा। और मैं, "वाह यार, मम्मी, तुम तो बहुत smart निकली।"
+[31:24] Speaker 1:  ऐसे मैंने इतने ads देखे हैं जो एक-एक साल से चल रहे हैं और बहुत ही अच्छे convert करते हैं। तो आप duo बहुत crazy बना सकते हो।
+[31:30] Speaker 1:  Mother-son का duo बना लिया, पापा और बेटे का duo बना लिया, पापा-बेटी का duo बना लिया। तो आप अगर थोड़ा सा thought डालते हो, थोड़ा सा creative angle सोचते हो, ये जो format है calling out ads, ये बहुत अच्छे perform करते हैं।
+[31:40] Speaker 1:  अब always make sure करिए कि because ये type के जो ads होते हैं, ये देखने में realistic लगने चाहिए। तो अगर आप इसे fake recreate भी कर रहे हो, तो आप इस तरीके से मत recreate करिए कि जो characters हैं, वो देखने में अच्छे ना लगे या फिर उनकी जो बात करने का तरीका है, वो realistic ना लगे।
+[31:53] Speaker 1:  सारी चीजें realistic लगनी चाहिए। तभी इनकी आपको अच्छी performance आती है।
+[31:56] Speaker 1:  I hope आपको समझ आ गया होगा कि calling out ads होते कैसे हैं, कैसे बनाते हैं, उसकी scripting कैसे करते हैं। Next chapter पे चलते हैं, where we'll be talking about one more ad जो है थोड़ा इसी type का, but in a slightly different way।
+[32:06] Speaker 1:  तब तक के लिए, bye bye। Like this, there are many more categories.
+[32:10] Speaker 1:  So just let me know so that I can ask the clients about this. तो इस तरीके के ads बहुत अच्छे।
+[32:19] Speaker 1:  Hi everyone, welcome to our new chapter. तो हमने बहुत सारे high converting ad structures already discuss किए हैं।
+[32:24] Speaker 1:  And this is something new kind of ad structure जो इस समय market में बहुत ज्यादा काम कर रहा है। जब से meta glasses आए हैं, specifically तब से ये format बहुत अच्छा काम कर रहा है for agency founders।
+[32:33] Speaker 1:  अगर आप D2C में हो, तब भी वो काफी ज्यादा अच्छे से काम कर रहा है। तो let's check it out.
+[32:37] Speaker 1:  I am talking about first person ads. First person ads ये basically वो होते हैं जहाँ पर आप अपने POV से कोई चीज दिखा रहे होते हो।
+[32:45] Speaker 1:  It could be anything. It could be your product.
+[32:47] Speaker 1:  It could be your services. आप कहीं पर घूम के कुछ दिखाना चाह रहे हो।
+[32:50] Speaker 1:  And before I actually begin talking about this, let's look at one example that we have created. ताकि आपको समझ आए कि first POV ads होते क्या हैं।
+[32:56] Speaker 1:  भाई, वैसे तो मैं इतना ज्यादा gadgets का fan नहीं हूँ, but I got this crazy thing. Let me show you how it works.
+[33:01] Speaker 1:  तो basically ये एक simple सी light है। Like if you'll press, तो इसमें बहुत सारे अलग-अलग modes हैं।
+[33:06] Speaker 1:  रात में कहीं फंस जाओ, तो at least SOS कर सकते हो इसके through। And also you get a bottle opener।
+[33:10] Speaker 1:  तो अगर friends के साथ if you're trying to chill in the car, then it will be really helpful। And बात यहीं खत्म नहीं होती।
+[33:14] Speaker 1:  इसके अलावा, when you'll turn it to the back side, you got two screws। That will help you in an emergency situation।
+[33:18] Speaker 1:  And if you're a smoker and you forget your lighter, then you just need to press this particular button। And you'll get this crazy thing inside।
+[33:24] Speaker 1:  So you just need to touch your cigarettes and they'll light it up। And आपको लग रहा होगा, अब इतनी छोटे से device में और क्या features हो सकते हैं।
+[33:29] Speaker 1:  But you also get a small blade। And इसके अलावा, ये type C से charge भी हो जाता है।
+[33:32] Speaker 1:  How crazy is that। And using it from the last one year और अभी तक इसकी battery बहुत crazy चलती है।
+[33:37] Speaker 1:  तो अगर इसको buy करना है, तो do check the link below। तो basically आपने notice किया होगा कि इसमें as such कुछ वो नहीं था।
+[33:42] Speaker 1:  कोई person नहीं दिखा, कुछ नहीं दिखा। It's just a simple ad।
+[33:45] Speaker 1:  जहाँ पर सामने वाले के POV से हमें कोई product दिख रहा है। And ये ad इस समय बहुत ही ज्यादा perform कर रहे हैं।
+[33:50] Speaker 1:  I'll also show you some examples, but let's start it from the beginning now। Basically एक ऐसा ad जो viewer के point of view से shoot हो रहा है।
+[33:56] Speaker 1:  That is what we call first person POV। And इसी के साथ-साथ इसमें ना दो-तीन चीजें ध्यान में रखने की जरूरत है।
+[34:02] Speaker 1:  जब भी आप shoot करोगे, you have to make sure कि जो product है, वो same consistent point of view पे रहे। आप उसे बहुत ज्यादा move ना करो, वरना वो eye के लिए अच्छा नहीं रहता।
+[34:09] Speaker 1:  लोगों से skip कर देते हैं। आपके जो hands जहाँ पर आते हैं, exactly जो audience को देखने में comfortable लगेंगे, आपको वहीं पर अपने product को place करना है।
+[34:16] Speaker 1:  And आपका voice over यहाँ पर use होगा। आप यहाँ पर voice over लगा सकते हो, on spot same चीज बोल भी सकते हो, but I prefer voice over because उससे थोड़ा आसान हो जाता है।
+[34:25] Speaker 1:  Make sure करिए, first person ads UGC ads नहीं होते हैं। सिर्फ hands पर रख के आप demo नहीं दे सकते।
+[34:29] Speaker 1:  You can do a lot of creative things as well। अब convert क्यों करते हैं?
+[34:32] Speaker 1:  देखो, यहाँ पर कोई person नहीं है, कुछ नहीं है। एक voice over है।
+[34:35] Speaker 1:  Voice over एक realistic feeling देती है। Basically जो ये ad है, ये fake नहीं है।
+[34:39] Speaker 1:  And secondly, क्योंकि आप directly product या service का demonstration दिखाते हो, तो उससे क्या होता है? सामने वाले को trustability और authenticity उसकी काफी ज्यादा increase हो जाती है।
+[34:47] Speaker 1:  And कोई presentator नहीं रहता है, तो किसी लोग comments में आपको ज्यादा negative नहीं बोलते हैं। Because कोई presenter ही नहीं है, तो उसके बारे में कोई comments ही नहीं आएंगे।
+[34:54] Speaker 1:  It will just be about the product। और जब आप voice over पे बोलते हो ना, तो सामने वाले इंसान पर ज्यादा forcefulness नहीं रहती कि वो उस product को खरीदे।
+[35:00] Speaker 1:  तो वो आपके ad को properly देख लेता है। लेकिन अगर आप उनको camera के सामने बैठ के कुछ बता रहे होते हैं, तो उन्हें क्या लगता है?
+[35:05] Speaker 1:  कि उनके पास एक होता है ना, एक ऐसा pressure है in order to buy that product। तो इससे क्या है?
+[35:10] Speaker 1:  थोड़ा सा lightweight हो जाता है आपका ad creative और उससे आपको और अच्छी performance मिलती है। अब आप camera की position कैसे रखोगे?
+[35:16] Speaker 1:  Basically आप क्या करते हो? आप first person view में camera की position ऐसी रखते हो जहाँ पर आपके viewer का eye रहेगा।
+[35:21] Speaker 1:  Like for example, अगर मैं ऐसे scroll कर रही हूँ, मेरे viewer का eye यहाँ पर है, तो मैं अपने product को first POV में ऐसी location पर रखूँगी। And कोई नहीं बोलता उसमें।
+[35:28] Speaker 1:  It's just an internal thought। मतलब आप अपने voice over पर बोलोगे, लेकिन screen पर कोई भी नहीं दिखेगा।
+[35:32] Speaker 1:  And इससे क्या होता है? तो अगर आपको routine, setup, task और किसी type की journey दिखाना है, तो ये वाला ad creative format काफी अच्छा काम कर जाता है।
+[35:39] Speaker 1:  And इसी के साथ-साथ, अगर मैं production की बात करूँ, तो बहुत ही कम production cost है। आप simply इसे अपने phone से shoot कर सकते हो।
+[35:44] Speaker 1:  Which is pretty crazy। And आप इसे middle of the funnel audience के लिए बहुत अच्छे से cater कर सकते हो।
+[35:48] Speaker 1:  एक ऐसी audience जिसने आपके ad को पहले भी देखा हो, आपको उन्हें वापस से target करके, you know, customers में convert करना हो। तो आप ऐसे ads अपनी MOF audience को और BOF audience को बहुत अच्छे से दिखा सकते हो।
+[36:00] Speaker 1:  Now, create कैसे करते हैं? उस चीज पर बात करते हैं।
+[36:02] Speaker 1:  देखो, बहुत simple है। सबसे पहले आप शुरू करते हो एक hook से।
+[36:05] Speaker 1:  अब वो hook आपका voice over हो सकता है, एक visual हो सकता है। आप कुछ भी use करना हो।
+[36:10] Speaker 1:  And उसके बाद आप in action वो product या फिर service दिखाते हो। और उसके बाद finally CTA देते हो।
+[36:16] Speaker 1:  तो simple सी चीज है। एक hook use करना है जिसमें visually आप कोई चीज as a hook add करो या फिर verbally add करो।
+[36:22] Speaker 1:  जो आप voice over पर बोलोगे, आप वो product या फिर service in action दिखाओ और फिर अपना call to action दे दो। It's as simple as that।
+[36:28] Speaker 1:  इसमें आप वो वाला structure जो मैंने आपको पहले बताया था, जहाँ पर आप problem, solution, credibility, proof और इन सब चीजों को मिलाकर एक script लिखते हो ना, वही same format आप यहाँ पर follow कर सकते हो। जिसमें आप देखो, अपना कोई routine दिखा सकते हो।
+[36:39] Speaker 1:  अगर आप fitness में हो, personal care में हो, तो routines दिखाना बहुत अच्छा लगता है first POV से। Unboxing and setup कर सकते हो।
+[36:46] Speaker 1:  अगर आप किसी appliance की industry में हो या फिर electronics में हो, तो ये बहुत अच्छे से काम करेगा। आप कोई task complete करते हुए दिखा सकते हो।
+[36:52] Speaker 1:  अगर आप software, SaaS products, agencies, courses इन सब में हो, तो कोई task complete करके दिखा सकते हो। अपना workday दिखा सकते हो।
+[36:58] Speaker 1:  Shopping trip दिखा सकते हो। कोई journey दिखा सकते हो।
+[37:01] Speaker 1:  कोई order fulfillment दिखा सकते हो। कोई problem को आप कैसे solve कर रहे हो, उसे first POV angle से दिखा सकते हो।
+[37:06] Speaker 1:  तो इसके भी बहुत सारे formats हैं जो इस समय बहुत ही ज्यादा work कर रहे हैं। अब इसको ना shoot करने के लिए, आप देखो, चाहो तो आप इसे phone से भी shoot कर सकते हो।
+[37:13] Speaker 1:  Meta glasses आने लगी हैं आजकल, जिसके through first POV ads बहुत अच्छे shoot होते हैं। आप GoPro जैसे camera को use करके shoot कर सकते हो।
+[37:20] Speaker 1:  DJI का action camera आता है, उसका use करके shoot कर सकते हो। The only point is कि camera यहाँ रहेगा, आप अपने हाथ से उस चीज को showcase करोगे।
+[37:26] Speaker 1:  अब देखो, appliances and gadgets। अगर kitchen and cooking tools and equipment, SaaS and productivity जैसे आपके products हैं, तो उसमें ये जो हमारा first POV वाला ad है, ये बहुत अच्छा perform करता है।
+[37:36] Speaker 1:  Because यहाँ पर आप properly इन products का सही तरीके से demonstration कर सकते हो। अब मैंने आपको बोला था, मैं कुछ examples दिखाऊँगी।
+[37:42] Speaker 1:  So let's look at some of the examples।
+[37:51] Speaker 1:  तो देखो, वहाँ पे एक basic सा POV लिखा है। You got your hands on the swag that bags women founders.
+[37:56] Speaker 1:  और एक बंदा shoot कर रहा है और दिखा रहा है कि क्या हो रहा है exactly वहाँ पे। ये तो meta glasses का ही ad है, बहुत crazy है।
+[38:17] Speaker 1:  तो वो बहुत अच्छा है। अगर आप artwork या ऐसा भी कुछ चीज sell करते हो ना, तो उसमें भी बहुत काम आएगा।
+[38:21] Speaker 1:  एक ये है।
+[38:37] Speaker 1:  तो इस तरीके के ads बहुत अच्छे perform कर रहे हैं। आप first POV से उन ads को दिखा रहे हो।
+[38:41] Speaker 1:  And बता रहे हो कि exactly वो काम किया कैसे जाता है। तो इसे आप definitely try out करके देख सकते हो।
+[38:45] Speaker 1:  Especially वो industries जिनको मैंने अभी mention किया। और कि किस तरीके से shoot करना है, क्या thought होने चाहिए, narration क्या होना चाहिए, ये सारी details आपको video के नीचे मिल जाएंगी।
+[38:53] Speaker 1:  Make sure you check it out before shooting. बस always make sure करिए कि आपका जो frame है, वो properly settled हो।
+[38:59] Speaker 1:  आपकी audience के eye POV से हो। इसी के साथ-साथ आप कोई भी friction add मत करो।
+[39:02] Speaker 1:  बहुत सारे cuts add मत करो। And आप जो voice over दे रहे हो, उसकी script बहुत ही ज्यादा crazy हो।
+[39:06] Speaker 1:  और आपके पास एक बहुत ही बढ़िया first POV ad आ जाएगा। I'm pretty sure आप समझ गए होंगे कि first POV ad होता कैसे है, shoot कैसे करते हैं, structure क्या होता है, और script के क्या formula use कर सकते हैं।
+[39:15] Speaker 1:  अब हम मिलेंगे next chapter में, जहाँ हम एक और high converting ad structure के बारे में बात करेंगे। तब तक के लिए, bye।
+[39:36] Speaker 1:  ಬ್ರೋ, ಇವರಿಗೆ ಲೀಡ್ಸ್ ಬೇಕಾಗುತ್ತಾ? ಇವರಿಗೆ ರಿಸ್ಕ್ ಫಿಟ್.
+[39:45] Speaker 1:  रिटर्न रूम के बारे में बात कर सकते हो, सपोर्ट के बारे में, टीम के। ಕೇಳ್ಬಿಡು.
+[39:52] Speaker 1:  Hi everyone, and welcome to our new chapter. और आज हम जिस high converting ad structure के बारे में बात करने जा रहे हैं, that is in office ads.
+[39:57] Speaker 1:  बहुत ही simple मतलब होता है इसका कि जहाँ पर आप kind of office के अंदर या आपकी जो workplace होती है या ऐसी location जहाँ पर आप काम करते हो, वहीं पर अपनी videos को shoot कर रहे हो। बहुत ही simple kind of ad creative format है, but बहुत ही ज्यादा work कर रहा है कई industries में।
+[40:11] Speaker 1:  And इसमें आपको ना दो-तीन चीजें हमेशा make sure करनी हैं कि आप जहाँ पर भी kind of shoot कर रहे हो, वो real working space होनी चाहिए और ऐसा लगना चाहिए कि मतलब working space है, ऐसा नहीं कि आप इसमें कुछ fake create कर लो। एक पूरा complete process आपको दिखाना पड़ेगा उसमें।
+[40:24] Speaker 1:  और उसी के साथ-साथ आप चाहो तो अपने teammates को भी इस specific ad creative में use कर सकते हो। अब question आता है कि office वाले ads जो हैं, वो convert क्यों करते हैं?
+[40:33] Speaker 1:  देखो, सबसे पहला तो proof। आप अगर office में shoot कर रहे हो, तो सामने वाली audience को automatically realize हो जाता है that you are trustworthy, you have a office।
+[40:40] Speaker 1:  और office दिखेगा, authenticity बढ़ेगी and automatically आपकी conversion high होगी। Second होता है कि आप ना basically ऐसी location पर बैठे हो, जहाँ से आप अपना पूरा business run कर रहे हो।
+[40:50] Speaker 1:  Right? And जब ऐसी situation आप अपनी audience को showcase करते हो ना, तो उन्हें लगता है कि whatever they are ordering or whatever services they are enrolling for, that's pretty true।
+[40:58] Speaker 1:  तो अगर आपके ज्यादा, you know, organic following भी नहीं है, उसके बावजूद भी आपको ads में अच्छे results चाहिए, तो ये वाला जो office ads है, ये आपके लिए बहुत अच्छी performance लाकर दे सकता है। Third reason ये हो सकता है process की transparency।
+[41:09] Speaker 1:  मतलब आप अगर अपने office में बैठ के किसी को आपके product या service का पूरा process बता रहे हो ना, तो उसे feel होता है कि exactly उसका जो product या service है, कैसे complete की जाती है, जो automatically trustability increase कर देता है। तो in office ads बहुत अच्छे काम करते हैं।
+[41:23] Speaker 1:  आप in office में UGC बना सकते हो। साथ ही साथ आप चाहो तो storytelling ads बना सकते हो।
+[41:27] Speaker 1:  Like various formats को इसमें integrate कर सकते हो। लेकिन अगर office में shoot करते हो, तो आपको अच्छी performance मिलती है।
+[41:32] Speaker 1:  अब आप basically in office ads को shoot किस तरीके से करते हो? Like structure क्या होना चाहिए आपकी script का, वो देखते हैं सबसे पहले।
+[41:37] Speaker 1:  In office ad ना एक format है। इस format में आप किसी भी ad type को integrate कर सकते हो।
+[41:41] Speaker 1:  हमने अभी तक जितने भी ad types पढ़े हैं, कोई सा भी इसमें से आ जाएगा। जैसे for example, आप इसमें UGC भी बना सकते हो, जिसमें आप कैमरे के सामने बैठ के बात कर रहे हो।
+[41:48] Speaker 1:  आप चाहो तो अपना पूरा workspace दिखाकर बात कर सकते हो। तो बहुत सारी opportunities होती हैं।
+[41:52] Speaker 1:  तो यहाँ पर आप क्या कर सकते हो? Space पर घूम फिर के बता सकते हो, बहुत easily।
+[41:57] Speaker 1:  Scale करके दिखा सकते हो। Like आप wide angle में shoot कर सकते हो, अपने office के आसपास।
+[42:00] Speaker 1:  आप अपने office के बाहर shoot कर सकते हो। अपने billboard के पास shoot कर सकते हो।
+[42:03] Speaker 1:  तो shoot करने के बहुत सारे processes हैं, लेकिन structure इसका same ही रहेगा, जो हमारे बाकी पुराने ad creative में रहा है। जैसे for example, अगर आपका कोई D2C brand है, आप अपने warehouse पर हो, तो आप ऐसे अपनी video को start कर सकते हो कि आइए मैं आपको दिखाती हूँ कि आपका order exactly dispatch होता कैसे है।
+[42:18] Speaker 1:  ये हमारा warehouse है, रोज 400 order यहाँ से dispatch होते हैं। Order आता है, यहाँ pickup होता है, यहाँ पर pack होता है और यहाँ पर label होता है।
+[42:24] Speaker 1:  फिर एक person बोल सकता है कि ये इस person का order है, तीन साल से quality check इन्हीं के पास है। Seal ठीक नहीं है, तो हम डब्बा वापस कर देते हैं।
+[42:31] Speaker 1:  रोज 10 ऐसे ही निकल जाते हैं। इसलिए हमारा return to rate percentage बहुत ही ज्यादा कम है।
+[42:35] Speaker 1:  अगर आपने अभी तक हमारे साथ order नहीं किया, तो you can order right now. Manufacturers के लिए, founders के लिए, agencies के लिए, ये ad type बहुत ही अच्छा काम करता है।
+[42:44] Speaker 1:  जहाँ पर आप अपने warehouse का scenes दिखा सकते हो, packaging दिखा सकते हो, कैसे pack होता है order, quality के बारे में बात कर सकते हो, factory के floor के बारे में बात कर सकते हो कि raw material से box तक कैसे जाता है, return room के बारे में बात कर सकते हो, support के बारे में, team के introduction के बारे में। ऐसे सारे formats आप in office ads में use कर सकते हो।
+[43:01] Speaker 1:  D2C e-commerce, manufacturing and D2C brands, food and cloud kitchens, agencies, local retails and showrooms, repairs and workshops इनके लिए ये ads one of the best type of ads होते हैं, because इससे आपकी authenticity बहुत ही ज्यादा increase हो जाती है। अब मैं आपको कुछ ऐसे ad creatives दिखाती हूँ जो in office shoot हुए हैं, ताकि आपको समझ आए कि exactly ये होते क्या हैं।
+[43:19] Speaker 1:  कहा हमारा NTLO case महँगा है, तो हमने price गिरा दिया। आपने कहा फिर भी महँगा है, तो हमने 899 में दो कर दिए।
+[43:23] Speaker 1:  और अब आप कह रहे हो अभी भी महँगा है, तो सुन लो। रेज़ोनी की सबसे बड़ी सेल अब हो गई है लाइव, it's up to 60% off on all your favorite NTLO cases side by side।
+[43:30] Speaker 1:  अब चाहे वो iPhone हो, Samsung हो, Google Pixel या फिर OnePlus। रेज़ोनी है इंडिया का only clear case जो कभी yellow नहीं पड़ता, क्योंकि ये बना है।
+[43:35] Speaker 1:  तो आपने notice किया होगा, इसने proper जो होके अपना office में shoot किया है, बहुत सारे डब्बे दिख रहे हैं, पीछे warehouse दिख रहा है। जिससे trustability automatically gain हो रही है।
+[43:42] Speaker 1:  अब ये वाला देखते हैं हम।
+[43:46] Speaker 1:  Hey everyone, this is Arjun, co-founder of Dani Labs, and I wanted to show you the new BAS, only a thousand. पीछे office दिख रहे हैं।
+[43:51] Speaker 1:  This is the first production run, and we've made a lot of improvement over the previous BAS model. This has a super wide toe box, very suited for a lot of broader users.
+[43:58] Speaker 1:  Founder ही अपने office में बैठ के बता रहा है, तो that's very trustable। And it has a super clean aesthetic, no fade edges, and it has embroidered BAS trays.
+[44:05] Speaker 1:  Check it out on ganilabs.com and our store in Panchsheet Park and. एक और देखते हैं।
+[44:10] Speaker 1:  आप देखोगे scripting सबकी different different है, but ultimately उन्होंने shoot अपने office में किया है। आपने कहा हमारा NTLO case बनाना चाहते हैं।
+[44:17] Speaker 1:  Hello, I am Tanmay, founder of Minati Perfume. Minati is a premium white labeling service and third party.
+[44:21] Speaker 1:  ये पूरा walk करके दिखा रहे हैं। आपके brand के लिए best perfume, packaging and designing solutions देता है।
+[44:25] Speaker 1:  चाहे आपको एक unique smell चाहिए हो या designer bottle, हमारे पास हर option है। हमारी expert team आपके ideas को समझ के उन्हें real product बनाती है।
+[44:31] Speaker 1:  और ये market आज 10। तो पूरा office के अंदर shoot हुआ है।
+[44:33] Speaker 1:  कुछ हमने भी shoot किया है, आप वो भी check out कर लीजिए। 23 साल से मेरी मम्मी अपने घर का इंतज़ार कर रही थीं।
+[44:37] Speaker 1:  और finally जब अपना घर बनवाने का time आया, तो हमें एक ऐसे expert की जरूरत थी जो कि सच में हमारा vision समझ सके। देखो, कोई भी अपना घर एक ही बार बनाता है।
+[44:44] Speaker 1:  That's why you need an expert जिसको color और design sense के साथ-साथ ये भी पता हो कि हमारे emotions क्या हैं। And for that, you need an expert.
+[44:50] Speaker 1:  इसलिए मैं design bricks के office पे आया हुआ हूँ, क्योंकि मैंने इनके Instagram पे ad देखे थे। ये customer के POV से हैं।
+[44:55] Speaker 1:  मुझे बहुत अच्छा लगा। और इनसे बात करने के बाद मुझे पता चला कि इनके prices भी बहुत affordable हैं।
+[44:59] Speaker 1:  मैं तो सोच रहा था कि मेरा budget 20-30 लाख रुपये तक जाएगा। मेरी mother तो बहुत खुश हो जाएंगी।
+[45:04] Speaker 1:  और अगर आपको। तो ये basically customer के POV से उनके office में था।
+[45:06] Speaker 1:  आप इस type के भी ads shoot कर सकते हो। एक हम ये वाला देखते हैं।
+[45:09] Speaker 1:  गलत जगह से solar plant install करवाओगे तो पैसे तो डूबेंगे ही, साथ में बिजली का बिल भी आएगा। देखो, आजकल हर कोई solar plant install करवा रहा है।
+[45:15] Speaker 1:  आपने कुछ factories, offices और घरों के ऊपर ये solar installations लगे देखे ही होंगे। और solar plant install करवाना कोई मजाक नहीं होता।
+[45:21] Speaker 1:  It's a long-term commitment. यहाँ customer trust ढूंढता है।
+[45:23] Speaker 1:  इसलिए मैं आ गया हूँ JMD Solar Energy पर, जो कि heavy installation के साथ-साथ 24x7 support भी provide करते हैं। JMD Solar Energy भोपाल की इकलौती ऐसी कंपनी है जो कि hot-dip structure का use करती है।
+[45:32] Speaker 1:  तो देखिए, उनके पूरे office में घूम के दिखा रहे हैं किस तरीके से। तो automatically trustability increase हो रही है।
+[45:37] Speaker 1:  अब देखो, एक चीज और, आप जब भी basically office ad shoot करो, ऐसा नहीं लगना चाहिए कि वो बहुत ज्यादा fake है। मैं usually suggest करती हूँ, अगर office ad create ही करने हैं, तो आप as a founder, आप as an teammate, as an employee ये shoot करो।
+[45:48] Speaker 1:  Because वो और भी ज्यादा relatable लगता है। इसी के साथ-साथ आप montages दिखा सकते हो, B-rolls दिखा सकते हो अपने office के in between, क्योंकि वो एक बहुत realistic approach देता है।
+[45:56] Speaker 1:  मेरे जितने भी ads shoot होते हैं, सारे in office ads होते हैं। Because मेरी अगर कोई agency है, तो लोगों को अगर दिखेगा कि agency में काम कैसे होता है, तो automatically trust build up हो जाता है।
+[46:04] Speaker 1:  तो ये थोड़ा सा छोटा chapter है, but I hope आप समझ गए होंगे कि in office ads create कैसे करते हैं। Now I'll be meeting you in the next chapter, जहाँ पर हम एक और high converting ad structure के बारे में बात करेंगे।
+[46:24] Speaker 1:  हाँ, कल से।
+[46:28] Speaker 1:  Location, audience, campaign goal, budget, booking link ಇದ್ರಲ್ಲಾ ಇತ್ತಲ್ಲಾ. Website ಐತಲ್ಲಾ, ಅಲ್ಲೇ book ಮಾಡ್ಕೋಬೇಕಾ, WhatsApp ಬರಬೇಕಾ ಅಂತ.
+[46:42] Speaker 1:  ಕಾಲ್ಸಿದ್ದೀನಿ message.
+[46:58] Speaker 1:  'Ms. Krishna' ಅಂತ ತಗೊಂಡೈತೆ.
+[48:00] Speaker 1:  ಮುಗಿತಾ ಎಲ್ಲಾ? ಮುಗಿತಾ ಎಲ್ಲಾ.
+[48:05] Speaker 1:  ಅದಕ್ಕೆ ಟೋಕನ್ಸ್ ಕೊಡಬೇಕಲ್ವಾ, ಅದು URL ಟೋಕನ್ಸ್ ಎಲ್ಲಾ ಬೇಕಾಗುತ್ತೆ.
+[48:13] Speaker 1:  I guess mobile number ಐಡಿ ಕೊಟ್ಟರೆ ಸಾಕಲ್ಲವಾ? ಅದಕ್ಕೆ.
+[48:19] Speaker 1:  ಇಷ್ಟು ಬೇಕಾಗುತ್ತೆ. Business ID, app secret ಅಂತ.
+[48:25] Speaker 1:  ನೋಡ್ರಿ. ಆಗ್ತಿದೆ.
+[48:28] Speaker 1:  Let's just wait. ನಿಮ್ಮವರು ನೋಡಿದ್ರಾ vlog?
+[48:33] Speaker 1:  ಚೆನ್ನಾಗಿದೆ.
+[49:09] Speaker 1:  फिर आपने order किया, आपके पास product आया, आपने उस product को।
+[49:15] Speaker 1:  Hi everyone, and welcome to our new chapter. Last कुछ chapters में हमने बहुत सारे, you know, discuss किए हैं high converting ad structures।
+[49:21] Speaker 1:  This is one of my favorite one, which is called Ad Review Ad. ये basically क्या होता है, मैं ना आपको बड़े simple से example के साथ समझाने की कोशिश करती हूँ।
+[49:27] Speaker 1:  आपने पता नहीं, I don't know, एक creator को देखा है कि नहीं, जो basically एक video review करता है और फिर card ऐसे करके बोलता है, "I'd want this on my desk right now." वो product लेकर आता है, and उसके बाद वो product का review करता है।
+[49:39] Speaker 1:  तो basically ऐसा होता है कि आप ना कुछ ऐसा fake style create करते हो, जहाँ पर एक person होता है, वो person आप ही के ad को review करेगा। और फिर उस product को मंगाएगा, test out करेगा, and उसके बाद अपना opinion देगा।
+[49:51] Speaker 1:  अब आप चाहो तो इसे real भी बना सकते हो, fake भी बना सकते हो, choice up to you है। Usually हम fake ही बनाते हैं, because real बनाना थोड़ा सा ज्यादा difficult हो जाता है।
+[49:59] Speaker 1:  And ये convert बहुत ज्यादा अच्छा करता है, because पहली बात तो बड़ी simple सी चीज है, देखो, एक user है, वो user आपके ad को review करके वो product मंगवा रहा है। तो एक trustability already build हो गई कि कोई second person ये चीज कर रहा है, वो brand से associated नहीं है।
+[50:12] Speaker 1:  और उसके बाद जब वो आपके product को review करता है, तो उसका ना पूरा सही तरीके से demonstration हो जाता है, मतलब दिख जाता है कि product किस तरीके से काम करता है। या अगर आपने इसको किसी service based industry से, you know, edit किया है, तो उसका पूरा सही तरीके से review हो जाता है, and ultimately वो audience को बहुत ज्यादा पसंद आता है।
+[50:27] Speaker 1:  And audience अगर आपका video end तक देख रही है, तो there are great chances कि वो आपकी website पर जाएगी। Website पर जाएगी, तो automatically आपका जो conversion है landing page पर, वो काफी ज्यादा increase होगा।
+[50:36] Speaker 1:  Because सामने वाले बंदे ने आपके नहीं, बल्कि किसी एक ऐसे creator रख लो, या फिर एक unknown stranger बंदा रख लो, उसके POV से सुना है, तो उसे उस चीज पर ज्यादा trust हो रहा है। आज के time पर लोग creators पे बहुत ज्यादा trust करते हैं, and the reason is simple, they have the same problem any other audience might have, and ऐसे ही आप same strangers के साथ भी कर सकते हो।
+[50:54] Speaker 1:  अब point आता है कि ad review किसके करने हैं। देखो, आप अपने खुद के ad को भी review करवा सकते हो।
+[50:58] Speaker 1:  आप चाहो तो एक ऐसे ad को review करवा सकते हो, या ऐसा कोई testimonial जो आपके customer ने आपको भेजा हो। आप चाहो तो किसी और category के ad को review कर सकते हो, या फिर किसी famous ad को kind of review करके अपना product integrate कर सकते हो।
+[51:11] Speaker 1:  Competitor के ad को review कर सकते हो, but not in a weird way, because फिर यहाँ पर क्या होता है, safety के थोड़े वैसे हो जाते हैं। I always suggest कि आप खुद के ad को, या फिर customer ने आपको कुछ भेजा हो, उसी को review करो।
+[51:20] Speaker 1:  Because वो देखने में काफी ज्यादा authentic लगता है, और ये एक ऐसा content का style है जो organically भी बहुत ज्यादा अच्छा perform करता है। अब point आता है कि इस type के ads create कैसे करते हैं।
+[51:28] Speaker 1:  बहुत ही ज्यादा simple सा है। आप यहाँ पर mostly या तो मान लो ये आपकी screen है।
+[51:32] Speaker 1:  आप screen में यहाँ पर हो, यहाँ पर वो ad चल रहा है। या तो आप यहाँ पर cut out में हो, यहाँ पर वो ad चल रहा है। 
+[51:38] Speaker 1: ठीक है? And आप सबसे पहले वो video को पूरी तरीके से complete करोगे, और फिर आप बताओगे कि आपको video कैसे मिली। Like for example, ये video मुझे Instagram पर recently में दिखी, and I thought I should order this.
+[51:46] Speaker 1:  फिर आपने order किया, आपके पास product आया, आपने उस product को test किया, उसका review दिया, बताया should you buy it, and then finally CTA दिया। This is the exact structure.
+[51:57] Speaker 1:  सबसे पहले हम ad देखते हैं। Ad देखने के बाद हम कहते हैं कि हमें ये कहाँ से मिला, कहाँ से मिला, उसके बाद हम उसको test करते हैं, उसका review देते हैं, क्या आपको लेना चाहिए, and we end it with a call to action.
+[52:07] Speaker 1:  बहुत ही simple सा process है। अब देखो, इसमें creative studio, edtech, e-commerce, हर जगह ये बहुत ज्यादा काम करता है, लेकिन personally e-commerce businesses के लिए ये सबसे ज्यादा अच्छा काम करता है।
+[52:15] Speaker 1:  अगर वो jewelry हो, fashion हो, apparel हो, home decor हो, या फिर home utility के items हों, या ऐसी locations पर ये बहुत अच्छा काम करता है। ये tech industry में भी बहुत अच्छा perform करता है।
+[52:24] Speaker 1:  Let's look at some of the examples ताकि मैं आपको समझा सकूँ कि ये होते कैसे हैं। Can you do like this?
+[52:31] Speaker 1:  देखो, सबसे पहले ये बंदा बैठा है, इसका ad देख रहा है।
+[52:41] Speaker 1:  Soap का magic soap जो आपकी body से tan remove करता है। और इसके अंदर natural ingredients like केसर और चंदन भी होते हैं।
+[52:45] Speaker 1:  अब वो बता रहा है product। और ये अब मेरे shoulder पे, shoulder पे, shoulder पे, shoulder पे लगेगी।
+[52:50] Speaker 1:  So check कर लीजिएगा, मैंने soap को use करना start किया, but मुझे कोई खास difference दिखा नहीं। तो सोचा थोड़ा regular use करके देख लें, क्योंकि natural ingredients से ही बना हुआ था, तो कोई दिक्कत वाली बात तो थी नहीं।
+[52:59] Speaker 1:  And surprisingly अब वो demonstrate कर रहा है, and then he's showing the result. जब difference दिखना start हुआ था, but obviously कोई दूसरा soap use करने का मन नहीं करा।
+[53:05] Speaker 1:  And एक week तक try करने के बाद आप results देख ही सकते हो, like इतना सारा tan remove हो गया है। और इससे आपके 7 days का comparison भी देख लो।
+[53:10] Speaker 1:  और मैं अपना genuine personal experience share करूँ तो। फिर अब वो बता रहा है, okay, ये वाला एक side से skin को moisturize करता है, and।
+[53:16] Speaker 1:  तो इसने properly पूरे soap के बारे में बताया, और फिर बता दिया आप कहाँ से ले सकते हो। तो इस जैसे हम ये वाला भी एक बार देख लेते हैं।
+[53:23] Speaker 1:  Can you believe this? It took him till 2025 for someone to finally invent this thing.
+[53:27] Speaker 1:  It's a high-def big screen phone magnifier. Just pull the screen up, put your phone behind it, and boom, you've got a mini theater right in front of you.
+[53:32] Speaker 1:  What the fuck? I need it on my desk now.
+[53:35] Speaker 1:  Whoo! Okay, chat, I trust your phone to a high-definition mini theater.
+[53:40] Speaker 1:  Alright, let's now test. What?
+[53:45] Speaker 1:  This plastic magnifier is powered by the incentive. तो ऐसे करके kind of product के ad के ही आप review देखते हो, और उसी product के ad पर kind of क्या करते हो, comment करते हो, product को demonstrate करते हो।
+[53:54] Speaker 1:  हमने भी कुछ ad create किया है, मैं आपको वो दिखा देती हूँ। Seven healthy snacks that you need to try from blanket right now.
+[54:00] Speaker 1:  Save कर लेना, काम आएगा। इस influencer के suggested मैंने बहुत सारे products try किए, पर उसमें से एक product मुझे बहुत ही ज्यादा अच्छा लगा।
+[54:06] Speaker 1:  तो ये रहा वो product, चलो taste करते हैं। अब demonstrate product demonstration।
+[54:11] Speaker 1:  सेम वैसा ही taste करती है, जैसा high quality bakeries में जो biscuit होते हैं, वैसा। और जब से मैंने वो reel देखी है, तो मुझे पता चला कि जो market में cookies available हैं, उसके अंदर saturated fat, मैदा, शुगर।
+[54:19] Speaker 1:  अब वो problems के बारे में discuss कर रहा है। जो कि long term में आपकी health के लिए बिल्कुल भी अच्छा नहीं है।
+[54:23] Speaker 1:  और वहीं ये ripe ship cookie मैदे से नहीं, आटे से बनती है। Plus इसके अंदर sugar नहीं, jaggery use होता है।
+[54:27] Speaker 1:  और इसको cook करने में palm oil का use ही नहीं होता। So it has zero palm oil।
+[54:30] Speaker 1:  और daily snacking के लिए ये cookies बहुत ही बढ़िया healthy alternatives हैं। तो आप जब भी late night snacking करो, तो unhealthy से बढ़िया healthy।
+[54:36] Speaker 1:  तो basically उसने ad देखा, उसने ad पर review किया, और उसके बाद वो product test out करके बताया। ये भी kind of वैसे ही है, ये देख लेना।
+[54:41] Speaker 1:  Example बहुत viral है, इसलिए मैंने भी इस model को लिया। Let's see, ये actually में worth it है या ऐसे ही hype है इसकी।
+[54:46] Speaker 1:  Okay, तो सबसे पहले अगर मैं इसकी material की बात करूँ, तो material काफी premium vibe दे रहा है। I mean अब वो अपना POV दे रही है।
+[54:52] Speaker 1:  And color भी बहुत vibrant है। तो अब हम इसके अंदर से भी देख लेते हैं कि अंदर से कैसा दिखता है।
+[54:56] Speaker 1:  इसमें मुझे कई सारे compartments दिख जा रहे हैं, for different different jewelries। Like मैं इसमें बहुत सारी ring रख सकती हूँ, इधर handcuff वगैरह, इधर earring।
+[55:02] Speaker 1:  And the best part, इधर पीछे भी आप सामान रख सकते हो इसमें। Like काफी spacious है।
+[55:06] Speaker 1:  Okay, now let's see कि इसमें मेरी actually कितनी jewelries fit हो सकती हैं। जैसे कि आप देख सकते हैं, मैंने इसमें कुछ handcuffs रखे हैं, मेरी बहुत सारी earrings, ring, and pendant।
+[55:13] Speaker 1:  And still बहुत सारी space बाकी है। I must say, ये product तो बहुत काम का है, and इसमें actually बहुत सारी jewelries fit आ जाती हैं।
+[55:18] Speaker 1:  And अगर आपको भी इसकी link चाहिए, तो comment करो link, and I will send you the link in DM। तो बहुत ही simple सा ad था, एक ये देख लेते हैं।
+[55:26] Speaker 1:  Can I call you Rose? Okay।
+[55:29] Speaker 1:  गर्मी peak पर है, और एक चीज बिल्कुल afford की नहीं जा सकती, वो है बुरा smell करना। तो मैंने Bella Vita का ये new fragrance try किया, जो कि first spray में ही एक fresh, clean और citrusy vibe देता है।
+[55:38] Speaker 1:  Same process है, तो इस तरीके से आप ads को review कर सकते हो। अपने खुद के ad को ही review करके किसी creator से करवा सकते हो।
+[55:44] Speaker 1:  इसमें बहुत अच्छी performance आती है। बस आपको ना कुछ चीजें make sure करनी हैं।
+[55:47] Speaker 1:  Always make sure करिए कि अगर आप ad को review कर रहे हैं, तो उसका एक बहुत ही simple सा process होता है, जो मैं आपको एक बार वापस से समझा देती हूँ। बहुत ही simple सा process होता है।
+[55:56] Speaker 1:  अगर किसी ad को आपको review करना है, तो सबसे पहले आप उस ad को देखोगे, basically in front of the camera। उसके बाद बताओगे कि ये आपको मिला कहाँ पर, मिला कहाँ पर ये ad।
+[56:08] Speaker 1:  उसके बाद आप उसको test करोगे, उसको review करोगे, मतलब अपना verdict दोगे, and should someone buy it. And उसके बाद अपना CTA।
+[56:17] Speaker 1:  This is the exact structure जिसमें आपको इस type के ad create करने हैं। अगर आप e-com में हो, FMCG में हो, आपकी कोई normal, you know, real estate से related कुछ है, तो ऐसी locations पर ये बहुत अच्छे काम करते हैं।
+[56:27] Speaker 1:  Make sure you definitely give them a try. And ये वाला part भी बहुत ज्यादा छोटा होने वाला है, because ad review type ads में there is no such strategy that you should implement.
+[56:34] Speaker 1:  But ये है कि ये वाला जो type of format है, ये बहुत अच्छा काम करता है। अब मैं मिलूँगी आपसे next नए ad structure में।
+[56:39] Speaker 1:  तब तक के लिए, bye-bye।
+[57:01] Speaker 1:  Hi everyone, welcome to our new chapter. और आज specific highly converting ad structure के बारे में हम बात करने जा रहे हैं, that is Ask Me Anything ad.
+[57:07] Speaker 1:  आपने, I don't know, notice किया होगा, बहुत सारी ऐसी videos होती हैं, जहाँ पर जब आप Instagram पर किसी चीज का reply करते हो, किसी question का, तो एक sticker bumper आता है ऊपर, जहाँ पर Ask Me Anything लिखा रहता है, and उसके नीचे वो question लिखा रहता है, जिसका लोग answer करते हैं। अब ये format ads में भी आजकल बहुत ज्यादा काम कर रहा है, जहाँ पर कोई founder हो गया, या फिर कोई teammate हो गया, या फिर कोई customer हो गया, वो उस specific question
+[57:27] Speaker 1:  का, काफी सारे लोग तो creators को भी use करते हैं, वो उस specific question का उस video में answer करता है। So you don't have to talk about the question, rather just start the video with the answer. जहाँ पर आपने question पढ़ के सुनाया, और उसका simply answer किया।
+[57:38] Speaker 1:  अब ये type का ad format सबसे ज्यादा कहाँ पर काम करता है? Retargeting campaigns में, और आपकी middle of the funnel audience के लिए, जो already आपके product की problem के बारे में बहुत ही अच्छे से aware हैं, and they know what do you sell.
+[57:48] Speaker 1:  तो उससे क्या होता है, उनके दिमाग में कुछ specific questions होते होंगे ना, जैसे हर एक business के कुछ ना कुछ questions होते हैं। मान लो e-commerce की बात करी, तो उसमें रहता है ना, do you return your products?
+[57:56] Speaker 1:  आपका replacement रहता है या नहीं रहता, refund लेते हो कि नहीं लेते, ये तो basic questions हैं। लेकिन कुछ लोगों के और भी in-depth questions होते होंगे, कि आपका perfume कितने समय तक last करता है, like whatever perfume you sell, वो कितने समय के लिए चलता है।
+[58:06] Speaker 1:  तो ऐसे question के answer आप बहुत subtly कर सकते हो, with Ask Me Anything ad type। जैसा कि मैंने यहाँ पर भी mention किया है, एक real question रहता है from a person, जहाँ पर सामने वाला बंदा directly camera पर बैठकर उस चीज के बारे में बात करता है।
+[58:17] Speaker 1:  Make sure करिए कि आप जो भी question use कर रहे हैं, वो आपकी industry से relevant हो, और वो कहीं ना कहीं आपकी conversion increase करने में help करे। क्योंकि ये ads का सबसे best part, आपको पता है, like ये convert क्यों करते हैं।
+[58:28] Speaker 1:  First is कि इन्हें volume में create करना बहुत ज्यादा आसान है। आप Ask Me Anything ads एक बार में बैठ के 10-12 shoot कर सकते हो, because it doesn't require a very good setup and everything.
+[58:36] Speaker 1:  आपको बस उस question का answer करना है। आप park में करो, गाड़ी में करो, अपने घर पे करो, office में करो, you can do it anywhere.
+[58:41] Speaker 1:  But इसको volume में create करना आसान है, जिससे आप easily scale कर सकते हो अपने ads को। Secondly, ये इसलिए इतने ज्यादा अच्छे perform करते हैं, because आप अपनी audience के किसी एक question का सिर्फ answer करते हो, और वो question आपको make sure करना है कि आपको relevant choose करना है।
+[58:53] Speaker 1:  अब आपके दिमाग में आ रहा होगा कि यार, ये मुझे Instagram replies से करना पड़ेगा, but ऐसा कुछ भी नहीं है। आप इसे simply fake कर सकते हो।
+[58:59] Speaker 1:  आप किसी से editing करवाते हो, या आप खुद भी edit करते हो अपने ads को, तो आप simply वो वाला sticker का template आपको कहीं पर भी मिल जाएगा। आप उसे use कर लो, and same to same चीज वहाँ पे आपका जो भी question है, उसको add कर दो, and simply उसका answer कर दो।
+[59:11] Speaker 1:  अब जैसे देखो, और भी कई सारी चीजें होती हैं। जब आप वो Ask Me Anything वाला use करते हो ना, तो audience को ऐसा लगता है कि भाई, ये जो question है, ये मेरे ही जैसे किसी person ने पूछा है, which means कि वो उससे relate कर पा रहा है, वो उसकी problem से relate कर पा रहा है।
+[59:23] Speaker 1:  And जैसा कि मैं आपको पहले बताई हूँ कि आपके ads में अगर दो चीजें हैं, एक relatability और एक emotions। अगर आप ये दोनों चीजें किसी भी audience की trigger कर ले जाते हो, तो वो ad आपका automatically अच्छा perform करने लगता है।
+[59:34] Speaker 1:  And that is why Ask Me Anything ads आपको अच्छी conversions लाकर दे रहे हैं। अब point ये होता है कि अगर मान लो आपको Ask Me Anything ad create करने हैं, आपको पता नहीं है questions कहाँ से लेकर आना है।
+[59:42] Speaker 1:  तो the best way to research about is कि सबसे पहले तो आप अगर organic content post करते हो, तो अपने comment section को scroll करके देखो कि लोगों के दिमाग में सबसे पहले questions क्या pop up होते हैं, और उन्हीं question का answer अपने ad में करो। वहाँ नहीं समझ आ रहा, तो आप अपने WhatsApp, DMs, या फिर Facebook के messenger कहीं पर भी check कर सकते हो।
+[59:57] Speaker 1:  आप अगर अपने customer से sales call पर बात करते हो, उनके भी कुछ questions होंगे, तो आप उनके questions को ही ad में convert कर सकते हो। आपको कोई support tickets आती होंगी, या फिर आपने Ask Me Anything कभी किया हो Instagram पे stories पर, तो वो questions आप उठा लो।
+[60:09] Speaker 1:  कोई search के suggestions उठा लो। Google पे search करके देख लो कि आपकी industry से related लोग क्या questions search करते हैं।
+[60:13] Speaker 1:  Like for example, मेरा Meta Ads का कोई curriculum है। अब Meta Ads के curriculum में, honestly सी बात है कि for example, एक question ऐसा होता है कि मेरा एक e-commerce business है, लेकिन मेरे product का ROAS कभी down ही नहीं जाता है, which is a very big problem of e-commerce owners.
+[60:25] Speaker 1:  तो मैं उसका answer करके उस question को cater कर सकती हूँ। And अगर आपकी organic presence नहीं है, तो आप simply अपने competitor के comment section पर जाओ, और उसके scrape करके Ask Me Anything ads create कर लो।
+[60:36] Speaker 1:  अब Ask Me Anything ad कैसे बनता है? आपका ये screen है, यहाँ पर Ask Me Anything वाला format लगा हुआ है।
+[60:41] Speaker 1:  यहाँ पर आपको for example, आपने question पढ़ा, उस question का answer किया, अपना product pitch किया, एक proof या credibility add करी, और CTA के साथ end कर दिया। Simple as simple as that.
+[60:52] Speaker 1:  Now I'll show you कि क्या formats होते हैं basically Ask Me Anything ads create करने के। आप comment के screenshot का answer ले सकते हो, DM का screenshot use कर सकते हो, rapid fire questions use कर सकते हो, इसी के साथ-साथ most asked या फिर frequently asked questions use कर सकते हो, और Ask Me Anything में किसी भी type का question add कर सकते हो।
+[61:09] Speaker 1:  कुछ आपको ad creatives दिखाती हूँ, जो जिससे आपको समझ आए कि मैं किसकी बात कर रही हूँ basically। उससे पहले कुछ industries देख लेते हैं।
+[61:15] Speaker 1:  जैसे Ask Me Anything ना mostly courses and coaching, skin care, SAS, fashion, services, ऐसी industries के लिए बहुत अच्छे काम करते हैं। तो आपको तो definitely इन categories में ये वाला जो ad का type है, ये use करना चाहिए।
+[61:26] Speaker 1:  अब let's look at some ads. भाई, एक comment आई है कि आदिल कादरी के सारे perfume try करने हैं, लेकिन कैसे कर सकते हैं?
+[61:31] Speaker 1:  अच्छा, ऐसी बात है। चलो, आपको मैं दिखाता हूँ।
+[61:35] Speaker 1:  तो आदिल कादरी ने launch किया अपना perfume discovery set, जिसमें आपको आदिल कादरी के सारे perfume try करने को मिल जाएंगे। तो इसमें आपको आदिल कादरी के most popular perfumes शनाया, शनाया गोल्ड, एक्यू 365, और प्लस most awaited new launched डर्ट स्टोरी perfume भी try करने को मिल जाएगा।
+[61:48] Speaker 1:  और एक secret बात बताऊँ? इसके अंदर नज़ीना, सफीरा, और शनाया वुड, जो अभी तक आदिल कादरी का perfume बेस में launch नहीं हुआ है, इसके अंदर आपको ये भी try करने को मिल जाएगा।
+[61:55] Speaker 1:  इसे order करने के लिए आप हमारी website आदिल कादरी डॉट कॉम visit करिए और अपना order कीजिए। या फिर हमारे offline store पर से भी आप purchase कर सकते हैं।
+[62:01] Speaker 1:  तो बड़ा simple सा था, किसी ने आके question पूछा कि आपके comment में ये लोग पूछ रहे हैं, इसका answer दे दीजिए, और उसने simply अपने warehouse में ये answer दे दिया। जिसमें देखो, इसमें तीन ad formats हैं।
+[62:09] Speaker 1:  एक तो हमने जो अभी discuss किया, that is हमारा Ask Me Anything ad, दूसरा हो गया first वो calling out ad हो गया, तीसरा हो गया आपका in-office ads। इन तीनों को integrate करके ये ad create किया गया है।
+[62:19] Speaker 1:  This is literally my most asked question, so let's how do you manage your salary? This is literally my most asked question, so let's talk money.
+[62:24] Speaker 1:  In your 20s, you need to fulfill your responsibilities and have a lifestyle of your own. I got you.
+[62:28] Speaker 1:  In this digital age, when everything is available at a click of a button, I know how difficult it is to save money. This is my card, alright?
+[62:33] Speaker 1:  These are all the things that I need to buy. And look at how much money I need to pay for it.
+[62:36] Speaker 1:  This is the exact same card, but on Amazon now. And I'm saving so much money.
+[62:40] Speaker 1:  Now, on a one-on-one basis, it might not seem a lot, but imagine you're buying all of this. तो basically she started with the frequently asked question that she gets, और उसके बाद वो explain कर रही है।
+[62:47] Speaker 1:  And you have to go and stay for that one single thing. This is how you make the effect of the exact same Amazon now she has integrated।
+[62:53] Speaker 1:  उसके बाद उसने Amazon now integrate किया है, बहुत simply, जो एक बहुत ही अच्छा ad है। Now let's look at some of the ads that we created.
+[62:59] Speaker 1:  I can't believe it कि लोग आज के time पे भी SMH पे भरोसा करते हैं। सनस्क्रीन का गोरे होने से कोई लेना देना नहीं है।
+[63:04] Speaker 1:  सनस्क्रीन आपकी skin को use। तो basically वो question add किया और question पर answer कर रही है।
+[63:08] Speaker 1:  Let's look at this one. क्या gaming और video editing के लिए दो अलग-अलग headphones लेने पड़ेंगे?
+[63:13] Speaker 1:  अबे मर गया ना यार। अब ये भाई ने एक question पूछा है, इसका answer मैं आपको दे देता हूँ।
+[63:17] Speaker 1:  बहुत ही basic और simple सा answer है। आपको literally अलग-अलग काम के लिए अलग-अलग headphone लेने की जरूरत नहीं है, क्योंकि मैं खुद एक gamer और video editor हूँ।
+[63:23] Speaker 1:  तो मैं आपको ये बात बता रहा हूँ, ये मेरे एक single headphone literally दोनों काम कर देते हैं। मतलब video editing भी और gaming भी।
+[63:28] Speaker 1:  तो बहुत ही raw तरीके से बता रहा है उस question का answer, और आगे headphone integrate हो जाएगा। तो I hope आप समझ गए होंगे कि किस तरीके से हम ये Ask Me Anything ads को create करते हैं।
+[63:36] Speaker 1:  And literally इन्हें भी definitely try out करिएगा। मुझे ऐसा लगता है कि इसे volume में create किया जा सकता है, that's why आप इनकी performance को थोड़ा जल्दी analyze कर सकते हो, और इसमें ज्यादा editing की requirement भी नहीं लगती है।
+[63:46] Speaker 1:  अब हम मिलेंगे हमारे next chapter में, जहाँ पर हम और भी चीजें in-depth discuss करेंगे। तब तक के लिए bye।
+[64:04] Speaker 1:  Question ನ ಇದು ಹಾಕ್ಬಿಡು audience offer budget ಏನು ಅಂತ question mark ಹಾಕ್ಬಿಡು ಅಲ್ಲೇ type ಮಾಡು ಅವರಿಗೆ what about audience offer and budget ಇವರು ಏನಾದ್ರೂ ಐದು ಹತ್ತು ನಿಮಿಷ ಅಲ್ಲಿ ವಾಪಸ್ ಮಾಡಿ ಅಂದ್ರೆ call ಕಾಮ್ ಮಾಡು bulleting points offer and budget ಟೈಮ್ ಆಗುತ್ತೆ ಟೂ ಹವರ್ಸ್ ಒಂದು ಐದು 16 ಮಿನಿಟ್ಸ್ ಬಂದಿದೆ ವೇಸ್ಟ್ ಆಫೀಸ್ ಫೋನ್ ಅವರ ಹತ್ರನೇ ಆಯ್ತಾ ಆಫೀಸ್ ಫೋನ್ ಹೌದು ನನ್ನ ಆಫೀಸ್ ಫೋನ್ ಕಸ್ಟಮ್ ಅಕೌಂಟ್ ಹೌದು ಸರ್ ಪ್ರೊಫೈಲ್ ಅಲ್ಲಿ ಅದು ಸರ್ ಇನ್ಸ್ಟಾ ಪ್ರೊಫೈಲ್ ಫೇಸ್ಬುಕ್ ಪ್ರೊಫೈಲ್ ಆಯ್ತು ಆಯ್ತು ಎರಡುವರೆ ಹಾಕಿ ಟೀತ್ ತಗೊಂಡು ಹೋಗ್ತೀನಿ ಅಲ್ಲಿ ಹೋಗ್ತೀನಿ ಇವರು ತಂದಿಲ್ಲ ತಂದಿ ನನಗೆ ಯಾಕೋ ತಗೊಳಲ್ಲ ಅಂತ ಅನ್ನಿಸ್ತು ನಿನ್ನೆನೇ ಹೋಗಿಲ್ಲ
+[66:42] Speaker 1:  ಯಾಕ ಕಸ್ಟಮ್ ಇದು ಯಾವ ಅಕೌಂಟ್ ಗೆ ಯಾವ ಅಕೌಂಟ್ ಇಂದ ದುಡ್ಡು ತೆಗಿತಾ ಇದೆ ನೋಡಬಹುದಾ ಇಲ್ಲ ಫೋಟೋ ಬೇಕಾಗುತ್ತೆ ಜೊತೆ ಇದ್ರಲ್ಲೇ ಸಿಟಿ ಡಬ್ಲ್ಯೂ ದು ಒಂದು ಆಡ್ ಕ್ಯಾಂಪೇನ್ ಸೆಟ್ ಮಾಡಬೇಕು ನೆನ್ನೆ ರೋಬೋಟ್ ಡಾಗ್ ದು ರೇಸ್ ಎಲ್ಲಾ ಮಾಡಿದ್ದಾರೆ ಯಾರು ನಾಳೆನು ಮಾಡ್ತಾರೆ ಗೊತ್ತಾ ನೆನ್ನೆ ಪರಮ ಅಂತ ವಿನ್ ಆಗಿದೆ ಫಸ್ಟ್ ಗೋಲ್ಡ್ ಕೊಟ್ಟಿದ್ದಾರೆ ರೋಬೋಟ್ ಬೇಗ ಹೊಡೆದುಬಿಟ್ಟು ಕೊಟ್ಟವರೆ ರೋಬೋಟ್ ಡಾಗ್ ರೇಸ್ ಹಂಗೆ ಕೊಡ್ತಾರಾ ಅವರು ನಾನು ನೋಡಿದ್ರೆ ನೋಡ್ತೀರಾ ನಾಲ್ಕು ಕಾಲಲ್ಲಿ ನಾಲ್ಕು ಆಗಲ್ಲ ಎರಡು ಕಾಲು ಸಾಕು ಎರಡು ಕಾಲು ಕ್ವಾಲಿಫೈ ನಾಲ್ಕು ಇರಬೇಕು ಅದು ಓಡಿ ಹೋಗಿ ಮತ್ತೆ ಓಡಿ ಬಂದಿದೆ ವಾಪಸ್ ಕಾಲು ಕಟ್ಟೋದು ಏನು ಅದು ಬಂದ್ರುನು ಇಷ್ಟೊಂದು ದಿನ ಬಂದೆ ಇಲ್ಲ ಬ್ರೋ ಇದು ಗೊತ್ತಿಲ್ಲ ನೈಸ್ ನಾರ್ಮಲ್
+[68:12] Speaker 1:  ಮೆಸೇಜ್ ಬೇಕು facebook ಅಲ್ಲೇ ಬರುತ್ತೆ ಹೆಂಗೆ ಹೊಡಿಬೇಕು ಅಂದ್ರೆ ಅಲ್ಲಿ ತೋರಿಸಿಬಿಡೋದು whatsapp ಗೆ ಹೋದ್ರೆ whatsapp ಅಲ್ಲಿ ತೋರಿಸುತ್ತೆ ಪೇಮೆಂಟ್ ಮೆಥಡ್ ಏನಿಲ್ಲ ಮೆಥಡ್ ಏನು ಆಗ್ಲಿಲ್ಲ ಆಟೋಮ್ಯಾಟಿಕ್ ಏನು ಕಟ್ ಆಗಲ್ಲ ನಾವೇ ಆಡ್ ಮಾಡ್ತಾ ಇರ್ತೀವಿ ಅಷ್ಟೇ ಬೇರೆ ಅಕೌಂಟ್ ಇದೊಂದೇನೆ ಇರೋದು ತ್ರೀ ಆಡ್ ಅಕೌಂಟ್ಸ್ ಇದೆ ಇದೆಲ್ಲ ಇದರಲ್ಲಿ ಇದೆ ತಾನೇ ಎಂಗೇಜ್ಮೆಂಟ್ ಡ್ರಾಫ್ಟ್ ಅಲ್ಲಿ ಇದೆ.
+[69:23] Speaker 1:  ಇವರೇನೋ ಮಾಡಿರಬೇಕು ಸಿಟಿ ಡಬ್ಲ್ಯೂ ದು ಎಂ ಓವರ್ ಕನೆಕ್ಟ್ ಆಗಿದೆ ನೋಡು ಆ ನಂಬರ್ ಮಾಡಬೇಕು ನೋಡು ಯಾವ ಅಕೌಂಟ್ ಅಲ್ಲಿ ಐ ಗೆಸ್ ದಿಸ್ ಒನ್ ಅದಕ್ಕೆ ಬಿಲ್ಲಿಂಗ್ ಮಾಡು ಬ್ರೋ ಎಲ್ಲೋ ಹೋಗ್ಬೇಕು ಅಂತ ಇಲ್ಲ ಬ್ರೋ ಇದಾಗಿದೆ ಆಗುತ್ತೆ ಅಂದ್ರೆ ಅಪ್ಪಗೆ ಹೇಳ್ಬಿಡು ಆಗುತ್ತೆ ಯಾವುದು ಅದು ಕಾರ್ಡ್ 76 ಆಟೋಮ್ಯಾಟಿಕ್ ಪೇಮೆಂಟ್ ಅಲ್ವಾ ಆಟೋಮ್ಯಾಟಿಕ್ ಪೇಮೆಂಟ್ ನೋಡಿ ಸ್ಕ್ರೀನ್ ಶಾಟ್ ಅದು ಯಾರಿಗೆ ಕಳಿಸಬೇಕು ಕೆಳಗಡೆ ಹಾಕು ಸಿಟಿ ಡಬ್ಲ್ಯೂ ಆಡ್ ಅಕೌಂಟ್ ಇಸ್ ಕನೆಕ್ಟೆಡ್ ಹಾಯ್ ಬ್ರೋ ಕನೆಕ್ಟೆಡ್ ಟು ದಿಸ್ ಕಾರ್ಡ್ ಕಳಿಸು ಒಳ್ಳೆ ಯೂಸ್ ಗೆ ಬರ್ತಿದೆ ಬ್ರೋ ಯಾವಾಗ ಯೂಸ್ ಮಾಡ್ತೀರಾ ಮೈಕ್ ಯೂಸ್ ಆಗ್ತಿಲ್ಲ ಅಲ್ವಾ ಲ್ಯಾಪ್ಟಾಪ್ ಕನೆಕ್ಟಿವಿಟಿ ಇದು ಕನೆಕ್ಟ್ ಮಾಡ್ಕೊಳೋಣ ಇನ್ನೊಂದು whatsapp ಗೆ ಸೆಂಡ್ ಮಾಡಿ ಅಲ್ಲಿಂದ ಕಾಪಿ ಪೇಸ್ಟ್
+[71:24] Speaker 1:  ಮಾಡ್ತೀರಾ ಬೆಸ್ಟ್ ಫಿಕ್ಸ್ ಆಗುತ್ತೆ ಇವತ್ತು ಹೆಂಗೆ ಮೆಟ್ರೋ ಅಲ್ಲಿ ಬಂದ್ರಾ ಮೈಕ್ ಆಯ್ತಲ್ಲ ಅಲ್ಲಿಂದ ಎಲ್ಲಿಂದ ವಿಜಯನಗರ ಬ್ರೋ ಸ್ಟೇಜ್ ಅಲ್ಲಿ ಅಲ್ಲಿ ತೋರಿಸ್ತೀನಿ ದೊರಗುಂಟೆ ಪಾಳ್ಯ ಹೋಗಕ್ಕೆ ಒಂದು 35 ಮಿನಿಟ್ಸ್ ಟು 40 ಮಿನಿಟ್ಸ್ ಬೈಕ್ ಅನ್ಸುತ್ತೆ ಆದ್ರೆ ಕಿಲೋಮೀಟರ್ ಜಾಸ್ತಿ ಐತೆ ಬ್ರೋ ನನ್ನ ಬೈಕ್ ಕೊಡದೆ ಒಂದು 15 ರಿಂದ ಒಳಗಡೆ ಕೊಡುತ್ತೆ ಬ್ರೋ ಮೈಲೇಜ್ ಓಕೆ ಓಕೆ ಓಕೆ ಬೆಸ್ಟ್ ಬ್ರೋ ಮೆಟ್ರೋ ಮೆಟ್ರೋ ಬೆಸ್ಟ್ ಅದಕ್ಕೆ ಬೈಕ್ ತೆಗೆಯಲ್ಲ ಆರಾಮಾಗಿ ಸ್ಪ್ಲೆಂಡರ್ ತಗೊಳ್ಳಿ 16 ಕಿಲೋಮೀಟರ್ ತೋರಿಸ್ತೀನಿ 43 ಮಿನಿಟ್ಸ್ ಆದ್ರೆ ಬೈಕ್ ಅಲ್ಲಿ ಬಂದ್ರೆ 30 ಮಿನಿಟ್ಸ್ ಅಲ್ಲಿ ಹೋಗ್ಬಿಡಬಹುದು ಏನಂದ್ರೆ ಅಲ್ಲಿ ಹೋಗಿ ಮತ್ತೆ ಪೆಟ್ರೋಲ್ ಓಡಿಸಿಕೊಳ್ಳಬೇಕು ಪೆಟ್ರೋಲ್ ಓಡಿಸಿಕೊಳ್ಳಬೇಕು ಅದೇ ಇರೋದು ಇದು ದಿನ ಓಡಿಸಿದರೆ ಅಂದುಕೊಳ್ಳಿ ಒಂದು ವಾರಕ್ಕೆ 2000 ಫುಲ್ ಟ್ಯಾಂಕ್
+[72:25] Speaker 1:  ಫುಲ್ ಟ್ಯಾಂಕ್ ಎರಡು ಸತಿ ಮಾಡಿಸಬೇಕು ಅದಕ್ಕೆ ಆಕ್ಟಿವ್ ಅಲ್ಲಿ 2000 ಹಾಕಿದ್ರೆ ಒಂದು ತಿಂಗಳು ಪೂರ್ತಿ ಓಡುತ್ತೆ ಒಂದು ತಿಂಗಳು ಅದರಲ್ಲಿ ಅದರಲ್ಲಿ ಏನು ಸ್ಪ್ಲೆಂಡರ್ 70 70 ಸ್ಪ್ಲೆಂಡರ್ 70 ಕೊಡ್ತಾರೆ ನನ್ನ ಫ್ರೆಂಡ್ ತಗೊಂಡು ಬರ್ತಿದ್ದ ಕಾಲೇಜಿಗೆ ಸಿಟಿ 100 ಅವನು ಏನು ಇಲ್ಲಿಂದ ಒಂದು ಫ್ಲಾಟ್ ಇತ್ತು ಹಿಂದಗಡೆ ಒಂದು ಎರಡು ಕಿಲೋಮೀಟರ್ ಹಿಂದಗಡೆ ಬ್ರೋ ಒಂದು ಎರಡು ಮೂರು ತಿಂಗಳಿಗೆ ಒಂದು ಪೆಟ್ರೋಲ್ ಹಾಕ್ತೀರಾ ಹೌದು ಅವನು ಹೇಳ್ತಿದ್ದ ನನಗೆ ಏನು ಕಾಲೇಜಿಗೆ ಫ್ಲಾಟ್ ಆಮೇಲೆ ಸ್ವಲ್ಪ ಎಲ್ಲಾದರೂ ಇವಿನಿಂಗ್ ರೌಂಡ್ ಹೊಡಿತೀನಿ ಇಲ್ಲೇ ಎಲ್ಲೂ ಹೋಗಲ್ಲ ನಾನು ಒಂದೆರಡು ತಿಂಗಳು ಆದ್ರೆ ಒಂದು ಪೆಟ್ರೋಲ್ ಹಾಕ್ತೀನಿ ಅದು ಸಾಕು ಅದು ಏನು ಟು ರುಪೀಸ್ ತ್ರೀ ರುಪೀಸ್ ಹಾಕ್ಬಿಟ್ರೆ ಸಾಕು ಹೌದು ಸರ್ವಿಸ್ ಕಾಸ್ಟ್ ಏನು ಬರಲ್ಲ ಆಯಿಲ್ ಚೇಂಜ್
+[73:10] Speaker 1:  ಮಾಡಿಸೋದು ಅಷ್ಟೇ ಎಷ್ಟು ನಿಮ್ಮದು ಎಷ್ಟು ಕೊಡುತ್ತೆ 40 40 ಕೊಡುತ್ತೆ ನಾಟ್ ಬ್ಯಾಡ್ ಮಿನಿಮಮ್ ಅಷ್ಟು ಕೊಡಬೇಕು ಇಲ್ಲ ಅಂದ್ರೆ ಆಗಲ್ಲ ನಾನು ಬೈಕ್ ತಗೊಂಡಿದ್ ತಕ್ಷಣ ಒಂದು ಸಾವಿರ ಕಿಲೋಮೀಟರ್ ಆಗಿಲ್ಲ ಎಕ್ಸಾಸ್ಟ್ ಚೇಂಜ್ ಮಾಡ್ಕೊಂಡಿದ್ದೆ ಓ ಎಕ್ಸಾಸ್ಟ್ ಚೇಂಜ್ ಆಗಿಲ್ಲ ಯಾವುದು ರೆಡ್ ಬುಶ್ ಇಲ್ಲ ಎಡಬ್ಲ್ಯೂ ನಮ್ಮ ಹುಡುಗ ಸಿಂಗಲ್ ಪೈಪ್ ಮಾಡ್ಬಿಟ್ಟವನೇ ನಿಮ್ಮದಾ ನನ್ನ ಫ್ರೆಂಡ್ ದು ಓ ಸೇಮ್ ಗಾಡಿ ಇಂಟರ್ಸೆಪ್ಟರ್ ಸೇಮ್ ಗಾಡಿ ಸಿಂಗಲ್ ಪೈಪ್ ಮಾಡಿ ಇಟ್ಟವನೇ ಊರು ಊರೆಲ್ಲ ಕೇಳಿಸೋದು ಸಿಂಗಲ್ ಪೈಪ್ ಕ್ರೇಜಿ ಫುಲ್ ಸಿಸ್ಟಮ್ ಎಕ್ಸಾಸ್ಟ್ ಯಾವ ಸ್ಟೇಜ್ ಟ್ಯೂನಿಂಗ್ ಮಾಡ್ಸಿದ್ರು ಏನ್ ಮಾಡಿದ್ದಾನೆ ಫಸ್ಟ್ ಒಂದಾದರೂ ಮಾಡಿರಬೇಕು ತಾನೇ ಅದಕ್ಕೆ ಯು ಶುಡ್ ಬಿ ಓಕೆ ಬ್ರೋ ಸೀ ಯು ಪ್ರೈಸಿಂಗ್ ಮಿ ಆನ್ ದಿಸ್.
+[74:15] Speaker 1:  हेलो हेलो एवरीवन वेलकम टू अ न्यू चैप्टर एंड आज हम बात करने जा रहे हैं एक और हाई कन्वर्टिंग ऐड स्ट्रक्चर के बारे में एंड ये ऐड स्ट्रक्चर ना आपने काफी सारे ब्रांड्स को यूज करते हुए देखेगा ऑन टॉप ऑफ माय माइंड कुछ ब्रांड्स जो आ रहे हैं वो है zomato। इफी के साथ-साथ बहुत सारे इमिटेशन ज्वेलरी के ब्रांड्स हैं जैसे पलमोना हो गया ये सब लोग इस स्पेसिफिक ऐड टाइप को बहुत ज्यादा यूज कर रहे हैं एंड दैट इज स्टोरी टेलिंग ऐड जहां पर आप
+[74:36] Speaker 1:  स्टोरीज का यूज करके आपने कई सारे एफएमसीजी ब्रांड्स देखे होंगे आजकल जो प्रोटीन हाई प्रोटीन वाले स्नैक्स और ये सारी चीजें बेचते हैं उनके ऐड्स में आपको स्टोरी टेलिंग ऐड्स हमेशा ही दिख जाएंगे बिकॉज दे आर परफॉर्मिंग रियली क्रेजी एंड स्टोरी टेलिंग ऐड्स का बेसिकली मतलब ये होता है कि आप कोई एक ऐसी स्टोरी बता रहे हो जो आपके प्रोडक्ट से रिलेटेड हो या फिर आप कोई एक हाइपोथेटिकल स्टोरी क्रिएट करके बता रहे हो जरूरी नहीं है वो स्टोरी जेनुइनली ट्रू हो आप चाहो तो फेक स्टोरीज
+[75:00] Speaker 1:  भी क्रिएट करके इन ऐड्स को बना सकते हो लेकिन स्टोरी टेलिंग ऐड्स और मिनी ड्रामा ऐड्स में डिफरेंस होता है बिकॉज स्टोरी टेलिंग ऐड में आप चाहो तो अपनी पर्सनल स्टोरीज भी यूज कर सकते हो बट मिनी ड्रामा ऐड्स में आपको मल्टीपल कैरेक्टर्स और वो सब करके एक पूरी स्क्रिप्टिंग करनी पड़ती है बट स्टोरी टेलिंग ऐड में आप उसे थोड़ी डिफरेंट तरीके से कर सकते हो एंड इसी के साथ-साथ आपको स्टोरी टेलिंग ऐड बनाते वक्त मेक श्योर करना है कि ऐसा हो जहां पे पर्सनली मेरे
+[75:22] Speaker 1:  लिए जो पर्सनल स्टोरीज होती हैं उनको अगर आप दिखा ले जाते हो तो वो बहुत अच्छी परफॉर्म करती है अब क्वेश्चन आता है कि क्यों परफॉर्म करती है देखो बहुत सिंपल सी बात है सामने वाली ऑडियंस अगर किसी चीज को स्टोरी के थ्रू देखती है तो उस पर फोर्स नहीं रहता कि भाई ये वाला प्रोडक्ट जो है ये खरीदना ही खरीदना है वो बस जानना चाहती है कि उस चीज की स्टोरी क्या थी एनीथिंग दैट रिलेट्स टू द ऑडियंस सेकंड स्टोरी टेलिंग ऐड्स सबसे ज्यादा जो बेटर
+[75:45] Speaker 1:  चीज करते हैं वो है इमोशनल ऐड्स क्रिएट करवाना इसमें आप हैप्पीनेस सैड एंगर फ्रस्ट्रेशन कुछ भी दिखा सकते हो एंड व्हेन यू स्टार्ट शोइंग इमोशंस इन योर ऐड वो ऑटोमेटिक अच्छे परफॉर्म करने लग जाते हैं एंड जो स्टोरीज होती है ना वो वाले ऐड्स भले ही आपको कन्वर्जन लाकर ना दे बट अल्टीमेटली आपके ब्रांड की वैल्यू इंक्रीज करते हैं बिकॉज अगर आपके ब्रांड के पीछे अभी कोई स्टोरी नहीं है तो आपको ऐसे ऐड्स बनाने चाहिए ताकि एट दी एंड ऑफ द डे सिर्फ ऐड के थ्रू आप
+[76:09] Speaker 1:  सेल्स जनरेट ना करो आपको ऑर्गेनिकली भी अच्छी परफॉर्मेंस मिले और आपके ब्रांड की एक वैल्यू ऑटोमेटिक इंक्रीज हो और ट्रू स्टोरीज होती है तो लोगों को ट्रू स्टोरी सुनना तो पसंद ही है भाई क्योंकि ओबवियसली अगर आप अपने ब्रांड का कुछ ऐसा बता रहे हो जो लोगों को नहीं पता है तो दैट परफॉर्म्स रियली वेल अब स्टोरी टेल करने के भी बहुत सारे डिफरेंट वेज हो सकते हैं लाइक फॉर एग्जांपल आप कुछ ऐसे डिसीजंस के बारे में बात कर सकते हो जो आपने रिग्रेट किए कुछ ऐसी
+[76:29] Speaker 1:  एक्सपेंसिव मिस्टेक्स हो गई आपने अपना माइंड कैसे चेंज किया आपको कितना लंबा वेट करना पड़ा इस पर्टिकुलर सलूशन के लिए बहुत सारे तरीके हैं जो आप अपनी स्टोरी को उस तरीके से शेप कर सकते हो अब एनाटोमी ऑफ स्टोरी टेलिंग ऐड क्या होता है लाइक हाउ डू यू एक्चुअली क्रिएट अ स्टोरी टेलिंग ऐड इज फर्स्ट फाइंड आउट द स्टोरी फिगर आउट कि आपको किस स्टोरी के बारे में बात करना है एंड जब आपने वो स्टोरी ढूंढ ली है मैं यहां पे लिख देती हूं जब आपने वो
+[76:50] Speaker 1:  स्टोरी ढूंढ ली है तो उसके अराउंड यू नीड अ स्क्रिप्ट अब वो स्क्रिप्ट किस वे में हो सकती है जहां पर आप एंट्री में कोई ऐसे हुक की बात करो जिसे सब रिलेट कर सके उसके बाद आप अपनी स्टोरी कंप्लीट करो इन अ वेरी इंगेजिंग वे और उसी में सटली एक कॉल टू एक्शन इंटीग्रेट कर दो इट्स एज सिंपल एज दैट मेरे को एक स्टोरी फिगर आउट करनी है लाइक फॉर एग्जांपल मान लो मेरा स्किन केयर ब्रांड है और उस स्किन केयर ब्रांड में मुझे एक स्टोरी
+[77:10] Speaker 1:  पता है जहां पर एक बंदे ने मतलब हमारी एक फीमेल कस्टमर ने मेल कस्टमर को वो सेम चीज गिफ्ट करी एंड उसे बहुत ज्यादा पसंद आई उसके स्किन में बहुत ज्यादा अफेक्ट दिखा एंड ही इज प्रिटी हैप्पी विथ इट तो उस पर मैं स्टोरी टेलिंग ऐड बना सकती हूं एज अ फाउंडर मुझे हमेशा ऐसा लगता था कि भाई व्हाट एवर प्रोडक्ट्स वी मेक आर मेड फॉर वुमेन इट सेल्फ बट दिस चेंज माय माइंड बिकॉज अभी रिसेंटली हमारी एक फीमेल कस्टमर ने अपने बॉयफ्रेंड को हमारा ये स्किन
+[77:31] Speaker 1:  मॉइस्चराइजर गिफ्ट किया एंड ही पर्सनली मैसेज अस द रिजल्ट्स बाय टेलिंग कि उसके स्किन कितनी ज्यादा स्मूथन हो गई है एंड दैट व्हाई वी हैव डिसाइडेड दैट वी आर मेकिंग दिस अ यूनिवर्सल मॉइस्चराइजर मेड बोथ फॉर मेन एंड वुमेन एंड इट्स प्रिटी क्रेजी इट्स अ वेरी ग्रेट डिसीजन बट वी आर वेरी हैप्पी विथ इट तो ये एक स्टोरी टेलिंग ऐड हो गया अब देखो स्टोरी टेलिंग ऐड्स आप बहुत अलग-अलग तरीके से बता सकते हो आप डायरेक्टली कैमरे पर बैठ के बता सकते हो ये फाउंडर्स के
+[77:52] Speaker 1:  लिए और सर्विस बेस्ड बिजनेसेस के लिए काफी अच्छा होता है आप घूमते फिरते बता सकते हो आप स्टोरी के ऊपर बी रोल्स लगा सकते हो लाइक आपने वॉइस ओवर यूज किया उसके ऊपर आपने बी रोल लगा दिया आप फोटोज पुरानी फोटोज का यूज करके एक स्टोरी टेलिंग ऐड बना सकते हो आप किसी मैसेज को पढ़ के यू नो उसका स्टोरी बता सकते हो इसी के साथ-साथ आप अपने जो बेसिक फंक्शंस होते हैं किसी भी ऑफिस में किसी भी ब्रांड में उसके अराउंड कोई ऐड क्रिएट कर
+[78:13] Speaker 1:  सकते हो और कोई एक ऐसी स्टोरी भी बता सकते हो जो किसी और ने आपको बताई हो अब देखो फाउंडर लेड डीटू सी ब्रांड्स के लिए सर्विसेस एंड एजेंसीज फूड एंड बेवरेजेस कोर्सेस एंड कोचिंग हैंडमेड एंड क्राफ्ट लोकल सर्विसेस इन कैटेगरी के लिए स्टोरी टेलिंग ऐड्स बहुत अच्छे परफॉर्म करते हैं आप डेफिनेटली इनको बहुत अच्छे से ट्राई कर सकते हो इससे आपकी परफॉर्मेंस ऑटोमेटिक इंप्रूव होगी अब मैं आपको कुछ एग्जांपल्स दिखाती हूं स्टोरी टेलिंग ऐड के जरूरी नहीं है स्टोरी टेलिंग ऐड फनी ही हो या फिर
+[78:35] Speaker 1:  बहुत ज्यादा सैडी हो उसका कोई भी इमोशन हो सकता है इट जस्ट शुड यू नो टॉक अबाउट अ स्टोरी लेट्स सी दिस यार दोस्त हनुमानगढ़ बुलाया यहां पे सफेद भगवान जा चुका है दोबारा जाएंगे नहीं अभी दिखता सारा पता नहीं क्या मिनट तो कंडीशन टू कहां जा रही है भाई मेरे दोस्तों का फोन आया था उनके साथ सूफी नाइट जा रही हूं पर तेरा तो पेपर है सुबह 7:30 बजे हां तो 5:00 बजे सूफी नाइट खत्म हो जाएगी वहां से डायरेक्ट चली जाऊंगी ओ शिल
+[78:55] Speaker 1:  व्हाट डू यू मीन डायरेक्ट चली जाऊंगी चार दिन के लिए छह जोड़ी कपड़े हो गए 10 गारमेंट हो गए वैसे तो गर्मी है यार बट जस्ट इन केस जैकेट तेरे अटैची कहां है अटैची भी चाहिए एक जोड़ी पहन लिया बाकी वहीं खरीद लूंगी जाके ब्रो चिल व्हाट डू यू मीन वहीं जाके खरीद लूंगी ब्रो कॉफी पिएगा तू कब से कॉफी पीने लगी भाई भाई जब से n की मंग मंगवाई इस कमांड से ओवर एनालाइजर वाइप फिंगर बिल्कुल हमारी पर्सनालिटी में जाते हैं एनी प्रॉपर एक्यूरेसी चल यार
+[79:15] Speaker 1:  4:00 बजे मेरे को नैरेटिव क्लास पे जाना है फटाफट नैरेटिव सोच। तो आपने देखा एक स्टोरी में एक बेसिक प्रोडक्ट का इंटीग्रेशन हो गया लेट्स लुक एट दिस वी हैव टू वाच दिस मूवी इट्स लाइक द बेस्ट मूवी डू नॉट लाइक 100% रेटिंग एंड एवरीवन इज रेविंग अबाउट इट सो देयर टू पीपल्स थ्री पीपल्स ओके ये वाला देखते हैं बिकॉज दैट एज अ साइड डिश फॉर माय फूड वेट लेट मी एक्सप्लेन आई हैव एवरीथिंग आई नीड टू स्टार्ट ईटिंग बट व्हाट आई रियली नीड इज विजुअल
+[79:35] Speaker 1:  स्टिमुलेशन स्पेसिफिकली द काइंड दैट इवॉल्व्स फूड आई नीड टू वच फूड वाइल आई ईट फूड व्हिच माइट साउंड हार्मलेस अंट्स इट टेक यू टू योर लीव्स ऑफ क्रेविंग समथिंग न्यू एंड नाउ आई हैव अ लिस्ट ऑफ डिशेस आई वांट टू ट्राई व्हिच जस्ट कीप्स गेटिंग लंगर सो इट्स टाइम आई स्टार्ट चेकिंग अ फ्यू थिंग्स ऑफ ऑफ इट एंड zomato हैज बीन हेल्पिंग मी टू एगजैक्टली दैट सो नाउ तो बेसिकली एक स्टोरी से स्टार्ट करके इसने एक सर्विस या वो इंटीग्रेट किया है जहां पर वो अपनी स्टोरी
+[79:57] Speaker 1:  के बारे में बता रही थी आप ऐसे कोलबेन क्रिएटर के साथ करके बहुत अच्छी स्टोरीज निकाल सकते हो नाउ लेट्स लुक एट सम ऑफ द एड्स दैट वी क्रिएट अरे आज वैलेंटाइन डे है चल भंडारा करने चलते हैं हां भाई चल चल भंडारा करने चलते हैं कुछ नहीं है भाई ये कुछ नहीं है मिठाई लाए मिठाई अरे भाई मिठाई एक तो खा लेने दे ठीक रे बात।
+[80:17] Speaker 1:  ऐड नहीं है कि आपका बहुत ही ज्यादा क्रेजी हो एंड आपके इंटीग्रेट करें रदर देन मेक श्योर करिए जो भी स्टोरिया बता रहे हैं दैट डजन लुक फेक अगर वो फेक लगेगी तो वो स्टोरी नहीं लगेगी एंड ऑलवेज मेक श्योर कि आप अपने प्रोडक्ट को सटली इंटीग्रेट करें रदर देन इंटीग्रेटिंग इट जिससे लोगों को समझ आ जाए एंड ऑलवेज मेक श्योर करिए कि आप जो भी शुरू कर रहे हैं शुरू का जो हुक है वो आपका बहुत ही ज्यादा क्रेजी हो एंड आपके पास एक बहुत अच्छा
+[80:36] Speaker 1:  स्टोरी टेलिंग ऐड आ जाएगा एंड ट्रस्ट मी आप कोई भी ऐड स्ट्रक्चर यूज करो मत करो स्टोरी टेलिंग ऐड डेफिनेटली करना बिकॉज इट परफॉर्म्स रियली रियली रियली अमेजिंग मिलेंगे हम नेक्स्ट चैप्टर में तब।

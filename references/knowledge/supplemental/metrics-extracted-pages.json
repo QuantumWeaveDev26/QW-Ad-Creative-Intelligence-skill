@@ -1,0 +1,22 @@
+[
+  {
+    "page": 1,
+    "text": "Here are the most important metrics to track for effective\nFacebook advertising in these years:\n1. REACH\nReach is the total number of unique individuals who see\nyour ad. Unlike impressions, which count all views\n(including repeated ones), reach only counts each\nperson once.\nIf your goal is to increase visibility, reach is animportant metric to track.\nA high reach number doesn't necessarily mean the adis performing well in terms of engagement orconversions. It only reflects exposure.\n2. IMPRESSIONS\nImpressions measure the total number of times your\nad is shown, regardless of whether it's the same user\nviewing it multiple times.\nA high impression count can indicate a broadaudience or multiple views per individual.\nYou need to balance impressions with engagement toavoid ad fatigue, where users stop reacting torepetitive ads."
+  },
+  {
+    "page": 2,
+    "text": "3. CLICK-THROUGH RATE (CTR)\nCTR is the ratio of users who click on your ad divided by\nthe total number of impressions, expressed as a\npercentage.\nHigh CTR indicates strong relevance to youraudience and effective calls to action (CTA).\nLow CTR might require adjustments in targeting,creative, or copywriting to better capture interest.\n4. COST PER CLICK (CPC)\nCPC is the amount you pay each time someone clicks\non your ad.\nA low CPC means you're getting clicks at a cheapercost, making your campaign more cost-effective.\nHigh CPC may indicate either highly competitivebidding or poor relevance of your ad to youraudience, requiring optimization.\n5. CONVERSION RATE\nConversion rate is the percentage of visitors who take a\ndesired action (e.g., making a purchase, signing up for a\nnewsletter, etc.) after clicking on your ad.\nHigh conversion rates indicate that your landing\npage, offer, and ad messaging are aligned and\ncompelling.\nLow conversion rates could suggest issues with your\nlanding page, offer clarity, or targeting."
+  },
+  {
+    "page": 3,
+    "text": "6. COST PER CONVERSION (CPA OR COST PER ACTION)\nCPA is the cost you pay for each completed action\n(such as a purchase or form submission).\nA low CPA means you're acquiring conversions cost-effectively, maximizing your budget.\nA high CPA suggests that adjustments in targeting,creative, or optimization strategies might benecessary.\n7. RETURN ON AD SPEND (ROAS)\nROAS measures how much revenue you generate for\nevery dollar you spend on ads.\nA ROAS of 4:1 means you earn $4 for every $1 spent.\nLow ROAS indicates inefficiency, and you may need\nto optimize targeting, creatives, or adjust bids.\n8. ENGAGEMENT RATE\nEngagement rate measures how much users interactwith your ad (likes, comments, shares, reactions,etc.), relative to the number of people who saw it.\nHigh engagement shows that the ad resonates welland prompts interaction.\nLow engagement suggests the need to adjust thecontent, visuals, or targeting to better appeal to theaudience."
+  },
+  {
+    "page": 4,
+    "text": "9. AD FREQUENCY\n Frequency is the average number of times an individual\nsees your ad over a specific period.\nA frequency above 3-5 could lead to diminishingreturns as users may become oversaturated.\nHigh frequency with low engagement may indicatethe need for fresh creative or audience adjustments.\n10. QUALITY RANKING\nQuality Ranking is a metric provided by Facebook thatevaluates the quality of your ads based on factors such asengagement, relevance, and feedback.\nHigher-quality ads often result in better placement,improved reach, and reduced costs.\nIf your ad has a low quality ranking, considerimproving the messaging, creative, or targeting.\n11. COST PER THOUSAND IMPRESSIONS (CPM)\nCPM measures the cost of 1,000 impressions of your ad\nLow CPM means you're reaching more people at a\nlower cost.\nHigh CPM indicates competitive targeting or\nexpensive ad placements."
+  },
+  {
+    "page": 5,
+    "text": "12. ATTRIBUTION MODEL PERFORMANCE\nAttribution modeling helps track and assign credit for\nconversions across multiple touchpoints in the customer\njourney (e.g., a combination of clicks, views, and\nengagements).\nThe right attribution model can help you understand\nwhich ads or platforms are driving the most value,\nallowing for better optimization and spend\nallocation."
+  }
+]

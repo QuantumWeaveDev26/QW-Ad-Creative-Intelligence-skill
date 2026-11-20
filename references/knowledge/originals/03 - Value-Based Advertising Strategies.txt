@@ -1,0 +1,814 @@
+# Value-Based Advertising Strategies
+
+## Summary
+### Flow Summary
+High-converting ad structures का course: value-based, meme, educational, us vs them और before vs after ads के structure, best categories, metrics और गलतियाँ। साथ में 2 campaigns (500 per campaign) का setup चला।
+
+### Value-based ads: concept
+- Value-based ad में product के benefits नहीं, उनसे customer को मिलने वाली value बताई जाती है (pen: 'कपड़ों पर ink नहीं लगेगी', सिर्फ 'leak-proof' नहीं)
+- Goal: ad खत्म होने पर viewer को लगे कि इस price में इतना कुछ मिल रहा है
+- यह offer-based ad नहीं है; बार-बार offers चलाने से brands की profitability खत्म होती है, offer सिर्फ end में ratio के रूप में जुड़ता है
+- Value बढ़ाने वाली चार चीज़ें:
+    - Dream outcome बेचो (mattress: back pain नहीं होगा)
+    - Proof से believable बनाओ (दस हजार में से पाँच हजार customers का back pain गया)
+    - Result का timeline (thirty से forty-five days)
+    - Effort कम दिखाओ
+
+### Value ad structure और value stack
+- Structure: promise, problem की cost, stack, anchor, risk reversal, CTA
+    - Example: चार हजार नौ सौ निन्यानवे में तीन महीने coaching, result नहीं तो पैसे वापस
+    - Stack: weekly diet plan, WhatsApp check-in, forty recipes PDF, monthly video call; anchor: अलग लो तो पंद्रह हजार से ऊपर
+    - Ninety दिन refund, batch में सिर्फ twenty लोग
+- Value stack बनाने के लिए: audience values list करो, फिर core offer, bonuses, guarantee और scarcity तय करो
+- Money-based hooks के examples: 'एक wash का खर्चा छह रुपये', 'पार्लर तीन हजार लेता है, घर पे four ninety-nine'
+- Best categories: digital products, services, subscription, beauty skin care, health supplements, home appliances, insurance and finance, SaaS, high ticket products
+
+### Value ads: examples, metrics और गलतियाँ
+- Examples: Goodmom Plan Protein, Pluck Cold Pressed Juice, work bag के five things, Freedo slipper static, Tumbleweed tumbler, Freedo document holder
+- Static ads में भी problem, value और CTA रखो; graphics में कम elements ज़्यादा aesthetic लगते हैं
+- अच्छे संकेत: add to cart में 8 to 15 percent increase, checkout completion 35-55 percent, बढ़ती AOV, refund rate 5 percent से कम
+- न करें: unbelievable value (999 को 90,000 से compare), बेकार bonuses, price छुपाना, बिना anchor का price, अंत में भारी discount pitch
+
+### Meme और quirky ads
+- Meme attention खरीदता है, उसमें छुपा customer insight product बेचता है; product punchline की तरह आता है
+- क्यों काम करते हैं: zero sales resistance, in-group signaling से shares और saves, phone से सस्ते और fast volume
+- कब use करें: low ticket, fast decision, crowded category, हर हफ्ते नए सस्ते creatives चाहिए
+- कब नहीं: regulated (health, finance, pharma), high ticket, B2B, grief या illness; religion, politics, tragedy पर कभी नहीं; trending audio के rights रखें
+- Formats: static meme template, chat screenshots (अभी सिर्फ 20% brands), trending audio, POV skit, topical brand jack
+- Working format: setup, punchline, product twist, subtle CTA (Sunday शाम 5 बजे, आधा प्याज, दो मिनट वाला डब्बा)
+- Ideas के sources: reviews, creators के comment sections, बार-बार सुनी objections, daily friction, category clichés
+
+### Meme ads: examples और metrics
+- Examples: Atom water purifier skit, digital gold husband skit, Trying app (burger 49 rupees), Zomato 'दया दरवाज़ा खोल', Rite Shift cookies skit
+- Purity derma shower filter ad में product जल्दी integrate करके हल्का hard CTA दिया, और ads manager में अच्छी performance आई
+- Trend पहचान: feed में same चीज़ रोज पाँच-छह बार दिखे तो जल्दी ad बना लो
+- Metrics: CPM, share and save rate, hook rate, cost per engaged view; 48 से 72 hours में performance पता चलती है
+- न करें: explain करने वाले jokes, brand voice mismatch, घिसे templates, joke खत्म होने के बाद ad शुरू करना
+
+### Educational ads
+- Product explanation नहीं, एक topic पर honest education; कम-aware products और awareness वाली services में सबसे ज़्यादा काम करते हैं
+- Awareness ladder: unaware, problem aware, solution aware, brand aware, फिर buy का reason (tumbler और water intake example)
+- Anatomy: claim, credibility, teach, gap, bridge, CTA (protein blend label और QR code lab report example)
+- Angles: myth bust, mistake list, how-to tutorial, framework, mechanism, data reveal, buying guide, case breakdown
+- सबसे बड़ी गलती: पूरा solution ad में ही बता देना; problem और उसके पीछे के principles बताओ, fix product से दो
+- Best: edtech, courses, fintech, insurance, health supplements, skincare, SaaS, real estate; fashion, food, FMCG में कम
+- Examples: Platinum RX (60% तक off), Grow, creatine 60 दिन, acne myths, palm oil cookies, RO बनाम alkaline water bottle
+- Metrics: hook rate, hold rate, average watch time, retargeting conversions; broad या lecturing tone नहीं, infotainment रखें
+
+### Us vs Them (comparison) ads
+- Retargeting के final stage में अच्छे; competitor को बुरा नहीं, अपना difference और proof दिखाओ (Lux बनाम Dove, नाम लिए बिना)
+- Price बढ़ने पर लोग खुद compare करते हैं (₹1800 का tumbler), ad पहले से contrast देकर objections handle करता है
+- Structure: split hook, उनका तरीका, hidden cost, मेरा तरीका, proof, CTA
+    - ₹60 का jar, ₹480 per month, साल के 5760
+    - Purifier rent ₹349 per month, service और filter included, 24 hours में installation
+- Formats: split screen, side by side stats, tick और cross list, switcher story, cost per unit, old way बनाम new way
+- Best: high ticket home appliances, service-based business, SaaS, subscription, insurance, skin और hair care, edtech
+- Examples: laser बनाम chemical peel, professional foundation, perfume oil layering, Card Boom SSD, laptop stand, Bingo coffee blind test
+
+### Before vs After ads
+- एक state से दूसरी state दिखाना; relatable before, visible mechanism, proof और honest timeline ज़रूरी
+- Skin के अलावा room, cars, resume, dashboard, garden, shoes, spreadsheets पर भी काम करता है
+- Meta weight loss, skin, hair, dental जैसी categories में harsh या AI-generated before/after पर account restrict कर सकता है; routine, habit, meals से दिखाएँ
+- Structure: before, stake, turn, mechanism, after, CTA (गाड़ी की back seat, steam foam extraction और UV treatment, 3 घंटे)
+- Best: cleaning और home services, auto detailing, interiors, hair care, gardening, agency work, SaaS, footwear
+- न करें: unrealistic before (-20 से 25 ROAS), timeline या mechanism न देना
+
+### Campaign setup (side discussion)
+- Budget: 1000 per day, 2 campaigns, 500 per campaign
+- Existing campaign edit करके form जोड़ना है; creatives में location (Yelahanka जैसा सुनाई दिया) पहले से clear है
+- Dashboard के technician app को पहले pair करना होगा, steps बता दिए गए
+
+### अगले कदम
+- (Speaker 3) Existing campaigns edit करके form जोड़ना और campaigns set up करना
+- (Speaker 4) Campaign impressions के screenshots भेजना
+
+## Transcript
+[00:05] Speaker 1: सर, ये वाला ऐड क्रिएटिव टाइप तो अभी काम नहीं करता, बट आई एम प्रिटी श्योर कि आपने इसका फुल यूटिलाइजेशन नहीं किया है, एंड दैट्स व्हाई यू डोंट नो कि ये कितना ज़्यादा पावर होल्ड करता है। And I am talking about value-based ads. बहुत ही सिंपल सी चीज़ होती है, value-based ads से पहले ना आप बेसिक ऐड क्रिएटिव का एक स्ट्रक्चर समझने की कोशिश करिए।
+[00:24] Speaker 1:  आज के टाइम पर, मान लीजिए मैं, दामिनी, आपकी वो हूँ, कस्टमर। 
+[00:30] Speaker 1: ठीक है? अब, as a customer, आपको मुझे कोई एक प्रोडक्ट बेचना है, like for example this pen. अब इस पेन के लिए आप दो अलग-अलग तरीके से ऐड बना सकते हो।
+[00:40] Speaker 1:  एक ऐसा ऐड जहाँ पर आप बता रहे हो कि ये पेन leak-proof है, leak नहीं करता है। 
+[00:46] Speaker 1: ठीक है? आप बता सकते हो कि इसकी writing बहुत ही ज़्यादा smooth है। 
+[00:51] Speaker 1: ठीक है? और on the other hand, आप दूसरा ऐड क्रिएटिव ऐसा बना सकते हो जहाँ पर आप कह रहे हो कि दामिनी, आपके कपड़ों पर कभी भी ink नहीं लगेगी, because it's leak-proof. Second, आप ये बोल सकते हो कि ये वैसे pens जैसा नहीं है जो लिखने पर आपको होता है ना, वो आप usually अगर कोई pen use कर रहे हो तो आपने notice किया होगा कि अगर वो अच्छे से नहीं चलता या फिर बहुत harsh चलता है तो you don't feel like writing with that
+[01:18] Speaker 1:  pen. तो आप उसके बारे में बात कर सकते हो। तो दामिनी को personally, ये वाला जो ऐड है, ये ज़्यादा converting लगेगा rather than this ad, and this is what exactly is value-based ad, जहाँ पर आप अपने प्रोडक्ट के benefits की बात नहीं करते, आप उन benefits से उन्हें क्या value मिलेगी उसके बारे में बात करते हो।
+[01:37] Speaker 1:  तो अगर अभी आपके पास पेपर और पेन है, make sure कि आप अपने प्रोडक्ट की सबसे पहले values लिखो, कि कौन सी ऐसी values हैं जो मेरी audience को मिलेगी उस प्रोडक्ट से, और उसके बाद इस ऐड क्रिएटिव वाले चैप्टर को देखो। अब जैसे मैंने यहाँ पर already mention करके रखा है कि एक ऐसा ऐड जिसका पूरा job ही यही है कि आपका जो ऑफर है, like whatever product you are selling, adds value to their life. 
+[02:00] Speaker 1: ठीक है? मतलब viewer जब आपका ऐड finish करे तो उसे लगना चाहिए कि इतना सब कुछ मिल रहा है मुझे just for this price and this value. ये आपका end goal होना चाहिए।
+[02:12] Speaker 1:  अब देखो, मैं किसी के साथ value-based ads की बात करूँ ना, offer देना पड़ेगा, but ऐसा नहीं होता है। Value-based ads में आप ratio create करते हो।
+[02:20] Speaker 1:  Like, आप अपने प्रोडक्ट की value के बारे में तो बात करते ही हो, but end में कुछ offers add करते हो। Value-based ads का मतलब ये नहीं होता कि आप cheap दिखाओ अपने प्रोडक्ट्स को।
+[02:30] Speaker 1:  Because आज के टाइम पर आपने अगर देखा होगा, ज़्यादातर ब्रांड्स को या फिर आप किसी के लिए performance marketing कर रहे होंगे, तो उनका end goal यही होता है कि मुझे sales चाहिए। और sales के लिए वो ज़्यादा से ज़्यादा offers run करते हैं, and at the end of the day, उनको कोई भी profitability ही नहीं मिलती, because उनके पास correct ऐड क्रिएटिव की strategy नहीं है।
+[02:48] Speaker 1:  And उनका end goal यही बचता है कि sale नहीं आ रही है, offer चला दो। Sale नहीं आ रही है, offer चला दो।
+[02:53] Speaker 1:  मैं ये नहीं कह रही, offers run करना एक बेकार बात होती है। हर एक ब्रांड offers run करता है।
+[02:58] Speaker 1:  But just to get sales twelve months a year, आप बार-बार offers नहीं run कर सकते हो। It's as simple as that.
+[03:06] Speaker 1:  तो always make sure value-based ad को आप इस तरीके से समझो जो मैंने ये बताया। अगर दामिनी आपकी TG audience है, तो उसको क्या value मिल रही है, rather than उसको आप उसके benefits बताओ।
+[03:17] Speaker 1:  जैसा कि मैंने आपको बता दिया कि value-based ad में आप सिर्फ coupons, feature list, discount ads, low ticket, इन सारी चीज़ों के बारे में बात नहीं कर सकते हो, because offer-based ad format is a different thing, and value-based ad is a very different thing. अब देखो, चार चीज़ें ऐसी होती हैं basically, जो value increase कर सकती हैं आपकी audience के लिए।
+[03:37] Speaker 1:  एक hypothetical situation लेते हैं, like for example this pen. अब ये pen के लिए सबसे पहले आपको ना dream outcome बेचना पड़ेगा।
+[03:45] Speaker 1:  आपको ये नहीं बताना कि ये pen की smooth finishing है। आपको ये बताना है कि वो बंदा जो pen use करता है, कैसे अपनी writing को better कर सकता है, because उसकी smooth finishing है।
+[03:57] Speaker 1:  तो आपको dream outcome बेचना है। मैंने last chapter में भी बताया था, आप अपनी audience को अगर perceived value देते हो, like for example कि उस चीज़ के बाद उनकी life किस तरीके से change होगी, तो they are eager to purchase that product.
+[04:10] Speaker 1:  लेकिन अगर आप सिर्फ benefits की बात करोगे, तो वो वो product नहीं खरीदेंगे। As I mentioned, कि आप state के बाद का product बेचो, like उसका dream outcome।
+[04:19] Speaker 1:  जैसे कोई भी mattress नहीं खरीदता है। अगर आपके पास किसी mattress का ad आ रहा है, तो आप ये देखकर नहीं खरीदोगे कि वो कौन से ब्रांड का है, या फिर होता है ना कि कितने रुपये का है।
+[04:29] Speaker 1:  You always look for comfortability। आप देखोगे कि उस mattress की कितनी comfortness है, और उस ऐड क्रिएटिव में उसे किस तरीके से बताया गया है।
+[04:37] Speaker 1:  अब जैसे mattress का ही example लेकर चलते हैं। आपने एक dream outcome raise किया कि आपको हमारे mattress से कभी भी back pain नहीं होगा।
+[04:44] Speaker 1:  Correct? Now आपको ना believable बनाना है उस चीज़ को।
+[04:47] Speaker 1:  And वो value को believable बनाने के लिए आप outcome के साथ-साथ proof add करते हो। Like, आपको हर एक ब्रांड बोल रहा है कि भाई mattress हमारा अच्छा है, because उससे back pain नहीं होगा।
+[04:58] Speaker 1:  What do you have different? तो आपको add करना पड़ेगा, like दस हजार customers जिन्होंने ये खरीदा है, उसमें से पाँच हजार customers की back pain की problem चली गई है।
+[05:07] Speaker 1:  This is a proof। जहाँ पर वो believe कर रहे हैं कि भाई ये सही बोल रहा है, genuinely इससे back pain नहीं होगा।
+[05:13] Speaker 1:  And इसी के साथ-साथ value-based ad में you will also have to talk about कि उस specific product से उन्हें कितने दिन में result मिलेगा। Like for example, आपको अपने back में pain thirty से forty-five days के अंदर ही दिखने लग जाएगा।
+[05:26] Speaker 1:  आपको अपनी back और भी ज़्यादा soothing लगने लगेगी। तो you will have to talk about the results as well।
+[05:31] Speaker 1:  And value-based ads में always make sure कि आप efforts को बहुत ज़्यादा कम कर रहे हो। Like for example, कई बार हम लोग ना बहुत ज़्यादा अपने प्रोडक्ट के बारे में बता देते हैं।
+[05:40] Speaker 1:  Like for example, इस पेन को use करने के लिए आपको maybe इसको water में dip करना पड़ेगा, इसकी ink निकाल के वापस डालनी पड़ेगी, and then आप इसको चार बार test करोगे, and then you get the final product। आप value-based ads में ये चीज़ें नहीं करते हो।
+[05:53] Speaker 1:  You directly value add करोगे, and उसके बाद आप बोलोगे कि बिना effort के आपको ये value मिल सकती है, ताकि लोगों को लगे कि ये कोई मेहनत वाला काम नहीं है। अब हम बात करते हैं कि value-based ad basically बनते कैसे हैं, या फिर लगते कैसे हैं।
+[06:08] Speaker 1:  बहुत ही simple सी बात है। Value-based ad में सबसे पहले आप एक promise add करते हो।
+[06:13] Speaker 1:  अब वो promise for example कैसा होता है? मान लो तीन month की fitness coaching है चार हजार नौ सौ निन्यानवे रुपये की।
+[06:19] Speaker 1:  तो आप promise में क्या hook add कर सकते हो? Four triple nine में तीन महीने की personal coaching और result ना मिले तो आपके पूरे पैसे वापस।
+[06:27] Speaker 1:  बहुत ही simple सा promise दे रहे हैं कि इतने में आपको ये मिलेगा, and result नहीं मिलेंगे तो we'll we have a money back guarantee। उसके बाद you talk about the cost।
+[06:36] Speaker 1:  What the problem is costing them right now in rupees or in hours। मतलब आप किसी भी problem की बात करोगे, या फिर उस problem से उनको क्या मिल रहा है।
+[06:45] Speaker 1:  It's not about money। आप उस problem की किसी भी तरीके से बात कर सकते हो।
+[06:48] Speaker 1:  Like for example, gym की साल भर की membership बारह हजार की है, और February के बाद कोई जाता ही नहीं है। तो they have talked about a problem with a cost।
+[06:56] Speaker 1:  उसके बाद the stack में आपको add करना है कि उनको क्या-क्या मिलेगा। आपको उस particular चीज़ में क्या-क्या value मिलेगी, that you have to add।
+[07:04] Speaker 1:  तो यहाँ पर stack में है weekly diet plan, रोज WhatsApp पर check-in, forty recipes का PDF, और महीने में एक video call, ताकि आपकी health को और भी ज़्यादा better किया जा सके। उसके बाद anchor, what this normally cost।
+[07:18] Speaker 1:  मतलब आपको बताना है कि हम जो आपको दे रहे हैं, वो बाकी जगह पर क्या cost करता है। Like for example, यही चीज़ अलग-अलग लो तो पंद्रह हजार रुपये से ज़्यादा ऊपर पड़ती है।
+[07:27] Speaker 1:  Then risk reversal। Like आप अगर proof देना चाहते हो, या फिर लोगों को बताना चाहते हो कि ये पैसों से क्या होने वाला है, तो आप risk को reverse कर सकते हो।
+[07:36] Speaker 1:  Ninety दिन पूरा refund, कोई सवाल नहीं पूछेगा। And then call to action।
+[07:40] Speaker 1:  Link पे slot बुक कर लो। इस batch में सिर्फ twenty लोग ही लेने वाले हैं।
+[07:43] Speaker 1:  ये तो एक type of value-based का structure हो गया। अगर मैं basic structure की बात करूँ, तो आप कोई promise से start करोगे।
+[07:51] Speaker 1:  As I mentioned before, you start with a hook, then you start with a problem, then you give a solution, then you give your credibility, and उसके बाद आप basically pitch करते हो अपना product या service का, and then you give a clear call to action। अब question ये आता है कि आप ये ना value का stack कैसे create करते हो।
+[08:09] Speaker 1:  बहुत ही simple है। आप सबसे पहले आप अपना product लो।
+[08:13] Speaker 1:  उसके around ना सारी चीज़ें सोचने की कोशिश करो कि क्या ऐसी चीज़ें हैं जो मेरी audience को valuable लग सकती हैं। Like for example, mattress।
+[08:20] Speaker 1:  Mattress में एक audience value के लिए क्या देखना चाहेगी? कि उनका back pain हट जाए, sleep better हो सके।
+[08:28] Speaker 1:  इसी के साथ-साथ comfortable हो।
+[08:33] Speaker 1:  Bed पर properly आ सके। ये हो गए इसके चार।
+[08:37] Speaker 1:  Audience को क्या value मिलेगी? तो सबसे पहले आपको उस value का stack create करना है।
+[08:42] Speaker 1:  And then you have to think about the core offer। कि आपके पास values हैं अपने product की, लेकिन उस values में आप क्या offer दे सकते हो।
+[08:50] Speaker 1:  And ज़रूरी नहीं है वो offer सिर्फ पैसे से ही दिया जाए। आप बहुत multiple type के offer create कर सकते हो।
+[08:56] Speaker 1:  Like for example, कि इससे आपका back pain thirty से forty-five days में कम हो जाएगा। That is the core offer।
+[09:04] Speaker 1:  Bonuses में क्या मिल सकता है? आप क्या guarantee देते हो?
+[09:08] Speaker 1:  Scarcity आप create कर सकते हो कि क्या reason होना चाहिए act करने का। तो इस तरीके से आप अपना value stack create करते हो, ताकि आप उसे value-based ad में convert कर सको।
+[09:17] Speaker 1:  जैसे अगर मैं सिर्फ money related value-based hooks की बात करूँ ना, तो ये देखो। सिर्फ nine ninety-nine में इतना कुछ?
+[09:24] Speaker 1:  मैं भी पहले नहीं मान रही थी। हर महीने दो हजार की चाय पी जाते हो, और बारह सौ रुपये आपको महंगे लग रहे हैं?
+[09:30] Speaker 1:  पहले result देखो, फिर पैसे देना। Very simple।
+[09:33] Speaker 1:  एक wash का खर्चा छह रुपये, अब बोलो महंगा है। Like for example, एक कपड़े wash करने का खर्चा सिर्फ और सिर्फ छह रुपये।
+[09:41] Speaker 1:  अब आपको क्या ये महंगा लग रहा है? This could be a hook।
+[09:44] Speaker 1:  रोज के ग्यारह रुपये और पूरे साल का plan आप easily set कर सकते हो। पार्लर तीन हजार लेता है, यही काम घर पे आप four ninety-nine में easily कर सकते हो।
+[09:53] Speaker 1:  एक डब्बे में पाँच चीज़ें हैं, अलग-अलग लो तो बिल चार हजार रुपये का बनता है। पूरा पैकेज पंद्रह हजार पाँच सौ का बनता है, आपको सिर्फ four triple nine में मिलने वाला है।
+[10:02] Speaker 1:  अब जैसे देखो, मुझे personally ऐसा लगता है कि अगर आपका कोई भी digital product है, कोई भी service-based business है, whether it's real estate, clinic, कुछ भी है, तो इसके लिए value-based ads बहुत ही अच्छा काम करते हैं। अगर आपका subscription-based model है किसी भी product का, services and agencies हैं, beauty skin care, health supplements, home appliances, insurance and finance, SaaS and tools, ये सारी categories के लिए value-based ads बहुत अच्छे काम करते हैं।
+[10:33] Speaker 1:  And I'm pretty sure कि आपने ये ads देखे भी होंगे, कई सारे brands को use करते हुए। Because अगर आप कोई high ticket product बेचने जा रहे हो, तो ऐसी situation में लोगों को value से ज़्यादा मतलब रहता है, rather than what you are actually, या फिर what actually your product is।
+[10:48] Speaker 1:  तो अब ना हम कुछ examples देखते हैं। मैंने यहाँ पर आप लोगों के लिए निकाल रखे हैं।
+[10:51] Speaker 1:  Let's look at this one। अगर आपका gutty strong नहीं है, तो protein लेने का फायदा क्या?
+[10:56] Speaker 1:  बहुत ही crazy health freaks के लिए hook है कि अगर आपका gut strong नहीं है, तो protein लेने का फायदा क्या? And यहाँ पर credibility भी build हो गई है, founder and CEO।
+[11:05] Speaker 1:  इसीलिए हमने बनाया Goodmom Plan Protein for Roti's। आज मैं share करूँगा three reasons why this is the right choice for your family।
+[11:13] Speaker 1:  पहला, इसमें हमने डाला है probiotics, जो आपकी gut health को improve करते हैं और protein की absorption को बेहतर करते हैं। Purely value-based ad है, उसने बताया कि हमने क्या डाला और इससे आपको क्या value मिलेगी।
+[11:28] Speaker 1:  दूसरा, अगर आप अपने protein को तीन meals में divide करके खाएँगे, तो वो आपकी muscle repair और growth के लिए better रहेगा। Second value।
+[11:36] Speaker 1:  तीसरा, अगर market के protein supplements देखेंगे, तो ये रही उनकी ingredients list। और Goodmom Plan Protein की no added sugar और sweetness।
+[11:46] Speaker 1:  Compare भी कर दिया उन्होंने कि हम जो value दे रहे हैं, वो बाकियों में आपको नहीं मिलेगी। Sweeteners, no added fillers or flavors, no harmful chemicals, और ये lab tested है।
+[11:57] Speaker 1:  End में credibility भी add करते हैं। कुछ extra नहीं करना है।
+[12:01] Speaker 1:  बस इसको रोज अपने आटे में डालिए, और family का protein goal sorted। अगर आपको।
+[12:06] Speaker 1:  कैसे use करना है, वो भी बता दिया है। तो it's a pretty good ad।
+[12:09] Speaker 1:  Let's look at this one। थोड़ा सा इसे पीछे कर लेते हैं।
+[12:12] Speaker 1:  आपको लगता है सारे packaged juices एक जैसे होते हैं। मुझे भी एक time पे ऐसा ही लगता था।
+[12:18] Speaker 1:  Relatability के साथ start किया है basically। लेकिन जब मैंने labels पढ़ने शुरू किए, तो मुझे पता चला कि बहुत सारे juices fruits से ज़्यादा concentrate, added sugar, और preservatives से बने होते हैं।
+[12:29] Speaker 1:  और honestly, मुझे बस fruit का taste चाहिए था, chemistry experiment नहीं। तब मुझे मिला Pluck Cold Pressed Extracted Juice।
+[12:38] Speaker 1:  और मुझे इसकी सबसे अच्छी बात ये लगी कि ये literally just fruit in a bottle है। No added sugar, no preservatives, no added water।
+[12:47] Speaker 1:  And सबसे important बात, not from concentrate। मतलब जो fresh fruity taste आप expect करते हो, वो actually मिलता है।
+[12:55] Speaker 1:  ये Valencia Orange flavor मुझे personally काफी refreshing लगा। Breakfast के बाद हो, workout के बाद हो, या afternoon break में।
+[13:02] Speaker 1:  It's a really convenient way to enjoy fresh fruit juice। अगर।
+[13:07] Speaker 1:  पहले problem statement के बारे में बात करी है, then बताया है कि fruit juices किस तरीके से बेकार हो गए हैं market में, and what this product has to offer। आप भी package।
+[13:17] Speaker 1:  Let's look at this one। थोड़ा सा इसको पीछे ले जाते हैं।
+[13:20] Speaker 1:  Your work bag is supposed to make your day easier. Most of them don't care are five things every work bag should be doing for you.
+[13:27] Speaker 1:  First, your laptop should। As you can see, यहाँ पे जो product की बात की गई है, जिसमें पहले difference की बात की है कि एक work bag actually में होना कैसा चाहिए।
+[13:36] Speaker 1:  Should stay protected, not slide around every time you। She talked about a value, didn't talk about the benefit।
+[13:43] Speaker 1:  Second, your water bottle should stay upright and easy to grab। Third, your lunch shouldn't be fighting for space with everything else।
+[13:51] Speaker 1:  Fourth, you should be able to find out what you need immediately। No digging, no searching।
+[13:56] Speaker 1:  And fifth, after carrying it all day, your shoulders shouldn't hate you। Honestly, these are।
+[14:02] Speaker 1:  पूरा video ही value-based पर था कि किस तरीके से इस particular product से सामने वाले को value मिलने वाली है। अब हम ऐसे कुछ static ads देख लेते हैं।
+[14:10] Speaker 1:  देखिए, always make sure करिए कि जब भी आप कोई static ad create करते हो ना, उसमें बहुत properly आपका जो हमने जैसे for example video का देखा कि कैसे आप problem call to action, जो आपका value रहता है, वो सारी चीज़ें अपने script में add करते हो। That you same have to do in every kind of static ad।
+[14:27] Speaker 1:  Like if you look at this Freedo का ad, "Gift your mom cloud comfort, Arc support slipper।" Arc support anti-skids cool sole extremely soft, triple nine, free shipping on all orders, available in दो colors।
+[14:39] Speaker 1:  बहुत ही simple सा ad है। This is also a very creative ad।
+[14:43] Speaker 1:  This is also a very creative ad। Graphics में जितना minimum आप चीज़ें add करते हो, लोगों को वो आजकल उतना ही ज़्यादा aesthetic लगने लगा है।
+[14:50] Speaker 1:  Let's look at some of the ads that we created। मेरे इस छोटू से desk में काम करते-करते इतना सामान।
+[14:59] Speaker 1:  ये template use करने के बाद मुझे पता चल रहा है कि ये एक spur नहीं, बल्कि life-changing है। मुझे लगा ये सिर्फ Instagram पर viral in videos की वजह से है, क्योंकि है तो पानी की bottle ही, but मैंने इसे Tumbleweed brand से एक month पहले मंगाया।
+[15:11] Speaker 1:  और एक time पे, जहाँ मैं दिन के दो liter पानी भी नहीं पीती थी, अब आराम से चार से पाँच liter पानी पी लेती हूँ। अब जैसे देखो, Tumblr है।
+[15:19] Speaker 1:  It's a Tumblr as a product। तो Tumblr में आप क्या value बता सकते हो?
+[15:23] Speaker 1:  कि आप जो पहले पानी बहुत कम, आपका water intake था, आप उसको बढ़ा सकते हो with a Tumblr। That's what we have exactly added।
+[15:30] Speaker 1:  ये मेरे desk पर हमेशा रहता है, और इसने water intake करना बहुत आसान बना दिया है। 1.5 liter का ये sipper है, और सिर्फ मुझे दो से तीन बार इसे भरना पड़ता है।
+[15:38] Speaker 1:  This is the second value। कि कितनी बार आपको भरना।
+[15:42] Speaker 1:  इसने water intake करना बहुत आसान बना दिया है। 1.5 liter का ये sipper है, और सिर्फ मुझे दो से तीन बार इसे भरना पड़ता है।
+[15:48] Speaker 1:  And I'm good to go। इसकी straws भी बहुत ही अच्छी quality की हैं, और अगर मैं सुबह इसमें ठंडा पानी भरती हूँ ना, तो शाम तक वो temperature भी maintain करता है।
+[15:56] Speaker 1:  Because इसकी steel quality। Third value।
+[15:59] Speaker 1:  कि पानी ठंडा रखो तो ठंडा, गरम रखो तो गरम। अब इसको हम इस तरीके से भी बोल सकते थे कि ये insulated Tumblr है, लेकिन इसे हमने अलग तरीके से बोला कि इसमें मैं अगर सुबह ठंडा पानी भरूँगी, तो शाम तक ठंडा रहता है।
+[16:11] Speaker 1:  Because इसकी steel की quality बहुत ज़्यादा अच्छा है। Like we talked about a value first, and then talked about the benefit।
+[16:18] Speaker 1:  Let's look at this one। सच बताऊँ तो पहले मेरे सारे important documents कभी systematic ढंग से नहीं रहते थे।
+[16:24] Speaker 1:  कभी Aadhaar card missing, कभी marksheet missing, और ऊपर से मम्मी भी चिल्लाती रहती थी कि तू दिन भर phone ही चलाता रहता है। Honestly, मैं भी अपने सारे important papers कहीं भी रख देता था, और जब ढूँढने जाओ, कुछ भी नहीं मिलता था।
+[16:35] Speaker 1:  और जब से मैंने Freedo का ये document holder लिया है, तब से। बहुत ही simple ranting kind of video है कि किस तरीके से लोगों के documents खो जाते हैं।
+[16:44] Speaker 1:  ये वही सारे products हैं जो हमारे office में available थे, जिसका use करके हमने ये ad creatives बनाए हैं। सारे documents manage करना बहुत ही easy हो गया है।
+[16:51] Speaker 1:  And you know what, सबसे best part इसका पता है क्या है? इसमें इतना सारा space है कि सभी छोटे-बड़े documents एक ही जगह आ जाते हैं।
+[16:58] Speaker 1:  Talked about the value, not the benefit। आते हैं।
+[17:00] Speaker 1:  Marksheets, insurance papers, certificates, ID proofs, सब कुछ इसमें एक साथ आ जाता है। और ये पुरानी plastic file जैसा बिल्कुल भी नहीं दिखता है।
+[17:08] Speaker 1:  अगर आप इसे देखते हो, तो ये काफी aesthetic और premium दिखाई देता है। Compare किया है, and then again talked about the value।
+[17:16] Speaker 1:  तो I hope आप लोगों को समझ आ गया होगा कि किस तरीके से ये value-based ads create किए जाते हैं। एक चीज़ हम और समझ लेते हैं।
+[17:22] Speaker 1:  Value-based ads में भी आप कई सारी metrics पर ध्यान दे सकते हो कि आपके ad पर add to cards कितने आ रहे हैं, checkout कितना आ रहा है, average order value क्या है, refund rate क्या है। ये सारी चीज़ें आप देख सकते हो।
+[17:34] Speaker 1:  अगर आपको add to cart में 8 to 15 percent ज़्यादा increase दिखता है, इसका मतलब आपका जो value-based ad है, वो अच्छा काम कर रहा है। Checkout completion अगर आपका 35-55 percent तक पहुँच गया है, it's pretty crazy।
+[17:47] Speaker 1:  और average order value अगर आपकी increase हो रही है धीरे-धीरे, तो value-based ads are made for your brand। And अगर refund rate 5 percent से कम है आपके हर एक product पर, तो इसका मतलब value-based ads आपके लिए अच्छी performance लाकर दे सकते हैं।
+[18:02] Speaker 1:  Now coming to the last part, कि ऐसी कौन सी चीज़ें हैं जो आपको value-based ads में कभी भी बात नहीं करनी चाहिए। That is unbelievable stated value।
+[18:10] Speaker 1:  I understand कि value provide करने के लिए आपको बात करनी पड़ेगी कि actual results उससे क्या मिलते हैं। But that doesn't mean कि आप ऐसी चीज़ों के बारे में बात करो जो actually believable भी नहीं हैं और आपका वो product करके भी नहीं दे सकता।
+[18:23] Speaker 1:  Like for example, एक 999 के product को आप 90,000 rupees से compare कर रहे हो। तो मतलब आपने अपने 2x price को 100x price से compare कर दिया without any sense।
+[18:34] Speaker 1:  तो जब सामने वाले बंदे के पास आपका product या service जाएगा, या आप उसे अपनी services दोगे, तो उसको फिर वो ad जो था ना, वो believable नहीं लगेगा। And they'll think you did a scam।
+[18:44] Speaker 1:  Second, bonuses जो लोगों को नहीं चाहिए। कई बार क्या होता है, हम value देने के लिए इतने सारे bonuses add कर देते हैं जो sense भी नहीं बनाते।
+[18:52] Speaker 1:  Like for example, इस pen के साथ मैंने एक बहुत ही weird सा bonus add कर दिया कि इसमें आपको ये different-different type के मिल जाएंगे। Which is not a bonus, और audience इसके बारे में care भी नहीं करेगी।
+[19:04] Speaker 1:  Secondly, hiding the price। Never hide कि value-based ads में क्या price पर अपने product दे रहे हो।
+[19:09] Speaker 1:  Because at the end of the day, वो आपके landing page पर जाएंगे। Landing page पर जाएंगे, तो automatically जो आपने value prices छुपा रखे हैं, वो उन्हें पता चल जाएंगे, तो वहाँ drop off हो जाएगा।
+[19:20] Speaker 1:  So it's better to be very clear on your ad। Always make sure करिए कि जो भी आप value-based ad में बता रहे हो, उसमें discount को और आपकी value को साथ में रखकर बताओ।
+[19:28] Speaker 1:  ऐसा नहीं कि आपने शुरू में value के बारे में बात कर ली, और end में आप बहुत सारा discount pitch कर रहे हो। 
+[19:33] Speaker 1: ठीक है? And इसी के साथ-साथ, a price with no anchor। एक सिर्फ और सिर्फ price के basis पर value create करना हर एक creative में sense नहीं बनता है।
+[19:42] Speaker 1:  तो always make sure कि आपका overall goal रहे value, and then उसके बाद रहे कि आप कैसे benefits और offers create कर सकते हो। I hope आपको value-based ads समझ आ गए होंगे।
+[19:52] Speaker 1:  हर एक chapter में आपको नीचे एक drive की link मिल जाएगी, जहाँ पर बहुत सारे value-based ad creatives रहेंगे, ताकि आप उन्हें देखकर समझ सको कि आपका next stage क्या होना चाहिए। आप कैसे उन specific ad types को create करोगे।
+[20:03] Speaker 1:  अब हम next chapter में एक और winning ad creative formula की बात करेंगे। तब तक के लिए, bye-bye।
+[25:51] Speaker 1:  जिस पर Zomato ने ये add कर दिया। Hi everyone, and welcome to our new chapter।
+[25:56] Speaker 1:  और आज जिस specific ad type की मैं बात करने जा रही हूँ ना, that is very very crazy, बहुत ज़्यादा fun होने वाला है, because I will be talking about meme ads। अब meme ads और quirky वाले जो ads होते हैं, आप उसको underestimate मत करिए, because इसमें सिर्फ video ads नहीं, बल्कि आप इसमें बहुत crazy static ads बनाकर भी अपनी sales को literally बहुत अच्छी कर सकते हो, lead generation को बहुत अच्छा कर सकते हो।
+[26:20] Speaker 1:  Because बहुत simple सी बात है, आज के time पर सबसे बड़ी value क्या है? Like what is the most important thing?
+[26:27] Speaker 1:  अगर आप एक business हो तो, that is attention। आपको अपनी audience का attention किसी भी way में grab करना है।
+[26:35] Speaker 1:  और attention grab करने का social media platforms पर is one of the best way is memes। और अब आप सोचिए, उन्हीं memes के अंदर आप अगर अपने product या videos को integrate कर ले जाते हो, तो लोग already attentive हो जाते हैं उसको लेकर, and then they मतलब वो सुन लेते हैं कि आपके product के बारे में आप क्या बताना चाह रहे हो।
+[26:53] Speaker 1:  तो meme और quirky ads बहुत ही अच्छे काम कर रहे हैं। आपने Swiggy, Instamart, Zomato या फिर Zepto ऐसे brands को अगर देखा होगा, इनके ads कभी आपके feed पर आए होंगे, तो आपने notice किया होगा कि ये लोग ना mostly meme और quirky ads का use करते हैं, because they want to keep a fun vibe।
+[27:09] Speaker 1:  And I definitely suggest कि आपने अगर इसे try नहीं किया है, तो give it a try, because इनकी performance अच्छी रहती है। जैसे मैंने यहाँ mention भी किया है कि attention का pay करने के लिए, आप meme के through वो attention grab करते हो, and then अपना product उसपे attach करते हो।
+[27:24] Speaker 1:  मतलब जो attention buy करता है आपकी audience की, लेकिन जो insight जो आप देने वाले हो उस meme में, वो आपके products को sell करता है। 
+[27:32] Speaker 1: ठीक है? जो भी meme ad आप create करते हो, उसमें real customer का कोई ना कोई सच या फिर कोई ना कोई fear, कोई ना कोई fear, happiness या छुपी होती है, जो वो realize कर जाते हैं through a meme, तो उन्हें आपका product sense बनाने लगता है। And तीन non-negotiable ingredients meme ad में क्या होते हैं?
+[27:49] Speaker 1:  कि आपको तुरंत recognition मिलता है। शुरू के दो second अगर आपने बहुत ही crazy meme बना दिया है ना, तो there's hundred percent guarantee कि वो बंदा उसे end तक देखेगा ही देखेगा।
+[27:58] Speaker 1:  आप joke के through एक insight दे रहे हो, तो लोग उसे बहुत ही ज़्यादा seriously नहीं लेते। ऐसा उन्हें नहीं लगता कि आप कुछ बेचने की कोशिश कर रहे हो।
+[28:06] Speaker 1:  तो they are eager to convert more। और product आप as a punchline use करते हो।
+[28:11] Speaker 1:  लेकिन always make sure कि meme ad बनाने के चक्कर में आप कोई भी फालतू की random humor मत use करो। क्योंकि meme create करना, लोगों को होता है ना, हंसाना is a very difficult task और उसमें अगर आप random humor add कर देते हो, तो वो sense नहीं बनाता है।
+[28:24] Speaker 1:  और ये ऐसा नहीं है कि आप कोई template और logo use कर लो और आपका meme ad create हो जाएगा। हर एक brand के लिए meme ad नहीं होता है।
+[28:33] Speaker 1:  क्या बोलते हैं? बहुत serious clinics जो होते हैं, वो meme ad का use करेंगे, तो obviously उनके brand पर अच्छा impression नहीं जाएगा।
+[28:39] Speaker 1:  But अगर आपकी general category है, तो वहाँ पर ये बहुत अच्छे perform करते हैं। Now let's talk about why quirky ads get past the guard।
+[28:46] Speaker 1:  मतलब attention के आगे आपको क्यों आपकी audience चली जाती है, when it comes to meme ad। बहुत ही ज़्यादा simple है।
+[28:53] Speaker 1:  Zero sales resistance होती है। अगर कोई बंदा आपका meme देख रहा है शुरुआत में, तो उसे ऐसा नहीं लगता कि आप future में कुछ sale या फिर sell करने वाले हो।
+[29:03] Speaker 1:  तो वो basically आपका पूरा video देखता है, because उसे वो चीज़ entertaining लगती है। 
+[29:08] Speaker 1: ठीक है? इसके बाद in-group signaling। जो भी चीज़ या फिर जिस भी चीज़ का meme create करते हो ना, वो किसी एक specific audience के लिए रहता है।
+[29:17] Speaker 1:  Like for example, अगर मैं meta ads के around कोई meme create कर रही हूँ, तो जो लोग meta ads के बारे में जानते हैं, सिर्फ वही उस meme को समझ पाएंगे। And at the end of the day, वही audience exactly target होगी।
+[29:28] Speaker 1:  इससे shares और saves बहुत आते हैं। जितने ज़्यादा आपके ad में comment, share, save, like आएंगे, meta या फिर कोई भी any else platform, उसको बहुत ही अच्छा engagement rate दिखता है।
+[29:38] Speaker 1:  और वो automatically आपके ad की reach बढ़ाता है, जिससे conversions better होती हैं। Next, speed and cost।
+[29:44] Speaker 1:  Memes बनाने के लिए आपको बहुत ही high production studio and ये सारी चीज़ें नहीं लगती। आप simply इसे अपने phone से create कर सकते हो।
+[29:50] Speaker 1:  तो memes में volume create करना काफी ज़्यादा आसान हो जाता है। अब question ये आता है, meme ads ना थोड़े से dangerous path होते हैं।
+[29:57] Speaker 1:  कई brands इसे use कर सकते हैं, कई नहीं use कर सकते हैं। You have to know कि इस format को कब use करना चाहिए और कब इस format से दूर रहना चाहिए।
+[30:05] Speaker 1:  आप इस format को तब use करो जब आपके ऐसे buyers हैं जो 35 seconds से ज़्यादा ऊपर content देखना ही नहीं पसंद करते हैं। They are not very serious about their life।
+[30:15] Speaker 1:  Ticket size आपके product का low है, decision fast है, like आपका बहुत ही ज़्यादा clickbait product है, category बहुत ज़्यादा crowded है और हर जगह उस product के ad दिखते हैं, तब भी ये format काम करता है। आपके brand की already एक voice है जो लोग जानते हैं, आप बस meme के through उन्हें entertain करना चाह रहे हो।
+[30:32] Speaker 1:  आपको हर हफ्ते नए और cheap creatives चाहिए, तब meme ads बहुत अच्छे आपके लिए helpful हो सकते हैं। और आप जो problem solve कर रहे हो, वो आपके meme में genuinely relatable है या फिर daily लोगों की life में किसी ना किसी problem को solve करता है।
+[30:47] Speaker 1:  आपको हमेशा इस चीज़ से aware रहना है। जब category regulated है, like health, finance या फिर pharma हो, as I mentioned before, purchase high ticket है।
+[30:56] Speaker 1:  High ticket products meme के through नहीं बिकेंगे, that's very clear। आपका brand currently बहुत ही ज़्यादा compliant basis पर है, उसमें बहुत सारे rules लगे हुए हैं, कुछ government से related है या ऐसी सारी चीज़ें हैं, वहाँ पर भी memes काम नहीं करेंगे।
+[31:10] Speaker 1:  और audience आपकी बहुत ज़्यादा मान लो B2B है, तब भी वहाँ पर you cannot use memes। और topic थोड़ी sad चीज़ों से relate करता है, like grief, illness या ऐसी चीज़ों से, तब भी आप meme use नहीं कर सकते।
+[31:22] Speaker 1:  तो ये ना basic चीज़ें हैं, जैसे religiously आप meme मत create करो, politics, communal topics, tragedy, disasters इसके around मत create करो। बहुत basic सी चीज़ है, but फिर भी मैं mention कर रही हूँ।
+[31:33] Speaker 1:  Always make sure कि आप trending audios वगैरह भी use कर रहे हो, तो rights आपके पास properly हों उस चीज़ के, वरना meta पर वो ban हो जाते हैं। And simple चीज़ों पर, like festival, weather जो लोगों के daily life में चीज़ें होती हैं ना, उसके around memes create करोगे, तो there's no problem at all।
+[31:48] Speaker 1:  अब देखो, कुछ ऐसे meme के formats हैं जो बहुत ज़्यादा काम करते हैं market में। जैसे static meme template।
+[31:55] Speaker 1:  आपने देखा होगा, कोई ऐसे characters होते हैं memes में जो बहुत ही ज़्यादा famous होते हैं। आप उन characters के static templates लेकर उसमें अपने product से related कोई भी बात कर सकते हो।
+[32:05] Speaker 1:  Second, chat के screenshots। Trust me, ये जो format है, ये literally अभी सिर्फ 20% brand use कर रहे हैं।
+[32:12] Speaker 1:  लेकिन ये बहुत ही crazy convert कर रहे हैं, बहुत ही ज़्यादा crazy। जहाँ पर आप अपने WhatsApp, Messenger या फिर कोई भी platform हो गया, Twitter, इसका screenshot use करते हो।
+[32:23] Speaker 1:  Third is trending audio पर कोई ना कोई meme create करना। और ये वाले तो बहुत काम करते हैं।
+[32:28] Speaker 1:  आपने आज के time पर जितने भी comedy creators market में देखे हैं, वो mostly POV skit पर ही किसी ना किसी product को integrate करते हैं, because उससे वो product relatable लगता है। Topical brand jack।
+[32:39] Speaker 1:  मतलब कोई भी चीज़ अभी trend कर रही हो, like for example कुछ भी market में trend कर रहा हो। जैसे बीच में मान लो FIFA trend कर रहा था, FIFA पर कोई meme आ गया।
+[32:46] Speaker 1:  उस meme के around आपने अपने product से related कोई ad create कर लिया। बहुत चलते हैं।
+[32:51] Speaker 1:  Short period of time के लिए चलते हैं, लेकिन बहुत crazily convert करते हैं। आपके industry में कोई भी ऐसी चीज़ हो, like for example meta ads में अगर मैं हूँ।
+[33:00] Speaker 1:  Meta ads में सबसे ज़्यादा ऐसी क्या convention है जो लोग use करते हैं? Like for example targeting बहुत ज़्यादा matter करती है।
+[33:06] Speaker 1:  उसके around मैंने कोई meme create कर लिया, तो वो मेरी audience से काफी ज़्यादा relate कर ले जाता है। Fashion, food, lifestyle, everyday product uses, D2C, daily, cheap testing के लिए, fast approvals के लिए, crowded categories के लिए meme ads बहुत ही अच्छे काम करते हैं, जो मैं आपको पहले भी बता चुकी हूँ।
+[33:23] Speaker 1:  अब meme ad का ना बहुत ही simple सा working format होता है। आप पहले एक setup create करते हो, like किस setup में आपको अपना meme बनाना है।
+[33:30] Speaker 1:  It could be your house, बाहर outdoor कर सकते हो, park में कर सकते हो, you can do it anywhere। आपको बस पता होना चाहिए कि उस meme का at the end of the day angle क्या है और उसका goal आपको क्या चाहिए।
+[33:40] Speaker 1:  Then you add basic punchline। शुरू में आप punchlines पर ही बात करते हो। 
+[33:45] Speaker 1: ठीक है? You just talk about your meme, meme के dialogues, यही सारी चीज़ें चलती हैं। उसके बाद आप अपना product integrate करते हो और उसके बाद बहुत ही light और subtle tone में CTA integrate करते हो।
+[33:56] Speaker 1:  Like for example setup ये है कि Sunday शाम 5 बजे घर में सब सो रहे हैं। 
+[34:01] Speaker 1: ठीक है? Punchline: फ्रिज खुलता है, एक आधा कटा हुआ प्याज और सिर्फ दो अंडे हैं। Product use twist: इसलिए मैंने ये दो मिनट वाला डब्बा छुपा के रखा है, जिसमें आप दो मिनट में Maggi बना सकते हो, कुछ भी बना सकते हो, link bio में है या फिर प्याज खा लो, आपकी मर्ज़ी।
+[34:16] Speaker 1:  तो it's a basic quirky meme ad। अब question ये आता है कि अगर आपको समझ नहीं आ रहा है कि meme कैसे create करें या फिर quirky ads create कैसे करें, तो बहुत simple सी चीज़ है, आप ना अपने product का review section scroll करके देख सकते हो, services का देख सकते हो, कोई अगर creator है जो आपकी industry से related content बनाता है, उसके comment section में देख सकते हो।
+[34:37] Speaker 1:  तो आपको पता चलेगा कि लोगों को उस चीज़ से क्या relatability feel होती है और उसके around आप memes बना सकते हो। 
+[34:43] Speaker 1: ठीक है? ऐसी कोई objection जो आपको हमेशा सुननी पड़ती है, like for example अगर आपका कोई feminine hygiene का product है, तो उस feminine hygiene में females को क्या सबसे ज़्यादा सुनना पड़ता है, आप उस objection के around कोई meme बना सकते हो। Daily routine में ऐसा कोई friction create करने वाली चीज़ हो जिसके around आप कोई meme बना सकते हो।
+[35:02] Speaker 1:  Category की clichés, जैसे मैं अभी आपको बता सकती हूँ, ऐसी चीज़ें जो आपकी category में बहुत ज़्यादा बात की जाती हैं, but people think it's stupid, like इसका कोई sense नहीं बनता है। आप उसके around कोई meme create कर सकते हो।
+[35:13] Speaker 1:  Comment section as I mentioned, आप अपने comment section, अपने category के creator के comment section को scrape करके देख सकते हो कि क्या meme बनाया जा सकता है। Trending formats ये आप एक हफ्ते के लिए किसी भी platform पर run कर सकते हो, because trend कर रहा है तो लोग उसे देखना पसंद करते हैं।
+[35:28] Speaker 1:  And आप अपनी team के साथ, founder भी ऐसे meme ad create कर सकता है, teammates भी create करते हैं। इससे trustability automatically increase होती है।
+[35:36] Speaker 1:  अब कुछ ऐसी categories जिसके लिए meme ad बहुत ही अच्छे काम करते हैं, that is पहला तो FMCG। Skin care, food, इन सबके लिए बहुत अच्छे काम करते हैं।
+[35:46] Speaker 1:  Fashion and accessories, अगर आपका clothing या फिर jewelry जैसा कोई brand है, gaming and entertainment, consumer के basic apps, gaming apps हो गए, personal care हो गया, travel हो गया, edtech हो गया, telecom हो गया, इन सारी जगहों पर ये बहुत ही अच्छी performance देते हैं। लेकिन अगर आप B2B में हो, insurance, healthcare, fintech, तो ऐसी जगह पर meme ads का use मत करिए, because वहाँ पर वो अच्छे performance नहीं लाकर देंगे।
+[36:12] Speaker 1:  Now let's look at some ad creatives जिससे आपको meme ads के बारे में थोड़ा और अच्छे से idea हो जाए।
+[36:16] Speaker 2:  ओह नया water purifier सा लगा के लिया लड़के ने। Atom bomb का।
+[36:20] Speaker 3:  पापा Atom पर।
+[36:22] Speaker 2:  कहते हैं mustard की call आ गई। ओह हाँ जी महाराज, सत श्री अकाल। और बताओ।
+[36:27] Speaker 2:  ओह बस बैठे थे जी, नया पानी-शानी पी रहे थे। ओह नया water purifier सा लगा के दिया लड़के ने, Atom bomb का।
+[36:34] Speaker 3:  पापा Atom पर।
+[36:36] Speaker 4:  As you can see, ये पूरा skit based meme है, जहाँ पर एक father और son के बीच में conversation हो रही है। तो पहली बात तो बहुत naturally create किया गया है, background देखो, setup देखो, father का character देखो। तो proper meme है, बीच में अभी just product आया है यहाँ पर।
+[36:51] Speaker 2:  Atom पर, Atom पर, हाँ जी हाँ जी। ओह बढ़िया है जी, एक तो पानी बड़ा स्वाद है उसका, और साथ में quality-quality देखने को मिल जाती है सामने। लुक-शुक बड़ी अच्छी है इसकी, classy है।
+[36:59] Speaker 2:  पहले वाले तो पुराने simple-simple ही होते थे, ये तो बहुत अच्छा है जी। ओह phone में app shop।
+[37:04] Speaker 4:  Difference भी बता दिया उसके पापा ने, मतलब in conversation।
+[37:07] Speaker 2:  बढ़िया है जी। ले आओ आप भी, घर पे चीज़ जुड़ जाएगी एक नई, और इसी बहाने हमारी वो साली सब खुश हो जाएगी।
+[37:16] Speaker 4:  अब as you saw, ये जो last जो CTA था, उसमें उसने directly face to camera पर आकर नहीं बोला कि भाई ये product ले लो। उसने बहुत subtly अपनी call में ही उस CTA को integrate कर दिया। तो लोगों को क्या है, end में ऐसा नहीं लगेगा कि यार फिर इसने कुछ बेच दिया।
+[37:32] Speaker 4:  Meme से start किया और meme में ही एक subtle call to action देकर खत्म कर दिया। And that is what meme ad is all about।
+[37:38] Speaker 4:  आप बहुत ही ज़्यादा वैसा call to action नहीं देते हो जिससे लोगों को लगता है कि यार इसने भी बेच दिया। You give a call to action जो आपकी skit में, आपकी script में easily integrate हो सके।
+[37:48] Speaker 4:  Let's look at this second ad. That one husband who never says no.
+[37:52] Speaker 5:  दो हज़ार रुपये चाहिए shopping पे जाने।
+[37:59] Speaker 3:  भेज दिया।
+[38:02] Speaker 5:  यार पाँच हज़ार और चाहिए, makeup का सामान भी लेना है।
+[38:09] Speaker 3:  कर दिया।
+[38:12] Speaker 5:  और baby मुझे ना दस हज़ार चाहिए, बहुत urgent है, please कर दो।
+[38:15] Speaker 3:  बस दस हज़ार।
+[38:18] Speaker 3:  कर दिया।
+[38:20] Speaker 5:  यार मुझे एक बात समझ में नहीं आ रही है, मैं जब तुमसे पैसे मांगती हूँ।
+[38:23] Speaker 4:  32 seconds हो चुके हैं, अभी भी product integrate नहीं हुआ है। Skit चल रही है, a lot of people will watch it. And ऊपर काफी अच्छा POV लिखा हुआ है, तो I am 100% sure कि लोग इसको देखेंगे।
+[38:34] Speaker 4:  Let's see इन्होंने product integrate कौन से point पे किया है, I think यहीं पर होगा।
+[38:38] Speaker 5:  क्यों तुम मुझे पैसे दे दे रहे हो? पूछते भी नहीं हो क्यों चाहिए, क्या करना है, और आजकल लड़ाई भी नहीं कर रहे। हाँ?
+[38:43] Speaker 5:  सच बताओ, इतना पैसा कहाँ से आ रहा है? Lottery लगी है या कोई secret income है?
+[38:47] Speaker 3:  ना कोई lottery लगी है, ना कोई secret income है। Simple सी बात है।
+[38:52] Speaker 5:  जा रहे हैं?
+[38:53] Speaker 3:  नहीं। मैं ना रोज़ जा रहा है इसमें थोड़ा-थोड़ा save करता हूँ। बस 50 से start किया था, और automatically 24 carat digital gold में convert होता रहता है।
+[39:00] Speaker 5:  Wow।
+[39:01] Speaker 3:  चाहे मैं जितना भी busy हूँ, auto pay on है, अपने आप save भी करता रहता है।
+[39:05] Speaker 5:  वाह यार, तुम savings भी करते हो?
+[39:06] Speaker 3:  Exactly। जब ज़रूरत हो, easily withdraw भी हो जाता है। अब तुम खुश, घर खुश, और मैं tense।
+[39:11] Speaker 5:  वाह यार, मेरे को तो पता ही नहीं था कि तू इतना smart है। लेकिन हटो। आखिर पसंदीदा merch किसके हो तुम?
+[39:16] Speaker 3:  हर बात में अपने आप को credit।
+[39:19] Speaker 4:  इस meme में भी आपने notice किया होगा कि end में कोई hard CTA नहीं है, बीच में एक subtle product integration हुआ है। Let's look at this ad, जहाँ पे POV लिखा है, Indian moms and food ordering।
+[39:30] Speaker 3:  मम्मी, भूख लग रही है। हाँ तो रोटी खाना? खाने को मंगवा दो, please।
+[39:35] Speaker 3:  नहीं, रोटी काट, मैदा खिलवा लो बाहर का गंदे तेल में तला हुआ। यार, खिला दो बाहर से यार, ये।
+[39:40] Speaker 3:  No। ये टिंडे खाने की चीज़ें हैं?
+[39:42] Speaker 3:  टिंडे, कद्दू, ये मम्मी खिला दो यार। नहीं, daddy तेरा सारी दिन मेहनत करता है, बाहर का खाने को इतना महँगा खाना?
+[39:49] Speaker 3:  ऐसे थोड़ी होता है। फिर Trying app से order करते हैं।
+[39:52] Speaker 3:  नहीं, ये क्या अलग है?
+[39:53] Speaker 4:  बहुत ही crazy और subtle integration था, like मतलब relatability बहुत crazy create की है कि मम्मियाँ खाना इसलिए order नहीं करतीं because उन्हें लगता है कि खाना महँगा मिलता है online। And then बहुत easily product integration हो गया, amazing।
+[40:06] Speaker 3:  Burger starting at rupees 49 only। हो ही नहीं सकता। Trying app पे 49 rupees का मिल जाता है burger?
+[40:12] Speaker 3:  खाली। तो वो तो sale लगी होगी ना।
+[40:14] Speaker 3:  Sale नहीं है। Everyday lowest prices।
+[40:17] Speaker 3:  कूपन की भी tension नहीं है। सीधा ही rate कम है।
+[40:20] Speaker 3:  सीधा ही। बोला था ना, sale नहीं है।
+[40:23] Speaker 3:  Everyday lowest prices। Trying है यार।
+[40:26] Speaker 4:  As you noticed, कोई भी hard subtle call to action नहीं था, बहुत ही smooth integration था। Like if we compare all the three ads, last वाले ad का बहुत ही अच्छा integration था, जहाँ पर वैसा feel नहीं हुआ कि सामने वाला बेचने की कोशिश कर रहा है। तो ये तो definitely as an ad बहुत अच्छा काम करेगा।
+[40:41] Speaker 4:  And usually meme ads ना awareness के लिए, engagement create करने के लिए बहुत अच्छे काम करते हैं, but at some point of time ये convert करने के लिए भी बहुत अच्छे काम करते हैं। Now let's look at a graphic ad.
+[40:54] Speaker 4:  दया दरवाज़ा खोल दो। ये बीच में बहुत चल रहा था meme, जहाँ पर CID के related जितने भी characters थे, उनके ऊपर काफी सारी चीज़ें funny चल रही थीं।
+[41:03] Speaker 4:  जिस पर Zomato ने ये ad create किया था, दया दरवाज़ा खोल लो, we'll be there with your order shortly, Zomato for all cases of hunger। तो बहुत ही, बहुत ही simple ad है, like आप देख रहे होगे no photos, nothing।
+[41:15] Speaker 4:  It's just a simple meme जो trend के हिसाब से बनाया गया है, and इस पर engagement 110% आई होगी, भले ही वो YouTube पर चला रहे हो, Google पे चला रहे हो, या फिर Meta पर चला रहे हो, because ये उस time पर trend था। Now let's look at some of the ads that we created।
+[41:29] Speaker 4:  इसमें ऊपर POV लिखा है, नखरेबाज़ दामाद in family functions।
+[41:38] Speaker 3:  बनाओ, बनाओ, आप बनाओ।
+[41:43] Speaker 3:  अरे भाई, एक ही फोटो है, अच्छे से लेना। चलिए भाई, हो गया।
+[41:52] Speaker 3:  बैठो, बैठो।
+[41:54] Speaker 4:  बैठिए।
+[41:54] Speaker 3:  अरे डब्बू भाई, बैठो। बैठो, बैठो यार। डब्बू भाई।
+[41:58] Speaker 3:  बढ़िया हनी भाई। कहाँ से ले गए तुम ये सब?
+[41:59] Speaker 3:  अरे, किसी से भी पूछ लो। तभी तो मैंने तेरे लिए इंतज़ाम किया है।
+[42:03] Speaker 3:  मुझे पता था। पिछले महीने मैंने कोले का ऑपरेशन कराया, दो लाख रुपये पूरे दिए हैं मैंने।
+[42:09] Speaker 3:  तुमके तो बहुत तगड़ा लगा रही है, लगता है अच्छा डॉक्टर था। बोले, हमें कोई पूछता ही नहीं।
+[42:13] Speaker 3:  काफी बड़ी हो गई है। अबे, ये कौन से कुत्ते वाले बिस्किट लिया है भाई साहब ये?
+[42:17] Speaker 3:  बर्बादी है बस भैया, इस घर की अब बर्बादी होने वाली है और कुछ नहीं। मैं ऑर्डर करता हूँ।
+[42:21] Speaker 3:  मैं ऑर्डर करता हूँ। अरे, मैं कर रहा हूँ ना ऑर्डर।
+[42:23] Speaker 3:  अरे, आ जाएंगे, मैं कर रहा हूँ। पैसे की दिक्कत नहीं है, मैं कर रहा हूँ ऑर्डर।
+[42:26] Speaker 3:  रुको हनी भाई, रुको। अबे शांत।
+[42:28] Speaker 3:  निकल रहा हूँ ना। अरे डब्बू।
+[42:30] Speaker 5:  शख्स और इरादा।
+[42:30] Speaker 3:  नया दामाद आया, उससे पहले तुम प्रॉपर्टी।
+[42:32] Speaker 5:  हमारे हैं जीजा एक पुराने, वो हैं वकील। हमने पूरा इंतज़ाम कर लिया है कि।
+[42:39] Speaker 3:  आ गए बिस्किट, आ गए। ये देखो भाई। क्या चीज़ है भाई ये।
+[42:44] Speaker 3:  आटा, जैगरी, कुकीज़, विथ नट्स एंड।
+[42:45] Speaker 4:  Of skit वाला meme ad है, जहाँ पर एक पूरी skit create की गई थी। बहुत ही वैसा subtle integrate किया गया है।
+[42:51] Speaker 3:  भाई, मेरे लिए तो अभी skit बेस्ट है। आ रहे हैं, जाओ।
+[42:53] Speaker 4:  तो इसमें भी आपने notice किया होगा कि कोई भी end में call to action नहीं था, बड़े ही simply ये skit as a skit end हो गई, और बीच में ride shift cookies integrate हो गई। Now this is the ad, ये हमने real life में चलाकर देखा था, इससे बहुत ही crazy performance आई थी, इसलिए मैंने add करवाया है। ये skit based नहीं है kind of, but kind of snapchatty वाला ad है।
+[43:14] Speaker 3:  बेटा, अगर रोज़-रोज़ आरो से पानी भरोगी, तो बिजली का बिल कितना आएगा, और ये भरेगा कौन?
+[43:19] Speaker 5:  तो क्या करूँ पापा, देख नहीं रहे हैं बाल कितने झड़ रहे हैं मेरे।
+[43:22] Speaker 3:  अरे, तो इतनी सी बात है। चल, तुझे एक चीज़ बताता हूँ, आजा। आजा, आजा।
+[43:26] Speaker 3:  तो बेटा, ये है purity का derma shower filter। अगर मैंने इसे तुम्हारे shower में लगा दिया ना, तो तुम्हारे बाल भी झड़ना कम हो जाएंगे, और तुम्हारी skin भी काफी चमकेगी।
+[43:34] Speaker 5:  सच में? पर वो कैसे पापा?
+[43:36] Speaker 3:  तो बेटा, इस shower से hard water chlorine और बाकी सभी harmful चीज़ें filter out हो जाती हैं, और इससे पानी एकदम साफ हो जाता है। और सबसे ज़रूरी बात, तुम्हें रोज़-रोज़ आरो से bucket में पानी नहीं भरना पड़ेगा, क्योंकि इसे install करना ही बहुत easy है। तुम खुद ही इसे install कर सकती हो।
+[43:53] Speaker 3:  देखो, हो गया ना? तो अब मेरा बिजली का बिल बढ़ाना बंद करो, और आरो के पानी की जगह ये filter use करो।
+[43:58] Speaker 4:  अब इसमें आपने देखा होगा कि इसमें call to action था, but वो second POV से था, मतलब वो उससे ही conversation करके CTA दे रहा था, but to my shockingness, ये perform काफी अच्छा किया है। Like, ads manager में हमें इससे बहुत अच्छी performance आई थी। And क्योंकि इसमें हमने product भी काफी शुरू में integrate कर दिया था, because usually water filters पर you know, kind of वैसी performance नहीं आती है।
+[44:20] Speaker 4:  Like, kind of आप meme के through लोगों को नहीं बेच सकते हो, but ये वाला meme काफी अच्छा perform किया था, because थोड़ी different strategy use की गई थी। शुरू में meme skit से start किया, लेकिन product जल्दी integrate करके, problem की बात करके, एक हल्का सा hard CTA दे दिया।
+[44:34] Speaker 4:  तो इस type के ad formats भी बहुत काम करते हैं। अब देखो, meme ads बनाने के लिए ना, always make sure करिए कि आप ना trending चीज़ें हमेशा देख रहे हो।
+[44:43] Speaker 4:  Like, आपको पता होना चाहिए क्या trend कर रहा है, क्या नहीं कर रहा है। जिसका use करके आप अपनी चीज़ों को और भी better कर सकते हो।
+[44:50] Speaker 4:  आपका जो भी format है, उसके around ही आप joke create करने की कोशिश करो। Random jokes अपने product के लिए या फिर service के लिए मत add करो।
+[44:57] Speaker 4:  और उसे ऐसे बनाओ कि वो देखने में ऐसा नहीं लगा हो कि उसे बनाने में काफी ज्यादा effort लगे हो। बहुत ही effortless piece of content वो लगना चाहिए।
+[45:05] Speaker 4:  अब देखो, always make sure करिए कि आपको trend आपको कैसे पकड़ आएगा। मतलब, ज़रूरी नहीं है कि हर एक बंदा trend पहचान जाए।
+[45:12] Speaker 4:  Trend आप usually तब पकड़ते हो, जैसे कि कैसे होता है, like, आपको अपनी feed में same चीज़ कम से कम पाँच से छह बार हर दिन दिख रही है। तो that means कि वो कभी ना कभी trend करेगा, और उसका फायदा उठाकर आपने बहुत जल्दी उस पर किसी ना किसी type का ad बना लिया।
+[45:27] Speaker 4:  ये जो design and writing rules है ना, ये मैं हर एक chapter के नीचे दे दूँगी। तो make sure करिएगा कि video, writing, और static rules जो हैं, आप उनको एक बार पढ़िए, उसके हिसाब से अपने creatives को prepare करिए।
+[45:38] Speaker 4:  And usually हम meme ad जब run करते हैं ना, तो उसमें सबसे पहला metric हम जो देखते हैं, that is CPM। अगर आपका CPM नीचे आ रहा है, which means आपकी engagement जो है, काफी अच्छी जा रही है।
+[45:50] Speaker 4:  Share and save rate क्या है, hook rate क्या है, और cost per engaged view क्या है। ये चार metrics आपको definitely check out करनी चाहिए।
+[45:56] Speaker 4:  नीचे इस drive के आपको मिल जाएगी video के, ताकि आप इन metrics को हमेशा देखो, किसी भी type का ad run करो तो। आपको always make sure करना है कि ये top of the funnel के लिए meme ads बहुत अच्छे काम करते हैं।
+[46:08] Speaker 4:  48 hours से लेकर 72 hours के बीच में आपको पता चल जाएगा वो ad की performance क्या है। Comments पढ़ो, देखो कि लोग उस ad से react कैसे कर रहे हैं।
+[46:17] Speaker 4:  और आप चाहो तो इसे retargeting offer में भी बहुत अच्छे से use कर सकते हो। Always make sure करिए कि meme ads में आप ये सारी चीज़ें बिल्कुल भी नहीं करिए।
+[46:26] Speaker 4:  That is the joke needs explaining। अगर आपके jokes को ऐसा लग रहा है सामने वाले लोगों को कि उन्हें समझ नहीं आ रहा है, आपको उन्हें explain करना पड़ेगा, वो jokes मत add करिए।
+[46:36] Speaker 4:  Brand की voice से mismatch हो रहा है, अगर ऐसा लग रहा है कि कोई आप ऐसा meme create कर रहे हो जो आपकी brand की vibe को match नहीं कर रहा है, वैसे मत create करिए। Punching अच्छी नहीं है, like overall आपके jokes ही अच्छे नहीं हैं।
+[46:47] Speaker 4:  आपका ऐसा template है जो आप बार-बार, बहुत बार use कर चुके हो, and people are not anymore interested in it। और product जो है, ऐसा नहीं होना चाहिए कि आपने पहले joke खत्म किया, फिर ad start किया।
+[47:01] Speaker 4:  ये sense नहीं बनाएगा। आपको joke के बीच में ही कहीं पर अपना ad integrate करना पड़ेगा। 
+[47:07] Speaker 4: ठीक है? And directly आप अपने product पर jump in मत करिए। कहीं बीच में subtly integrate करिए, और कहीं end में subtly call to action दे दीजिए।
+[47:17] Speaker 4:  That is what meme ad is all about। कुछ और meme ads आपको इसी video के नीचे drive link पर दिख जाएंगे।
+[47:23] Speaker 4:  Make sure you check it out, ताकि आपको समझ आए कि आप कैसे create कर सकते हो। अब we'll be moving on to the next chapter, जहाँ पर हम और अच्छे high ad converting structures को discuss करेंगे।
+[47:33] Speaker 4:  तब तक के लिए, bye-bye।
+[47:37] Speaker 3:  1000 per day आके दे देगा। 2 campaigns।
+[47:45] Speaker 3:  1000 per day 2 campaigns। हाँ।
+[47:51] Speaker 3:  500 per campaign।
+[48:01] Speaker 4:  Fourth high converting ad structure के बारे में, and this is the ad structure that I always use। मैं अपने खुद के personal products पे हमेशा सिर्फ यही type के ad creative use करती हूँ, and I am talking about educational ads। अब educational ads होते क्या हैं, मुझे आपको वो समझाने की जरूरत नहीं है।
+[48:18] Speaker 4:  It's basically कि आप अपने product या service के around लोगों को educate कर रहे हो। अब ये ना तब बहुत ज्यादा काम करते हैं जब आप basically ऐसे specifically products में हो जिसके बारे में लोग ज्यादा aware नहीं हैं।
+[48:33] Speaker 4:  या फिर ऐसी service में हो जहाँ पर awareness create करने की जरूरत है, वहाँ पर educational ad बहुत ज्यादा काम करते हैं। जहाँ पर subtle call to action होता है, आप पूरे video में सिर्फ education ही देते हो।
+[48:46] Speaker 4:  Viewer खुद decide करता है whether उसे वो education से value चाहिए कि नहीं चाहिए। ये kind of ऐसा 50-50 रहता है।
+[48:52] Speaker 4:  But अगर आपकी authority अच्छी है, तो ये आपके लिए बहुत अच्छी performance लाकर दे सकते हैं। जैसे कि I mentioned, यहाँ पर आपका goal ये नहीं रहता कि आप कितने clicks engagement ले आओ।
+[49:01] Speaker 4:  आपका goal ये रहता है कि आप सामने वाले बंदे का कैसे mind change कर सकते हो for, you know, buying your product। इसमें एक ही idea रहता है, like whatever you want to talk about, आप सिर्फ एक topic के around उसमें education देते हो।
+[49:12] Speaker 4:  Real teach करते हो, आप ऐसी चीज़ों के बारे में बात करते हो जो आपने actually सीखी हो उस product या service से related, और एक honesty का bridge create करते हो। Like ऐसा education provide करते हो जिससे लोगों को automatically honesty तो मिलती है, साथ ही साथ उन्हें education भी मिलता है।
+[49:24] Speaker 4:  At the end, वो buyer फिर decide करता है whether they want to buy your product or not। Always make sure करिए कि educational ad आपके product का explanation नहीं होता है।
+[49:32] Speaker 4:  Like for example, ये pen है, तो मैं ये pen को नहीं explain करूँगी। मैं इसके around एक honest education दूँगी।
+[49:38] Speaker 4:  Like for example, कि pen कितने समय से चला आ रहा है, like pen की history क्या थी, इसके around बात कर सकती हूँ। You talk something about educational।
+[49:45] Speaker 4:  ये कोई listical नहीं है, जहाँ पर आप अपने product या services के feature के बारे में बात करोगे। कोई teaser नहीं है, कोई lecture नहीं है।
+[49:50] Speaker 4:  आपको 50 seconds में proper education देनी पड़ती है सामने वाले बंदे को, ताकि वो आपसे honestly relate कर पाए, और उसके बाद आपका product ले ले। अब देखो, बहुत simple सी बात होती है।
+[49:58] Speaker 4:  अगर मैं बात करूँ educational ad की, तो उसमें एक ladder होती है, which is called awareness ladder। आपका goal होता है, आप सामने वाले बंदे को यहाँ से यहाँ पर लेकर जाओ।
+[50:07] Speaker 4:  अब जब भी, for example, आपने कभी भी ads नहीं run किए हो, आप सबसे पहली बार ad run कर रहे हो, तो उसमें आपका क्या goal रहता है? कि सामने वाली जो audience है, आपके product के बारे में बिल्कुल भी aware नहीं है।
+[50:16] Speaker 4:  मतलब, उसे पता ही नहीं है कि कोई problem exist करती है उस market में। जैसे for example, ये tumbler।
+[50:21] Speaker 4:  Tumbler wasn't a product जो कि कोई problem solve कर रहा हो या कुछ भी हो। It's just an aesthetic।
+[50:26] Speaker 4:  लेकिन ये market में बहुत ज्यादा बिक रहा है। क्यों बिक रहा है?
+[50:28] Speaker 4:  शुरू में लोगों को aware नहीं थे। That was कि water intake is a very big problem।
+[50:32] Speaker 4:  इस tumbler के brand ने इस problem के बारे में लोगों को aware करना start किया कि आपका water intake complete नहीं होता है। तो आपके जो शुरू के ads होने चाहिए, वो उसी problem के around होने चाहिए, ताकि लोग सबसे पहले किसके बारे में aware हों?
+[50:42] Speaker 4:  Problem के बारे में। You don't have to pitch your products right now।
+[50:45] Speaker 4:  अब मान लो, second audience जो आपकी है, जो यहाँ से आई, वो problem के बारे में aware हो चुकी है, but उन्हें पता ही नहीं है कि इसका कोई solution exist करता है। Like for example, मैंने लोगों को बता दिया कि भाई, आपको water intake की problem है, but मैंने अभी ये तो नहीं बताया ना कि उसका solution क्या है।
+[50:57] Speaker 4:  वो तो अपने दिमाग में यही solution लेके चल रहे हैं कि मुझे water intake increase करना है, but how? They don't know।
+[51:01] Speaker 4:  तो मैं अपने second stage में problem के बारे में aware कर चुकी हूँ, अब मैं solution के बारे में aware करूँगी। तो यहाँ पर मैंने अपने third stage में solution के बारे में aware कर दिया।
+[51:08] Speaker 4:  अब जब आप अपने solution के बारे में aware करते हो ना, like for example, the solution is tumbler, because comfortable है, easy to drink है, लंबे समय के लिए चलता है, और आपका water intake automatically complete हो जाता है। But लोगों को मेरे brand के बारे में अभी नहीं पता है।
+[51:20] Speaker 4:  They know कि मुझे solution पता है, but they don't know about my brand। तो उसके बाद मैं fourth stage में अपने brand के बारे में aware करती हूँ।
+[51:26] Speaker 4:  And fifth stage में मैं reason देती हूँ, why you should buy। तो ये आप या तो पूरे एक video में create कर सकते हो, या फिर इसे आप अलग-अलग stages में convert करके create कर सकते हो।
+[51:36] Speaker 4:  आपका overall goal ये होना चाहिए कि आप unaware audience को most aware audience की तरफ लेकर जाओ, and not just educational ads। आप किसी भी ad type के बारे में भी बात करोगे ना, तब भी ये structure हर जगह काम आता है।
+[51:46] Speaker 4:  अब देखो, educational ads basically attention भले ही create ना करें, but they always help people value you और value your brand। तो I think अगर आपने educational ad try नहीं किए हैं, आपको करने चाहिए, because ये आपके brand को एक बहुत अच्छी authentic value दे सकता है।
+[52:00] Speaker 4:  आपको cold traffic काफी अच्छा मिलता है। आप cold audience में, warm audience में, retargeting में, कहीं पर भी use कर लो, इसकी performance अच्छी ही रहती है।
+[52:08] Speaker 4:  Immediate return मिलता है। इसमें ऐसी metrics आपको मिलेगी जो आप actually में track कर सकते हो।
+[52:12] Speaker 4:  Creative shelf life होती है। आप बहुत सारे educational ads एक बार में बना सकते हो।
+[52:16] Speaker 4:  And मुझे ऐसा लगता है, इसमें volume create करना भी इतना ज्यादा difficult नहीं होता है। If you know how to speak in front of the camera, आप बहुत easily educational ad में volume create कर सकते हो।
+[52:23] Speaker 4:  Because इसमें आपको बार-बार changes करने की जरूरत नहीं पड़ती। You can just sit on a table and talk about what you want to talk about।
+[52:29] Speaker 4:  And educational ads की अब anatomy की बात करते हैं कि how does the structure work। इसके लिए सबसे best structure मेरे हिसाब से hook दो, problem दो, solution pitch करो, credibility दो, pitch करो, और CTA दे दो।
+[52:41] Speaker 4:  That's it। This is the best structure to create an educational ad।
+[52:44] Speaker 4:  Like for example, claim भी कर सकते हो, credibility बढ़ाओ, teach करो, gap बताओ, bridge बताओ, call to action बताओ। इसे थोड़ी सी simple भाषा में explain करने की कोशिश करती हूँ।
+[52:51] Speaker 4:  सबसे पहले, आप कोई ऐसा claim करते हो, like एक ऐसा hook देते हो जो आपकी audience को पता नहीं है। Like for example, आपने पिछले एक साल से अपना water intake complete नहीं किया है, and you don't even know about it।
+[53:00] Speaker 4:  अब मान लो, मैंने यहाँ पर credibility add कर दी कि मैं एक mentalist हूँ। Like for example, मैं एक mentalist हूँ जो पिछले चार सालों से लोगों की healthy lifestyle में help कर रही हूँ, या फिर मैं एक fitness freak हूँ।
+[53:09] Speaker 4:  उसके बाद मैं teach करूँगी, like मैं two-three ऐसे concepts बताऊँगी कि water intake complete नहीं करने से आपकी health में क्या consequences आ सकते हैं। फिर मैं gap की बात करूँगी, like क्यों ऐसा हो रहा है।
+[53:17] Speaker 4:  The reason is कि लोगों के पास कोई comfortable solution नहीं है इस चीज़ को cater करने का। And उसके बाद मैं bridge करूँगी, that's why you can take this tumbler, जो आपके water intake complete करने में help करता है, and then I give a call to action।
+[53:27] Speaker 4:  For example, protein supplement brand। Label पे अगर protein blend लिखा है, तो वो box कभी भी मत लेना।
+[53:33] Speaker 4:  ये मैंने claim किया है। अब मैं credibility दूँगी।
+[53:35] Speaker 4:  मैं चार साल से nutrition labels पढ़ रही हूँ। Ingredients ना weight के order में होते हैं।
+[53:38] Speaker 4:  Blend का मतलब company बता रही है कि किस चीज़ का कितना है। Leucine की value check करो।
+[53:43] Speaker 4:  हर डब्बे पे ये चीज़ check करना बिल्कुल भी practical नहीं है। इसलिए हमारे हर batch की lab report QR code पे डाल दी है।
+[53:48] Speaker 4:  आप scan करते ही देख सकते हो कि उस protein box में क्या-क्या ingredients हैं। तो इस तरीके से मैंने educate किया, एक problem cover की, credibility build की, solution दिया, and then I ended it with a call to action।
+[53:57] Speaker 4:  That is how most educational ads work। अब जैसे educational angles भी बहुत सारे हो सकते हैं।
+[54:01] Speaker 4:  आप myth bust कर सकते हो। Like for example, अगर आपकी crowded niche है, for example, jewelry हो गई।
+[54:07] Speaker 4:  Imitation jewelry हो गई। तो आप क्या myth bust कर सकते हो?
+[54:09] Speaker 4:  अगर आपको हर एक jewelry Instagram पे लग रही है कि वो imitation jewelry है, तो you are wrong। Because here are the three things that you need to check right now in order to find out कि वो imitation jewelry है कि नहीं, उसका color उतरेगा कि नहीं।
+[54:19] Speaker 4:  So that is busting a myth। Second is mistake list।
+[54:22] Speaker 4:  तीन या चार ऐसी mistakes जो आप अपने ads run करते वक्त करते हो, and you don't even know about it। तो that is जहाँ पर हम mistakes को list कर रहे हैं अपने।
+[54:29] Speaker 4:  Third could be how to tutorial। कि कैसे कर सकते हो।
+[54:32] Speaker 4:  Like for example, अगर आपको एक proper three-step skincare routine को follow करना है, this is exactly how you do it। जहाँ पर हम बता रहे हैं कि आप कैसे उस चीज़ को करते हो।
+[54:39] Speaker 4:  जो products with visible process, as I mentioned, skincare वगैरह में अच्छा काम करता है। Second है framework और steps।
+[54:44] Speaker 4:  जहाँ पर आप steps के through कुछ explain करने की कोशिश करते हो। Like for example, अगर आपको अपने ads में अपना cost per purchase कम करना है, तो three things you need to do right now।
+[54:52] Speaker 4:  तो इसमें मैं framework बता रही हूँ कि किस तरीके से आप अपना cost per purchase कम कर सकते हो। Fifth could be mechanism।
+[54:57] Speaker 4:  कि क्या उसके अंदर काम करता है। Like for example, protein supplement।
+[55:01] Speaker 4:  आपको लगता है आपके protein supplement से आपको बहुत proper protein intake मिल रहा है, but you are wrong। Because आपको पता नहीं है कि protein supplements exactly काम कैसे करते हैं।
+[55:08] Speaker 4:  Then आप उसको deep dive करके बताओगे कि exactly how do they work। Data reveal।
+[55:12] Speaker 4:  जहाँ पर आप data के through बात करते हो। Like for example, 2025 में notice किया गया था कि almost 50% से ज्यादा adults water intake complete नहीं कर पाते हैं, because उनके पास कोई भी comfortable source नहीं है उसे complete करने का।
+[55:22] Speaker 4:  उसके बाद मैंने और data दिया, and then I pitched this product। Seventh हो सकता है buying guide।
+[55:26] Speaker 4:  Like किस तरीके से आप उस product को buy कर सकते हो, और किसी real result को या फिर case को break down करना। Like for example, मैं एक fitness की बंदी हूँ।
+[55:33] Speaker 4:  मेरे पास एक ऐसा client है जिसने 100 kg से 60 kg तक weight lose किया, and मैंने वो client की पूरी backstory बताई कि I'm 100% sure कि आप सोच रहे होंगे कि इस बंदे ने 100 kg से 60 kg में कैसे अपने weight को कम किया, and I'll tell you the exact story how he did it, जिसमें वो बताएगा कि उसने कैसे उसकी help करी। तो that is also an educational ad, जहाँ पर आप educate भी कर रहे हो और साथ में pitch भी कर रहे
+[55:51] Speaker 4:  हो। तो these are some of the angles जो educational ads में बहुत ही ज्यादा काम करते हैं। अब देखो, educational ad में लोग ना सबसे बड़ी गलती क्या करते हैं?
+[55:56] Speaker 4:  उन्हें जितनी education पता है, like whatever they know, they all talk about it। ऐसा आपको नहीं करना है।
+[56:01] Speaker 4:  Like for example, अगर आप कोई edtech industry में हो, digital product बेचते हो, आपने पूरा अपना educational या experience अपने ad में ही बता दिया, तो there is no sense of the customer going to your landing page and purchasing your product। तो always make sure कि आपको बात करनी है problem के बारे में, वो problem क्यों होती है, उसके पीछे, like solution जो है, उस solution के पीछे क्या principles काम करते हैं।
+[56:20] Speaker 4:  You exactly don't talk about कि उससे क्या solution मिल रहा है। आप उसके backend के बारे में बात करते हो, ताकि solution आप अपने actual product या service में दे पाओ।
+[56:26] Speaker 4:  How to spot it in their own situation। Like आप कैसे उस चीज़ को spot कर सकते हो।
+[56:31] Speaker 4:  End to end आपने वो चीज़ सिखा दी। Mistakes जो उनको money cost कर रही हैं, या फिर options को कैसे evaluate कर सकते हो, including yours।
+[56:37] Speaker 4:  तो आप ये सारी चीज़ें दे सकते हो। But अगर purely educational बना रहे हो, अपने product या service के बारे में सारी चीज़ें बता दे रहे हो, तो फिर क्या होता है ना, वो ad ही वहीं पर खत्म हो जाता है।
+[56:44] Speaker 4:  सामने वाले बंदे को लगता है कि आगे जाने की जरूरत ही नहीं है, इसने तो सब कुछ ad creative में ही बता दिया। तो always make sure educational ad में you are making a difference।
+[56:51] Speaker 4:  आप difference create कर रहे हो सामने वाले की life में, but आप exactly उन्हें solution नहीं बता दे रहे हो कि this is how you fix it। वो आप अपने product या service के through करते हो।
+[56:58] Speaker 4:  As I mentioned, edtech and courses में बहुत अच्छी performance आती है। इसके अलावा, मुझे नहीं लगता one of the best ads कोई है market में जो edtech और courses के लिए काम करेंगे।
+[57:05] Speaker 4:  Fintech, insurance, health supplements—मतलब last three जो ad types हैं, जो categories में काम नहीं कर रहे थे ना, वो categories में ये वाले ad creative काम करते हैं। Skincare हो गया, SaaS, home appliances, real estate, automobile, और फिर उसके बाद यहाँ पर fashion, jewelry, food, and FMCG में थोड़े कम करते हैं, but इन categories के लिए ये literally gold mine है।
+[57:23] Speaker 4:  आप अपने pen और paper में लिख के रख लीजिए कि this is literally a gold mine। अब let's look at some educational ad example।
+[57:28] Speaker 2:  देखिए दोस्तों, आप medical store से जो भी medicine खरीदते हैं, कोई भी medicine आप खरीदते हैं, उसपे आपको 60% तक का off मिल सकता है। सीधा-सीधा 60% तक का off मिल सकता है। दोस्तों, market में एक app है जिसका नाम है Platinum RX, जो आप play store से download कर सकते हैं।
+[57:39] Speaker 2:  जहाँ पे आपको same salt और composition की दवाई, clinically proven medicine, जिसके expiry date long है, और आपको same effect की दवाई मिल जाएगी, वो भी 60% तक off में। लेकिन ये 60% off जो आपको मिल रहा है, ये मिलता कैसे है?
+[57:51] Speaker 2:  देखिए दोस्तों, जो भी आपके।
+[57:52] Speaker 1:  बहुत ही crazy ad है। I just love that ad। बहुत ही simple बनाई गई है, साथ ही साथ बहुत अच्छे से educate भी कर रहा है, and उसने directly ही वो app pitch कर दिया है without talking exactly about the app।
+[58:02] Speaker 1:  बहुत ही अच्छी है, like it would have definitely converted।
+[58:05] Speaker 2:  Medicine बनती है तो वो कोई manufacturer बनाता है, उसके बाद उसका marketing cost लगता है, उसके बाद उसमें distribution का commission होता है, और आपको seller का commission होता है, उसके बाद आपको delivery मिलती है। तो price आपका जो है वो बहुत high हो जाता है आपके पहुँचते-पहुँचते। लेकिन यही चीज़ Platinum RX में आपको direct।
+[58:19] Speaker 1:  बहुत अच्छा है। Like this is the format जो आप definitely try कर सकते हो। Let's look at the next ad।
+[58:24] Speaker 1:  इसको थोड़ा सा पीछे कर लेते हैं। Do you invest?
+[58:26] Speaker 2:  Actually I don't।
+[58:28] Speaker 1:  And why is that?
+[58:28] Speaker 2:  ऐसा नहीं कि मुझे नहीं करना। It's just that इतने सारे options हैं apps के। मैंने एक बार एक app download भी किया था, and उसपे सिर्फ stocks का option था।
+[58:35] Speaker 2:  अब हर चीज़ के लिए एक अलग app होता है, download करो ना।
+[58:37] Speaker 1:  Then why don't you try Grow? यहाँ stocks, mutual funds, IPO, futures, and options। Educational ad।
+[58:42] Speaker 1:  Simple है। बहुत ही basic kind of ad है ये अभी।
+[58:44] Speaker 2:  क्या changes आएँगे तुम्हारे body में अगर तुम अगले 60 दिनों तक daily creatine consume करते हो तो? सबसे पहले दिन तुम्हें कोई changes देखने को नहीं मिलेंगे। तुम्हारी muscles और तुम्हारी energy पहले जैसी थी, वैसी ही रहेगी।
+[58:52] Speaker 2:  सातवें दिन तक creatine तुम्हारे muscles में water hold करने लगेगा, जिससे तुम थोड़ा dehydrated feel करने लगोगे, क्योंकि creatine तुम्हारे muscles में water hold करने लग रहा है। चौथे दिन तक तुम्हारा saturation hit हो जाएगा, तुम्हारा ATP stone fully charge हो जाएगा, और तुम heavy lift कर पाओगे, और तुम्हारी muscles की size भी बढ़ने लगेगी।
+[59:03] Speaker 2:  और तीसरे दिन तक तुम्हारे muscles का size तो बड़ा हो ही जाएगा, लेकिन उसी के साथ तुम्हारा brain fog भी गायब हो जाएगा। Creatine तुम्हारे neurons को भी energy देने लगेगा, तुम्हारा focus एकदम sharp हो चुका होगा, और तुम्हारी recovery भी fast हो चुकी होगी।
+[59:12] Speaker 2:  सातवें दिन पर जब तुम खुद को mirror पर देखोगे, तो तुम्हें एक different person दिखाई देगा, क्योंकि तुमने muscles।
+[59:16] Speaker 1:  बहुत ही, बहुत ही अच्छा educational ad है। Properly बात करी है कि creatine लेने से क्या होता है, उसके पूरे, पूरा step-by-step framework बताया है कि day one, day two, day three पर क्या होगा, and उसके बाद product pitch किया है। बहुत अच्छा kind of educational ad है।
+[59:28] Speaker 1:  ये जैसे कुछ graphic ads हैं, जैसे 60% of skin is water। Hydrate timely for healthy skin।
+[59:32] Speaker 1:  बहुत ही अच्छी line लिखी हुई है। बहुत ही simple।
+[59:34] Speaker 1:  As I mentioned कि आज के time पर आप graphic ads में जितने कम elements add करोगे, वो उतना better perform करता है। Vitamin deficiency, hair thinning, pale skin, low energy, daily nutrition।
+[59:42] Speaker 1:  Tata 1mg। Manage your cholesterol for healthy heart।
+[59:45] Speaker 1:  जहाँ पर ये product pitch किया है कि क्या-क्या इसमें कम हो जाएगा। Let's look at some of the ad creatives that we create।
+[59:49] Speaker 1:  Instagram पे हर दूसरा influencer ये सिखाता है कि कैसे acne-free skin पाएं, पर उनमें से ज्यादातर myths होते हैं। Myth number one है कि ज्यादातर लोगों को लगता है कि अगर आपकी acne-prone skin है, तो 10-step skincare करना compulsory है।
+[60:00] Speaker 1:  But in reality, अगर आप बहुत ज्यादा skincare करते हैं, तो आपकी skin barrier खराब हो जाती है। और skin barrier खराब होने का मतलब है कि skin और ज्यादा sensitive हो जाती है।
+[60:07] Speaker 1:  दूसरा सबसे बड़ा myth ये है कि लोगों को लगता है acne is equal to unhygienic skin। But in reality, acne होने के बहुत सारे reasons होते हैं, जैसे कि diet, hormonal imbalance, excess oil, and ऐसे बहुत सारी चीज़ें।
+[60:16] Speaker 1:  And तीसरा और सबसे बड़ा myth ये है कि अगर आपको।
+[60:18] Speaker 2:  Properly बताया है कि skincare routine exactly क्या होना चाहिए, और उसके बाद product integrate किया है। Let's look at this one। Majority of food brands आपकी family को ज़हर दे रही है, और इसके पैसे भी आप ही देते हो।
+[60:28] Speaker 2:  ज्यादातर brands अपने product में palm oil का use करते हैं, जिसका excessive consumption आपके लिए बहुत ज्यादा dangerous हो सकता है। In fact, बहुत सारी researches में तो ये भी बात सामने आई है कि ज्यादा palm oil consume करने से heart disease का risk बढ़ जाता है।
+[60:38] Speaker 2:  Plus इसमें saturated fat भी होता है, जिससे आपको weight gain भी हो जाता है। That's why I suggest कि आप एक ऐसा food consume करो जिसमें ना ही processed sugar हो और ना ही palm oil का use होता हो।
+[60:45] Speaker 2:  For example, ये Rite Shift के cookies। इसमें ना ही palm oil का use होता है, plus they use jaggery instead of sugar।
+[60:50] Speaker 2:  तो ये आपके लिए एक बहुत ही बढ़िया healthy alternative है। Also these cookies are 100% maida-free।
+[60:54] Speaker 2:  तो अपने life में से processed और palm oil वाला।
+[60:56] Speaker 1:  बहुत अच्छे hook से start हुआ। Proper data दिया कि किस तरीके से palm oil और sugar की वजह से आपको health issues होते हैं, and then product integrate हुआ है। Let's look at this one।
+[61:04] Speaker 2:  आपके RO का filter हर दो महीने में कुछ ऐसा हो जाता है। और ये तो छोड़ो, इतने सालों से जो आप पानी filter कर रहे हो, उससे पानी के सारे minerals निकल जाते हैं। ये देखो, अगर हम इस पानी में pH paper dip करेंगे, तो पानी highly acidic दिखता है।
+[61:14] Speaker 2:  तो daily life में जैसे laziness, bloating, acidity, और skin problems तो होनी ही हैं। And that's why celebs like विराट कोहली alkaline water पीते हैं।
+[61:21] Speaker 2:  पर problem ये है कि इसकी 1 liter की bottle 150 रुपये की आती है, जो कि हमेशा afford करना मुश्किल है। But I have a solution for you।
+[61:26] Speaker 2:  ये alkaline water bottle। इसमें आप normal RO water fill करो, और ये उस पानी को instantly alkaline water में convert कर देता है।
+[61:31] Speaker 2:  And ये जो daily life की problems हैं, जिनके लिए आप दवाइयों पे इतने पैसे खर्च करते हो, उसकी भी बचत होगी। तो मैं तो यही कहता हूँ कि अपनी health पर invest करो, क्योंकि उसके ऊपर कुछ भी नहीं होता है।
+[61:39] Speaker 1:  बहुत simple सा ad था। Alkaline water के ऊपर बात करनी थी, इसे हमने RO filter से किया, because RO filter almost सबके घर में होता है। Problem statement से start किया, उसको educate किया कि क्यों ऐसा होता है, and then we pitched the product।
+[61:48] Speaker 1:  तो ये simple educational ads हैं जो बहुत अच्छे काम करते हैं। अब आप educational ads create कैसे करते हो, उसके बारे में एक बार बात कर लेते हैं।
+[61:54] Speaker 1:  देखो, मुझे ऐसा लगता है educational ad create करने के लिए ना आपके पास सबसे पहले आना चाहिए कि क्या ऐसी problem या question है जो हर एक बंदे को face हो रही है, जिसके around आप educate कर पाओ। अगर आपके पास अपनी industry का वो नहीं है, तो एक pen and paper पर लेकर 50 questions लिखो, थोड़ा बहुत AI का use कर लो, and ये figure out कर लो।
+[62:10] Speaker 1:  When you have figured it out, आप इन questions को ही hook में convert करो। जब उनको hook में convert कर लिया, then you decide कि आपको उसके around क्या teach करना है लोगों को। 
+[62:17] Speaker 1: ठीक है? जिसमें आप थोड़ा बहुत data add कर दो, जिससे वो और भी ज्यादा authentic लगे। उसके बाद आप एक honesty bridge जब create कर लेते हो, तब आप finally अपना product pitch करो।
+[62:26] Speaker 1:  Usually जब हम educational ad run करते हैं, तो हम उसका hook rate, hold rate, average watch time, और retargeting में conversions check out करते हैं। मैं ये सारी चीज़ें आपको नीचे दे दूँगी।
+[62:34] Speaker 1:  Make sure करिए कि आप ये जो metrics हैं, इनको definitely check out करें, जब भी आप कोई भी ad creative run करते हो, तो ताकि आपको समझ आए कि उसकी performance कैसे आ रही है। And lastly, educational ad में always make sure करिए कि आप too broadly नहीं teach कर रहे हैं।
+[62:46] Speaker 1:  Like for example, अगर मैं meta ads के बारे में सिखा रही हूँ, तो मैं meta ads में ये नहीं सिखाऊँगी कि meta ads आज के लिए, आज के time पर businesses के लिए कितने ज्यादा important हैं। I'll talk about some other specific thing।
+[62:55] Speaker 1:  Like for example, why targeting is dead। I can talk about this।
+[62:57] Speaker 1:  तो you have to make sure कि एकदम broad educate मत करो। एक audience को educate करो, because they are much more interested to hear what you have to say।
+[63:04] Speaker 1:  कोई credibility ad ना हो, ऐसा definitely नहीं करना है। अगर आप educate कर रहे हो, तो आपकी education के साथ एक credibility होनी चाहिए। 
+[63:10] Speaker 1: ठीक है? इसी के साथ-साथ forced bridge मत create करो। अगर आप educate कर रहे हो, तो make sure करिए कि simply एक ऐसा bridge हो, जिससे आपका product integrate हो सके।
+[63:19] Speaker 1:  गलत चीज़ें मत सिखाइए, and lecturing tone में मत सिखाइए। जैसे for example, आपने मुझे कभी Instagram पर देखा होगा, तो you have noticed कि मैं हमेशा fun way में teach करने की कोशिश करती हूँ।
+[63:27] Speaker 1:  Because social media platforms या फिर normal ऐसे YouTube जैसे platforms are not exactly made for education। तो वहाँ पर लोगों को आपको थोड़ा different तरीके से teach करना पड़ता है।
+[63:34] Speaker 1:  Always go for infotainment content या ऐसा content जिससे आप लोगों को hook कर सको, ताकि आपको better results आएँ अपने ad creators में। I hope educational ads होते कैसे हैं, किस तरीके से आप create करते हो, आप समझ गए होंगे।
+[63:44] Speaker 1:  I'll be meeting you in the next chapter, where we'll be talking about the next high converting ad creative structure। Bye-bye।
+[64:10] Speaker 3:  ಹಲೋ. ಒಂದು ಕ್ಷಣ, ಇದು ಜೇಕ್ಯಾ ಫ್ರೆಡರ್ಸ್ ಪಿಜ್ಜಾ ತರ ಇದೆಯಾ? ಒಂದು ನಿಮಿಷ ಹೇಳ್ತೀನಿ.
+[65:16] Speaker 3:  ಹಲೋ. ಬಸವನಾರಿಯವರು ನಿಂತಿದ್ರು.
+[65:23] Speaker 3:  ಅಲ್ಲಿ ನಿಂತಿದ್ರು. ಆ ಬೇಜಾರ್.
+[65:27] Speaker 3:  ಸೀಟ್ ಪ್ಲೇಸ್ ಬಿಟ್ಟುಬಿಟ್ಟೆ. ಹಲೋ.
+[65:31] Speaker 3:  ಬೇಜಾರ್. ಸಾರಿ.
+[65:33] Speaker 3:  ದೇರ್ ಇಸ್ ಎ ಪಾರ್ಸೆಲ್. ಸೋ ಪ್ಲೀಸ್, ಪ್ಲೀಸ್, ಪ್ಲೀಸ್, ಪ್ಲೀಸ್, ಪ್ಲೀಸ್, ಸೆಟ್ ದ ಪಾರ್ಸೆಲ್.
+[65:40] Speaker 3:  ಇಲ್ಲ. ಬೇಡ.
+[65:42] Speaker 3:  ಇಲ್ಲಿ.
+[65:45] Speaker 3:  ಅವಿಲ್ ಚೇರ್.
+[66:54] Speaker 3:  ಅಕ್ಕ, ಹಾರ್ಡ್ 291.
+[66:58] Speaker 3:  ಎಸ್. 
+[67:02] Speaker 3: ಥ್ಯಾಂಕ್ ಯು.
+[67:06] Speaker 3:  ಅಲ್ಲಿ ಕಾಫಿ ಬೇಕಾ?
+[67:43] Speaker 3:  ಒಂದು ನಿಮಿಷ, ಒಂದು ನಿಮಿಷ. ಫೀಡ್ಬ್ಯಾಕ್ ವಿಚಾರಕ್ಕೆ ಮಾತ್ರ ಒಂದು 50-50.
+[68:02] Speaker 3:  ದೇ ಆರ್ ಕಮಿಂಗ್ ಫ್ರಮ್ ಫಾರ್, ಬಟ್ ದೇ ಆರ್ ಮೈಂಡ್ ಚೇಂಜ್. ದಿಸ್ ರೈಟ್ಸ್.
+[68:03] Speaker 3:  ಸೋ ಐ ಗೆಟ್. ಐ ಗೆಟ್.
+[68:04] Speaker 3:  ಸೋ ಇಟ್ ಟೇಕ್ಸ್ ಮನಿ ಟು ಅಗ್ರಿ ದಟ್ ಲೊಕೇಶನ್. ಅಂಡ್ ವಾಟ್ ವಿ ಆರ್ ಟು ಡು ಇಸ್, ಲೈಕ್, ಪೀಪಲ್ ಆರ್ ಡೆಮಿನೇಟ್ ಪೀಪಲ್.
+[68:11] Speaker 3:  ಐ ಡೋಂಟ್ ನೋ. ದೇ ಆರ್ ರೈಟಿಂಗ್ ಲೈಕ್, "ಟು ದ ವಾಟ್ಸಪ್" ಅಂಡ್ "ಗೇಟಿಂಗ್ ದ ಲಿಂಕ್ಸ್".
+[68:17] Speaker 3:  ಇನ್ ದಟ್ ವೇ, ವಾಟ್ ವಿ ಆರ್ ಡೂಯಿಂಗ್ ಇಸ್, ಗೆಟ್ ಸಮ್ ಕ್ವಾಲಿಟಿ ಲಿಂಕ್ಸ್. ಸೋ ಫಾರ್ ದಟ್, ವಿ ವಿಲ್ ಸೆಟ್ ಅಪ್ ಆನ್ ಇನ್ಸ್ಟಾ ಫೋನ್ಸ್, ವಿಚ್ ಶುಡ್ ಆರ್, ಅಗೈನ್, ಓನ್ಲಿ ಟು ಟು ತ್ರೀ ಕ್ವೆಶ್ಚನ್ಸ್.
+[68:30] Speaker 3:  ಅಂಡ್ ದೆನ್, ದೇ ಆರ್ ಟು ಸೆಂಡ್ ದೆಮ್. ದೆನ್, ದೇ ವಿಲ್ ಬಿ ಡಿಲೇಡ್ ಟು ವಾಟ್ಸಪ್.
+[68:36] Speaker 3:  ಸೋ ವಿ ಡು ದಿಸ್ ಡಿಫರೆಂಟ್. ಫಾರ್ಗಾಟ್ ದ ಕ್ಯಾನ್ಸಲ್ಸ್.
+[68:51] Speaker 4:  ಬ್ರೋ, ಎರಡು ಕ್ಯಾಂಪೇನ್ ಆರ್ಟಿಓ ಅಲ್ಲಿ ಇದ್ದೀರಾ? ಕ್ಯಾಂಪೇನ್ಸ್ ಎರಡು ಇದಾವೆ, ತಾನೇ? ಎರಡು ಇದಿಯಾ?
+[69:00] Speaker 4:  ಯಾರದು?
+[69:03] Speaker 4:  ನಾನು ಸ್ಕ್ರೀನ್ ಶಾಟ್ಸ್ ಕಳಿಸ್ತೀನಿ. ಕ್ಯಾಂಪೇನ್ ಇಂಪ್ರೆಷನ್ಸ್, ಅದು ಇವು ಎಲ್ಲಾ.
+[71:06] Speaker 4:  ಅಂಡ್ ಯು ಆರ್ ವೆರಿ ಗುಡ್ ಟು ಪುಟ್ ದ ಕ್ಯಾಂಪೇನ್ಸ್ ಫಾರ್.
+[73:26] Speaker 4:  ಆಡ್ ಮಾಡೋದು, ಅಪ್ಲೋಡ್ ಮಾಡೋದು.
+[73:28] Speaker 3:  ಮಾಡ್ತೀನಿ. ಮಾಡ್ತೀನಿ. ಅದೇ ಸೆಟ್ ಅಪ್ ಮಾಡ್ತಾ ಇದ್ದೀನಿ.
+[73:38] Speaker 4:  ಜಸ್ಟ್ ಫಾರ್ಮ್ ಹಾಕ್ಬೇಕು, ಅಷ್ಟೇ. ಎಡಿಟ್ ಮಾಡ್ಬಿಟ್ಟು, ಎಕ್ಸಿಸ್ಟಿಂಗ್ ಕ್ಯಾಂಪೇನ್ ಫಾರ್ಮ್ ಆಡ್ ಮಾಡ್ಬೇಕು.
+[73:49] Speaker 4:  ಇನ್ನು ಕೊಟ್ಟಿಲ್ಲ. ಕೇಳ್ತಾ ಇದ್ದೀನಿ, ಕಸ್ಟಮ್ ಜೆಪಿ ಟಿ ನ.
+[74:03] Speaker 3:  ಬೇಡ. ರಿಪ್ಲೈ ಮಾಡಿದೀನಿ ಅವರಿಗೆ.
+[74:09] Speaker 4:  ಇಲ್ಲ, ಇದು ಡ್ಯಾಶ್ ಬೋರ್ಡ್ ಅಲ್ಲಿ ಟೆಕ್ನಿಷಿಯನ್ ಆಪ್ ಇರುತ್ತೆ.
+[74:14] Speaker 4:  ಆ ಟೆಕ್ನಿಷಿಯನ್ ಆಪ್ ನ ಅಪೇರ್ ಮಾಡಬೇಕು. ಫಸ್ಟ್ ಅಪೇರ್ ಮಾಡೋ ಸ್ಟೆಪ್ಸ್ ಹೇಳಿದೀನಿ ಕರೆಕ್ಟಾಗಿ.
+[75:47] Speaker 3:  ಎಷ್ಟು ಸಮಯ ಆಗ್ಬಿಟ್ಟೈತಿ?
+[75:50] Speaker 4:  ಹಾಕ್ಬೇಡ. ಸ್ಮಾರ್ಟ್ ಮಾಡ್ತಾರೆ.
+[75:52] Speaker 3:  ಅದೇ ಮಾಡಿದೆ.
+[75:54] Speaker 4:  ಅದೇ ಮಾಡಿದೆ.
+[75:56] Speaker 3:  ನೀನು ಫಸ್ಟ್ ಟೈಮ್ ಮಾಡ್ಕೋಬೇಕು ಅಂತ ಹೇಳಿದ್ದೆ ಅಲ್ಲ.
+[75:59] Speaker 4:  ಫಸ್ಟ್ ರೀಸೆಂಟ್ ಯೂಸ್ ಮಾಡಿ ಮಾಡಿದ್ದೆ. ಯೂಸ್ ಮಾಡಿರಲಿಲ್ಲ. ಹಂಗೆ ಇವರು ಟ್ರಾನ್ಸ್ಕ್ರಿಪ್ಟ್ ಬೇಕು ಅಂತಾರೆ.
+[76:05] Speaker 4:  ಅದರಲ್ಲಿ ಎಲ್ಲಾ ಇದೆ.
+[80:50] Speaker 4:  ಎಲ್ಲಾ ಲೊಕೇಶನ್ ಕೇಳ್ತಾ ಇರೋದು. ವ್ಯವಸ್ಥೆಗಳು.
+[80:54] Speaker 4:  ಎಡಿಟಿಂಗ್. ಆ, ಇದು ಕ್ರಿಯೇಟಿವ್ಸ್ ಅಲ್ಲೇ ಲೊಕೇಶನ್ ಹಾಕ್ಬಿಟ್ಟು.
+[81:03] Speaker 4:  ಇಲ್ಲ, ಯಲಂಕಾ ಅಂತ ಕ್ಲಿಯರ್ ಆಗಿ ಐತೆ. ಯಲಂಕಾ ಅಂತ ಕ್ಲಿಯರ್ ಆಗಿ ಐತೆ.
+[81:06] Speaker 3:  ಇದೆಯಾ ಲೊಕೇಶನ್? ಆದ್ರೂ ಕೇಳ್ತಾ ಇರೋದು. ಅಂದ್ರೆ ಕರೆಕ್ಟ್ ಆಡಿಯನ್ಸ್ ರೀಚ್ ಆಗ್ತಾ ಇರೋದು.
+[82:20] Speaker 2:  आर्ट क्रिएटिव्स आउट देयर, जहां पर आप री टारगेटिंग कैंपेन्स में जब आप लोगों को होता है ना, फाइनल स्टेज पर किसी ऑडियंस को कन्वर्ट करना हो, ऐसी सिचुएशन में बहुत अच्छे काम करते हैं। बिकॉज़ आप डायरेक्टली।
+[82:42] Speaker 2:  हमने टाइप सीखे, उसका क्या मेन गोल रहता है? जहां पर आप सिंपली ये बताते हो कि आप कैसे बेटर हो।
+[82:46] Speaker 2:  व्हाट डू यू एक्चुअली डू? बट इसमें आप क्या करते हो?
+[82:49] Speaker 2:  आप अपने बगल में एक ऑप्शन रखते हो बायर के लिए। जैसे फॉर एग्जांपल, मान लीजिए लक्स है।
+[82:55] Speaker 2:  लक्स अपने आप को डफ से कंपेयर कर सकता है। डफ यूजुअली लोग यूज़ करते हैं।
+[82:59] Speaker 2:  लक्स हैज़ टू टॉक अबाउट कि व्हाई दे आर डिफरेंट। तो वो बेसिकली इस पर दिस नहीं लेता।
+[83:03] Speaker 2:  लाइक इसके बारे में गंदी-गंदी बातें कर रहा है। व्हाई इट्स द वर्स्ट ब्रांड एवर।
+[83:06] Speaker 2:  दे डोंट टॉक अबाउट दैट। दे टॉक अबाउट देयर बेनिफिट्स ओनली।
+[83:09] Speaker 2:  बट इस तरीके से करते हैं जिस तरीके से एक कंपैरिजन क्रिएट हो सके। उन्हें पता चल सके कि व्हाट लक्स हैज़ डिफरेंट टू ऑफर। 
+[83:16] Speaker 2: ठीक है? तो जब भी आप कभी भी कंपैरिजन एड्स या फिर अस वर्सेस देम एड्स क्रिएट करिए, ऑलवेज मेक श्योर करिए कि आपका एंड गोल ये नहीं होना चाहिए कि आप सामने वाले ब्रांड को गलत बताओ। आपका ये गोल होना चाहिए कि आप ये बता पाओ कि व्हाई यू आर डिफरेंट, व्हाट इंपैक्ट यू आर क्रिएटिंग फ्रॉम योर ब्रांड। 
+[83:29] Speaker 2: ठीक है? अब यूजुअली देखो, ये कहां काम करते हैं? स्टैटिक एड्स में, वीडियो एड्स में।
+[83:33] Speaker 2:  दोनों जगह ये बहुत अच्छे काम करके आपको देते हैं। ऑलवेज मेक श्योर करिए कि जब भी आप अस वर्सेस देम एड्स बनाते हैं, जो आप कंपैरिजन कर रहे हैं, वो रियल होना चाहिए।
+[83:41] Speaker 2:  ऐसी फालतू में डेटा ड्रिवन चीजें जो डेटा से डिराइव करके आप बता रहे हो, दैट डजंट मेक सेंस। आपका प्रोडक्ट एक्चुअली में क्या ऑफर करता है?
+[83:47] Speaker 2:  जेनुइनली कोई डिफरेंस क्रिएट करता है? आपको सिर्फ उसी बारे में बात करनी है।
+[83:50] Speaker 2:  आपको सिर्फ एक ही एंगल से बात करनी है। लाइक फॉर एग्जांपल, अगर आपका प्रोटीन आटा पाउडर है।
+[83:55] Speaker 2:  अब वो प्रोटीन आटा पाउडर फॉर एग्जांपल बाकी ब्रांड्स के कंपैरिजन में अफोर्डेबल है। तो आप इस चीज पर ज्यादा फोकस कर सकते हो। 
+[84:01] Speaker 2: ठीक है? एंड आपको प्रूफ ऐड करना है। आप कोई भी आर्ट क्रिएटिव बनाते हो, मेक श्योर करिए कि उसमें प्रूफ ऐड हो ताकि सामने वाले बंदे के सामने यू नो ट्रस्टेबिलिटी, ऑथेंटिसिटी ये सारी चीजें इनक्रीस हो।
+[84:09] Speaker 2:  ऑलवेज मेक श्योर करिए कि जो अस वर्सेस देम एड्स होते हैं, ये अटैक एड्स नहीं होते। एज आई मेंशंड, आपको किसी ब्रांड पर डिस नहीं करना है।
+[84:14] Speaker 2:  बिकॉज़ इससे लोगों को वो एड क्रिएटिव कन्वर्टिंग नहीं लगेगा। ऐसा लगेगा कि यू आर काइंड ऑफ यू नो जेलेस बाय देम।
+[84:20] Speaker 2:  तो मेक श्योर करिए कि इट्स नॉट अ डिस एड। आप सिंपली अपने ब्रांड को बेटर बता रहे हो।
+[84:24] Speaker 2:  आपको फीचर्स के बारे में बात नहीं करनी है। लाइक फॉर एग्जांपल, आपने एक ऐसा आर्ट क्रिएटिव बना लिया कि भाई ये है हमारा टंबलर।
+[84:29] Speaker 2:  ये है आपके वन ऑफ द फेवरेट ब्रांड का टंबलर और हम ये ये ये ये ये ये ये ये सारी चीजें करके देते हैं। वो भी सेंस नहीं बनाता है।
+[84:35] Speaker 2:  आपको एक रियल और क्रिएटिव डिफरेंस क्रिएट करना है। और हमेशा अपने ब्रांड के बारे में बात मत करिए और प्रूफ्स मत स्किप करिए।
+[84:42] Speaker 2:  बिकॉज़ आप अगर किसी ब्रांड से अपने आपको डिफरेंशिएट करने की कोशिश कर रहे हो, आपने सारी वैल्यूज़ ऐड कर दी हैं। लेकिन उसमें प्रूफ ऐड नहीं किया है, तो फिर वो जो फाइनल कॉल टू एक्शन आप दोगे ना, लोग उससे ज्यादा कन्वर्ट नहीं होंगे।
+[84:52] Speaker 2:  अब देखो, बाय डिफॉल्ट ना, अगर आप कहीं पर जाके इंटरनेट पे सर्च भी करोगे, बाय डिफॉल्ट हम कंपेयर करते हैं चीजों को। अगर मुझे कोई मान लो छोटी चीज, लाइक 15, 20, 30, ₹40 की चीज होगी, तो उसमें मैं कंपेयर नहीं करूंगी।
+[85:03] Speaker 2:  लेकिन अगर 300, 400, 500, 1000, 2000, 10000 जितना ज्यादा प्राइस इनक्रीस होता है, मेरी कंपैरिजन पावर उतनी ज्यादा इनक्रीस होती है। अब लाइक फॉर एग्जांपल, ये टंबलर मैं ₹1800 का खरीदती हूं।
+[85:12] Speaker 2:  तो आई विल बी चेकिंग कि बाकी ब्रांड्स के पास क्या डिज़ाइंस हैं, वो क्या ऑफर कर रहे हैं एंड एवरीथिंग। बिकॉज़ 1800 फॉर अ टंबलर इज़ अ बिग डील फॉर मी।
+[85:18] Speaker 2:  तो मैं कंपैरिजन ऑटोमेटिकली करती हूं। तो अगर आप खुद ही एक ऐसा ऐड बनाकर लोगों को बता देते हो कि क्या डिफरेंट है, तो ऑब्वियसली हमारा जो ब्रेन है, उस चीज से ट्रिगर हो जाता है। 
+[85:26] Speaker 2: ठीक है? जब आप कंट्रास्ट क्रिएट करते हो, जब आप एक डिफरेंस क्रिएट करते हो, तो आप में क्या नया है, वो ऑटोमेटिकली आपकी ऑडियंस को विज़िबल हो जाता है विदाउट एग्जैक्टली टॉकिंग अबाउट इट। और इसी के साथ-साथ आपके ऑब्जेक्शन प्री हैंडल हो जाते हैं।
+[85:38] Speaker 2:  लाइक फॉर एग्जांपल, मैंने आज आपका कोई दामिनी ने आज आपका एक ऐड देखा। 
+[85:42] Speaker 2: ठीक है? उसको लगा कि यार नाइस प्रोडक्ट। उसने खरीदा नहीं।
+[85:45] Speaker 2:  उसने आपका एक और ऐड देखा एक हफ्ते बाद। उसको लगा कि यार शुड आई कंसीडर बाइंग इट?
+[85:49] Speaker 2:  बट उसने फिर भी नहीं खरीदा। उसने एक बार और ऐड देखा।
+[85:52] Speaker 2:  वहां पर यू टॉक्ड अबाउट कि आप क्या वैल्यूज़ ऑफर करते हो। शी इज़ मोर इंटरेस्टेड इनू दैट थिंग।
+[85:57] Speaker 2:  अब बात करते हैं कि बेसिकली आप एक अस वर्सेस देम ऐड क्रिएट कैसे करते हो। देखो, सबसे पहले आपको स्प्लिट की ही बात करनी पड़ेगी।
+[86:03] Speaker 2:  लाइक व्हेनएवर यू स्टार्ट अ कंपैरिजन ऐड, आपको बताना पड़ेगा। लाइक फॉर एग्जांपल, फॉर एग्जांपल, दिस टंबलर मैंने स्टार्ट किया कि दिस इज़ द टंबलर दैट वी सेल एंड दिस इज़ द टंबलर फ्रॉम ऑल योर फेवरेट ब्रांड्स।
+[86:14] Speaker 2:  बट हियर इज़ अ ह्यूज डिफरेंस दैट यू डिड नॉट इवन सी इट। एंड उसके बाद आई स्टार्ट द वीडियो।
+[86:18] Speaker 2:  लाइक फॉर एग्जांपल, मैंने यहां पर लिखा है वाटर प्यूरिफायर है। दो ही ऑप्शन है।
+[86:22] Speaker 2:  हर हफ्ते जार मंगवाओ या फिर एक ही प्यूरिफायर लगवा लो। ये भी एक हुकी है काइंड ऑफ।
+[86:26] Speaker 2:  जहां पर मैंने शुरू में ही एक स्प्लिट क्रिएट कर लिया कि भाई मैं डिफरेंस के बारे में बात करने वाली हूं। अब उसके बाद उनके वे के बारे में बात करेंगे।
+[86:32] Speaker 2:  लाइक फॉर एग्जांपल, ₹60 का जार आता है। महीने में 8,000 लगेंगे।
+[86:36] Speaker 2:  मतलब ₹480 पर मंथ आपको पे करना ही पड़ेगा। 
+[86:39] Speaker 2: ठीक है? उसके बाद आई विल टॉक अबाउट द हिडन कॉस्ट। साल के 5760 और डिलीवरी का इंतजार अलग से।
+[86:44] Speaker 2:  व्हिच मींस अ लॉट ऑफ कॉस्ट। 
+[86:46] Speaker 2: ठीक है? अब मैं बताऊंगी मेरा तरीका। प्यूरिफायर का रेंट सिर्फ ₹349 पर मंथ।
+[86:50] Speaker 2:  सर्विस और फिल्टर दोनों इंक्लूडेड। एंड देन आई विल गिव प्रूफ।
+[86:53] Speaker 2:  ये रहा 12 महीने का हिसाब दोनों तरफ सेम स्क्रीन पर। और कॉल टू एक्शन पिन कोड डाल के चेक करो।
+[86:58] Speaker 2:  इंस्टॉलेशन आपको 24 आवर्स के अंदर-अंदर मिल जाएगी। जहां पर बहुत सिंपल सा प्रोसेस है।
+[87:02] Speaker 2:  स्प्लिट क्रिएट किया विद अ हुक कि हमारे और उसके बीच में मैं अब बात करने जा रहा हूं। देन आई विल टॉक अबाउट कि वो जो दूसरा ब्रांड है, उसका क्या तरीका है?
+[87:09] Speaker 2:  उस वजह से क्या प्रॉब्लम हो रही है? देन आई विल टॉक अबाउट माय वे, उसका सशन एंड देन आई गिव अ प्रूफ एंड देन आई गिव अ कॉल टू एक्शन।
+[87:15] Speaker 2:  इसको और सिंपली अगर आपको याद करना है तो सबसे पहले आप एक हुक क्रिएट करोगे। उस हुक के बाद आप अपने ब्रांड की वीकनेसेस के बारे में बात करोगे।
+[87:22] Speaker 2:  फिर आप अपने स्ट्रांग पॉइंट्स के बारे में बात करोगे। एक क्रेडिबिलिटी ऐड करोगे।
+[87:25] Speaker 2:  एंड देन यू एंड इट विथ अ कॉल टू एक्शन। अब देखो, कंपैरिजन करने के बहुत सारे तरीके होते हैं।
+[87:29] Speaker 2:  आप स्प्लिट स्क्रीन वीडियो का यूज़ कर सकते हो। लाइक आपने आपका अगर ये 9:16 वीडियो है, आपने ऐसे स्क्रीन क्रिएट की।
+[87:34] Speaker 2:  यहां पे स्प्लिट किया। योर ब्रांड वर्सेस देयर ब्रांड। 
+[87:37] Speaker 2: ठीक है? साइड बाय साइड स्टैटिस्टिक्स का यूज़ कर सकते हो। ये आपने एक कंपैरिजन चार्ट क्रिएट किया।
+[87:42] Speaker 2:  स्टैट्स डाले यहां पे अपने ब्रांड के और सामने वाले ब्रांड के। टिक एंड क्रॉस लिस्ट भी यूज़ कर सकते हो।
+[87:46] Speaker 2:  जैसे ये टिक किया आपने। वो स्टैटिक एड्स में बहुत चलता है।
+[87:48] Speaker 2:  जहां पे ऐसे आपके ब्रांड के वैल्यूज़ लिखे रहते हैं। उस पे टिक रहता है और उनके ब्रांड्स के वैल्यू में क्रॉस रहता है।
+[87:54] Speaker 2:  और फिर आपने दोनों ट्राई किए और दोनों को आपने स्प्लिट स्क्रीन पे दिखाया कि क्या डिफरेंस है। इसके बाद स्विचर स्टोरी कि मैं पहले ये ये ये ये यूज़ करते थे लेकिन इससे कोई बेनिफिट नहीं मिला।
+[88:02] Speaker 2:  देन आई स्टार्टेड यूजिंग दिस ब्रांड और उस ब्रांड से इस ब्रांड में क्या डिफरेंस था? दैट यू कैन आल्सो यूज़।
+[88:06] Speaker 2:  कॉस्ट पर यूनिट बहुत चलता है। आप कॉस्ट ब्रेकडाउन करके अपने ब्रांड से उसको कंपेयर कर सकते हो।
+[88:10] Speaker 2:  और ओल्ड तरीका लाइक ओल्ड वे ऑफ़ डूइंग दिस वर्सेस न्यू वे ऑफ़ डूइंग दिस। इस पर भी बहुत तगड़े तरीके से बात की जा सकती है।
+[88:16] Speaker 2:  ये कुछ ऐसी चीजें हैं जो कन्वर्ट करती हैं अस वर्सेस देम एड्स में। लाइक टाइम टेकन टू गेट द रिजल्ट, टोटल कॉस्ट ओवर अ रियल पीरियड, नंबर ऑफ़ स्टेप्स और पीपल इनवॉल्वड।
+[88:23] Speaker 2:  ये सारी चीजें बहुत काम करती हैं। ये काइंड ऑफ़ टाइप्स हैं अस वर्सेस देम एड्स के जो आपको नीचे मिल जाएंगे।
+[88:28] Speaker 2:  यू कैन चेक इट आउट ताकि आपके पास आइडियाज हो इन व्हाट टू क्रिएट फॉर अस वर्सेस देम एड्स। कुछ जैसे मैंने यहां पर हुक लिख रखे हैं।
+[88:34] Speaker 2:  मैंने दोनों ट्राई किए। अब मैं आपको सच में बताती हूं कि एक्सैक्टली व्हाट इज़ बेटर।
+[88:38] Speaker 2:  ये ₹7 वाला और ये 300 वाला साल का हिसाब देखो। दोनों खोल के रखे हैं।
+[88:42] Speaker 2:  फर्क पहली बार में ही दिख जाएगा। मैं दो साल से वही यूज़ कर रही थी।
+[88:45] Speaker 2:  लेकिन मैंने इसे क्यों बदला? मैं आपको बताती हूं।
+[88:47] Speaker 2:  आप अभी भी पुराने तरीके से इस चीज को कर रहे हो। एक बार ये नया तरीका देख लो।
+[88:51] Speaker 2:  सब लोग यही करते हैं और यही सबसे महंगी मिस्टेक हर एक इंसान की होती है। इसमें एक चीज नहीं है और वही सबसे बड़ी बात है।
+[88:57] Speaker 2:  सस्ता वाला सस्ता नहीं पड़ता। पूरा हिसाब देख लो।
+[88:59] Speaker 2:  सबसे ज्यादा ये अप्लायंसेस होम टैग अगर आपकी हाई टिकट प्रोडक्ट है लाइक अबव ₹3 के तो यू कैन डेफिनेटली गो फॉर अस वर्सेस देम एड्स क्योंकि हाई कन्वर्टिंग सॉरी हाई टिकट जो प्रोडक्ट्स होते हैं उसमें बहुत अच्छे काम करते हैं। सर्विस बेस्ड बिज़नेस में भी ये करेंगे।
+[89:13] Speaker 2:  सैस टूल्स सब्सक्रिप्शन वाले बिज़नेसेस में इंश्योरेंस सर्विसेस स्किन केयर हेयर केयर इन सब में बहुत काम करते हैं। एडटेक में भी ये काफी अच्छा काम करता है। 
+[89:20] Speaker 2: ठीक है? लेकिन फैशन एपरेल एफएमसीजी में ये काम करता है। बट अगर कंपेयर किया जाए तो सर्विस बेस्ड बिज़नेस के लिए अस वर्सेस देम एड्स बहुत अच्छे काम करते हैं।
+[89:27] Speaker 2:  नाउ लेट्स लुक एट सम एग्जांपल्स जो मैंने आप लोगों के लिए निकाल के रखे हैं। लेजर वर्सेस केमिकल क्लीन।
+[89:31] Speaker 2:  व्हाट शुड यू चूज़? नाउ वन वुड कॉस्ट यू अराउंड 2 टू ₹3000 व्हेयर द अदर वन वुड कॉस्ट यू अराउंड 15000।
+[89:37] Speaker 2:  बट द चीपर वन माइट एक्चुअली बी व्हाट यू नीड। लेट मी सेटल दिस वन वंस एंड फॉर ऑल।
+[89:41] Speaker 2:  केमिकल पील इज़ अ वर्क ऑन द टॉप लेयर ऑफ़ द स्किन। थिंक ऑफ इट लाइक पॉलिशिंग द स्क्रैच टेबल ग्रेट फॉर डलनेस, माइल्ड पिगमेंटेशन, सुपरफिशियल एक्ने मार्क्स एंड ओवरऑल ब्यूटी।
+[89:49] Speaker 2:  तो अगर इसका कांसेप्ट दिख रहा होगा तो इसने अपनी ही इंडस्ट्री के अंदर जो डिफरेंसेस हैं उसे बताने की कोशिश की है। शी हैज़ नॉट कंपेयर हर्ससेल्फ टू एनी काइंड ऑफ़ ब्रांड्स।
+[89:56] Speaker 2:  व्हेयर द अदर वन वुड कॉस्ट यू। दैट इज़ व्हाई दे वी कॉल इट कॉम्बिनेशन थेरेपी।
+[90:00] Speaker 2:  स्किन व्हिच इज़ बेटर स्टार्ट आस्किंग व्हाट डस माय स्किन एक्चुअली नीड नाउ। नाउ लेट्स सी दिस वन।
+[90:06] Speaker 2:  ये डिफरेंस है नॉर्मल फाउंडेशन में और प्रोफेशनल फाउंडेशन में। एक साइड बिल्कुल ऑक्सिडाइज हो चुका है।
+[90:09] Speaker 2:  एंड द अदर साइड व्हिच इज़ द फ्लिक साइड। स्टिल फ्रेश जूसी एंड फ्लोलेस।
+[90:12] Speaker 2:  अब सेम फाउंडेशन दोनों साइड्स पे स्वॉच करते हैं। यहां देखो शेड कितना डार्क हो गया है।
+[90:15] Speaker 2:  और यहां स्टिल एक्सैक्टली द सेम शेड। जीरो ऑक्सीडाइजेशन।
+[90:18] Speaker 2:  ये फाउंडेशन ड्यूरनेस के साथ 16 घंटे लास्ट भी करता है। वेयर स्किन पे भी लुक एट द फिनिश।
+[90:22] Speaker 2:  कवरेज इतनी अच्छी है कि कंसीलर भी स्किप कर सकते हो। इवन इफ यू हैव एक्ने प्रोन स्किन यू कैन यूज़ दिस।
+[90:26] Speaker 2:  जस्ट फ्रेश हेल्दी लुकिंग स्किन फॉर आवर्स। एंड दैट्स व्हाई आई कॉल दिस अ ट्रू प्रोफेशनल फाउंडेशन।
+[90:30] Speaker 2:  नो ऑक्सीडाइजेशन, नो पैचनेस, ड्यूई फिनिश विथ अ 16 आवर्स स्टेक। यूजुअली फाउंडेशन या तो ड्यूई होते हैं।
+[90:34] Speaker 2:  फाउंडेशंस को कंपेयर किया है। शी इज़ एक्चुअली अ क्रिएटर जो मेकअप के अराउंड कंटेंट क्रिएट करती है।
+[90:39] Speaker 2:  एंड उसी से उन्होंने एक डिफरेंस क्रिएट करने की कोशिश की है कि और वो भी रियल लाइफ दिखाया भी है कि हाउ डस इट एक्चुअली लुक ऑन द स्किन। तो इट्स अ ग्रेट ऐड।
+[90:46] Speaker 2:  नाउ लेट्स लुक एट दिस वन। इफ यू आर एन अदर पर्सन यू विल गेट दिस दैट नो परफ्यूम कैन मैच द वे अदर्स लास्ट बट अदर्स डोंट रियली प्रोजेक्ट टू दे बट दिस इंडियन ब्रांड अंडरस्टुड द असाइनमेंट एंड ब्लेस्ड अस विथ द कांसेप्ट ऑफ़ लेयरिंग व्हेन अ परफ्यूम इज़ लेयर विथ दिस परफ्यूम ऑयल इट अडियर्स टू द स्किन एंड मेक इट लास्ट इरिजिस्टिबली लॉन्ग विथ हायर प्रोजेक्शन अप टू 16 आवर्स यू गेट द कॉम्प्लीमेंट्स लाइक ओह माय गॉड व्हाट इज़ शी वेयरिंग यू गेट टू बिलीव दैट
+[91:05] Speaker 2:  दिस कॉम्बिनेशन विल मेक यू द बेस्ट स्मेलिंग पर्सन इन द रूम कमेंट लिंक एंड जैसे आपने ना थोड़ी देर पहले अस वर्सेस देम में मैंने आपको बोला था कि आप एक स्पेसिफिक चीज पर फोकस करो जो दूसरे ब्रांड्स नहीं कर रहे हैं एंड दैट्स व्हाट दे हैव डन हियर जहां पर वो परफ्यूम ऑयल और परफ्यूम नॉर्मल के कॉम्बिनेशन की बात कर रहे हैं एंड शी टॉक्ड अबाउट कि कैसे दूसरे ब्रांड्स ये नहीं करते हैं बट दिस इंडियन ब्रांड इज़ डूइंग इट व्हिच इज़ अ फैंटास्टिक कंपैरिजन बिकॉज़
+[91:24] Speaker 2:  जेनुइनली ऐसा बहुत सारे ब्रांड्स नहीं करते हैं। नाउ लेट्स लुक एट सम ऑफ़ द ग्राफिक एड्स। एज आई मेंशंड आप ऐसे भी बना सकते हो कि अस वर्सेस देम ग्रंस डेली में क्या-क्या मिलता है?
+[91:32] Speaker 2:  इसमें क्या मिलता है? ये सारी चीजें कंपेयर करके दिखाई है।
+[91:35] Speaker 2:  स्टॉप बाइंग सिक्स डिफरेंट ब्यूटी सप्लीमेंट्स। ये किया कि बाकी आपको ये सारी चीजें अलग-अलग लेनी पड़ती है।
+[91:39] Speaker 2:  बट विथ दिस यू गेट एवरीथिंग इन वन जार। नाउ लेट्स लुक एट सम ऑफ़ द एड्स दैट वी क्रिएटेड।
+[91:43] Speaker 2:  ये रही मार्केट में मिलने वाली रेगुलर एसएसडी और ये है कार्ड बूम की एसएसडी। साइज देख रहे हो?
+[91:47] Speaker 2:  मेरी उंगली से भी छोटा है। इसमें टाइप सी पोर्ट है जो आपके मैक और विंडोज़ में आसानी से लग जाएगा।
+[91:53] Speaker 2:  जहां नॉर्मल एसएसडी आपके फोन के साथ कनेक्ट ही नहीं हो पाती है। वहीं ये आपके फोन से इजीली कनेक्ट हो जाती है।
+[91:58] Speaker 2:  iPhone यूज़र्स के लिए ये बहुत ही ज्यादा क्रेजी है। इसकी 1TB की स्टोरेज है।
+[92:01] Speaker 2:  मतलब आपने एक बार लिया और आप इसे लाइफ टाइम के लिए यूज़ कर सकते हो। और इसके साथ आपको एक प्रोटेक्टर भी मिलता है जिसे आप इजीली स्लाइड इन करके फिट कर सकते हो।
+[92:08] Speaker 2:  एंड द बेस्ट पार्ट ये वाली एसएसडी ट्रेवल के टाइम पर बहुत स्पेस लेती है। पर ये एसएसडी आप कहीं पर भी फिट कर सकते हो।
+[92:13] Speaker 2:  दोनों की प्राइस रेंज सेम है लेकिन दिस वन स्टैंड आउट। तो अगर आप भी खरीदने का सोच रहे हो तो भाई टाइम बिल्कुल वेस्ट मत।
+[92:18] Speaker 2:  बहुत ही सिंपल कंपैरिजन है। डायरेक्टली प्रोडक्ट क्या है?
+[92:21] Speaker 2:  किस तरीके से काम करता है बात की है। क्योंकि टेक का है तो टेक में वैल्यू से ज्यादा हमने बेनिफिट्स पे बात करी है।
+[92:25] Speaker 2:  बिकॉज़ वहां की ऑडियंस थोड़ी वैसी होती है। नाउ लेट्स लुक एट दिस ऐड क्रिएटिव।
+[92:29] Speaker 2:  ये 400 का ये 700 का और ये ₹1 लाख का लैपटॉप भी खराब हो गया। मेरी सिर्फ एक गलती की वजह से।
+[92:34] Speaker 2:  मैं बैठे-बैठे सोते-सोते कहीं भी लैपटॉप इस्तेमाल करता था। भैया ये लैपटॉप देखो चल नहीं रहा है।
+[92:39] Speaker 2:  अरे इसकी तो मदरबोर्ड गई है। अब तो ये वाला भी नहीं चल रहा है।
+[92:42] Speaker 2:  इसका तो यार फैन ही चला गया है। भैया तो अब आप ही बताओ मैं करूं क्या?
+[92:45] Speaker 2:  अरे तो भैया ये यूज़ किया करो ना यार। ये क्या है मेरे पास पहले से इससे अच्छा वाला है।
+[92:50] Speaker 2:  कभी यूज़ किया है उसे? नहीं कभी नहीं किया।
+[92:52] Speaker 2:  इसको ले जाओ। ये ट्रेवल फ्रेंडली है।
+[92:53] Speaker 2:  बहुत छोटा साइज का है। हर जगह फिट हो जाता है।
+[92:55] Speaker 2:  तो इसी को यूज़ करो। क्या बात है।
+[92:57] Speaker 2:  अब से मैं इसी को यूज़ करूंगा। क्या तो क्रेजी लैपटॉप स्टैंड है यार ये।
+[93:00] Speaker 2:  इससे पहले जो मैं लैपटॉप स्टैंड यूज़ करता था वो तो इतना बल्की था। कंपैरिजन ये वाला तो इतना लाइट वेट है कि मैं इसे कहीं भी यूज़ कर सकता हूं और बहुत ही ज्यादा पोर्टेबल है।
+[93:07] Speaker 2:  भैया ये स्टैंड तो बहुत ही गजब का है। खरीदना कहां से है?
+[93:10] Speaker 2:  इसको लेना है standyman.com से। इफ यू सी द नेम ऑफ़ द ब्रांड्स ये सारे हमने हाइपोथेटिकल बनाए हैं डिपेंडिंग अपॉन द प्रोडक्ट कि हमने क्या लिया है।
+[93:16] Speaker 2:  बट आपने देखा होगा कि लैपटॉप स्टैंड के बारे में बात की गई है। एंड दोनों को बहुत सटली कंपेयर किया गया है।
+[93:21] Speaker 2:  नाउ लेट्स लुक एट दिस ऐड क्रिएटिव। ये रही मार्केट में मिलने वाली नॉर्मल कॉफी और ये हमारे बिंगो ब्रांड का नया कॉफी फ्लेवर।
+[93:28] Speaker 2:  आज इसे हम अपने एम्प्लाइज पर ब्लाइंड टेस्ट करके देखेंगे कि उन्हें कौन से कॉफी का फ्लेवर सबसे ज्यादा पसंद आता है। लेट्स गो।
+[93:42] Speaker 2:  ये वाली अच्छी है। ये वाली अच्छी है।
+[93:44] Speaker 2:  ये वाली ज्यादा अच्छी है। इसमें तो फ्लेवर भी है।
+[93:47] Speaker 2:  बढ़िया कॉफी है ये तो। आई लाइक दिस।
+[93:48] Speaker 2:  आई थिंक ये वाली ज्यादा अच्छी है। गाइस आज जो आप लोगों ने कॉफी पी उसमें से सबसे ज्यादा लोगों को ये वाली पसंद आई।
+[93:54] Speaker 2:  एंड ये हमारा बिंगो का नया लॉन्च है।
+[93:59] Speaker 2:  क्या बात है। तो टेस्ट टेस्ट हो चुका है।
+[94:00] Speaker 2:  इसका मतलब ये है कि हमारी फ्लेवर तो एज यू कैन सी मैंने रिक्रिएट किया था। जस्ट टू गिव यू एन आईडिया कि आप इस तरीके से भी कर सकते हो एज फाउंडर्स एंड कंपेयर कर दिया लाइक एक्सैक्टली सामने ही कंपेयर कर दिया कि दो कॉफी ब्रांड्स हैं और कौन सा लोगों को पसंद आता है।
+[94:12] Speaker 2:  लेट्स चेक इट आउट। बेनिफिट्स वैल्यूज़ कोई चीज के बारे में बात करने नहीं पड़ी।
+[94:16] Speaker 2:  सामने जो यूजर उसे टेस्ट कर रहा है उसने ही रिस्पांस कर दिया। तो ये भी बहुत अच्छा है।
+[94:19] Speaker 2:  अब लास्टली बस ये बात कर लेते हैं कि कौन सी चीजें आपको अस वर्सेस डम एड्स में नहीं करनी चाहिए। दैट इज कि आप हर चीज से कंपेयर करो।
+[94:25] Speaker 2:  मेक श्योर करिए कि आपके पास जो बेनिफिट्स हैं आप सिर्फ उनसे ब्रांड्स को कंपेयर करो। सबसे करोगे तो आप एक डिफरेंशिएशन ही निकाल पाओगे।
+[94:30] Speaker 2:  साथ ही साथ आप अपने कॉम्पिटिटर्स को बहुत ज्यादा वो मत करो। नेम मत करो।
+[94:34] Speaker 2:  लाइक फॉर एग्जांपल अगर लक्स डफ को अपने आप से कंपेयर करना चाहता है तो वो डव डव अपने ऐड में नहीं बोलेगा। वो बस उनके शेप का या एनीथिंग ऐसा कुछ यूज़ कर लेगा जिससे लोगों को साइकोलॉजिकली पता चले वो डव है बट वो डायरेक्टली उस वर्ड को बोले ना।
+[94:45] Speaker 2:  सेकंडली डिस नहीं करना है दूसरे ब्रांड्स को और अगर आप किसी चीज से किसी को कंपेयर कर रहे हो मेक श्योर करिए कि आपके पास उस चीज के प्रूफ हो। आई होप आपको समझ आ गया हो कि अस वर्सेस देम एड्स कैसे क्रिएट करते हैं।
+[94:55] Speaker 2:  अब हम बढ़ेंगे हमारे नेक्स्ट ऐड टाइप पर जहां पर हम एक और हाई कन्वर्टिंग ऐड स्ट्रक्चर की बात करेंगे। तब तक के लिए बाय-ब।
+[96:29] Speaker 2:  हेलो ओटीपी ಬಂದಿದೆಯಾ?
+[97:45] Speaker 2:  ಆಯ್ತಾ?
+[110:01] Speaker 2:  तरीके से वो प्रोडक्ट कितने दिनों में आपको। हाय एवरीवन एंड वेलकम टू अ न्यू चैप्टर।
+[110:05] Speaker 2:  और आज जिस हाई कन्वर्टिंग ऐड स्ट्रक्चर की हम बात करने जा रहे हैं, दैट इज़ बिफोर वर्सेस आफ्टर एड्स। इसे आप अस वर्सेस डेम एड से कंफ्यूज मत करिएगा।
+[110:12] Speaker 2:  अस वर्सेस डेम एड्स में आप बेसिकली कंपैरिजन स्टाइल एड्स क्रिएट करते हो। बट बट व्हेन इट कम्स टू बिफोर वर्सेस आफ्टर एड्स, तो फॉर एग्जांपल आपने बहुत सारे ऐसे स्किन केयर ब्रांड्स देखे होंगे मार्केट में जो क्या करते हैं?
+[110:22] Speaker 2:  शुरू का और बाद का दिखाते हैं। लाइक फॉर एग्जांपल, आपके पास एक पिंपल क्योर करने का एक फेस वॉश है।
+[110:27] Speaker 2:  तो उसमें आप बिफोर वर्सेस आफ्टर ऐड क्रिएट करते हो। जहां पर आप दिखाते हो कि पहले फेस में कितने पिंपल्स थे और उसके बाद फेस कैसे इस फेस वॉश के बाद क्लियर हो गया।
+[110:34] Speaker 2:  तो इस तरीके के एड्स को हम बिफोर वर्सेस आफ्टर एड्स कहते हैं। लाइक जहां पर हम वन स्टेट से अनदर स्टेट की तरफ जाते हैं और जिसमें हम कनेक्शन में अपना प्रोडक्ट पिच करते हैं।
+[110:43] Speaker 2:  लाइक फॉर एग्जांपल, मेरी स्किन कुछ ऐसी लगती थी। बट नाउ माय स्किन लुक्स लाइक दिस बिकॉज़ आई यूज़ दिस प्रोडक्ट।
+[110:48] Speaker 2:  या फिर मेरी स्किन कुछ ऐसी लगती थी, बट इस प्रोडक्ट को यूज़ करने के बाद मेरी स्किन अब ऐसी लगती है। तो दैट इज़ हाउ यू क्रिएट अ बिफोर वर्सेस आफ्टर ऐड।
+[110:55] Speaker 2:  एंड ऑलवेज मेक श्योर कि जब भी आप बिफोर वर्सेस आफ्टर ऐड क्रिएट करने का सोच रहे हो ना, एक रिलेटेबल बिफोर होना चाहिए। लेकिन आप जो भी शुरू का पिच कर रहे हो ना कि पहले क्या होता था, वो रिलेटेबल होना चाहिए।
+[111:04] Speaker 2:  ऐसा नहीं कि आपने आपको स्किन के पिंपल का कोई ऐड दिखाना है और आपने ऐसा ऐड दिखा दिया जिसके बिफोर का कोई सेंस ही नहीं बनता हो। एक विज़िबल मैकेनिज्म होना चाहिए।
+[111:11] Speaker 2:  लाइक जब भी आप बिफोर से आफ्टर में कन्वर्ट कर रहे हो, तो बीच का जो प्रोसेस होता है ना, वो आपका एकदम क्लियर कट होना चाहिए। एकदम स्ट्रांग होना चाहिए।
+[111:17] Speaker 2:  प्रूफ्स के साथ होना चाहिए ताकि लोगों को जेनुइनली लगे कि इससे इस स्टेज तक पहुंचना पॉसिबल है उनके लिए इस प्रोडक्ट का यूज़ करके। और एक ऑनेस्ट टाइमलाइन होनी चाहिए आपके बिफोर वर्सेस आफ्टर में कि कितना टाइम लगा, एग्जैक्टली आपको बताना पड़ेगा।
+[111:29] Speaker 2:  और देखिए, बिफोर वर्सेस आफ्टर ऐड ना आपकी सिर्फ बॉडी और स्किन वाले जो प्रोडक्ट्स होते हैं ना, उसके लिए नहीं है। आप अपने रूम, कार्स, रेज़्यूमे, डैशबोर्ड, गार्डन, शूज, स्प्रेडशीट्स किसी भी फॉर्मेट में इस पर्टिकुलर ऐड टाइप को यूज़ कर सकते हो।
+[111:42] Speaker 2:  एंड जरूरी नहीं है कि आप इसके लिए सिर्फ स्टैटिक एड्स ही क्रिएट करो। इसमें वीडियो एड्स भी बहुत अच्छे परफॉर्म करते हैं।
+[111:47] Speaker 2:  आगे मैं एग्जांपल्स दिखाऊंगी, तो आपको समझ आएगा। अब आगे बढ़ते हैं।
+[111:50] Speaker 2:  तो देखो, क्वेश्चन ये आता है कि बिफोर वर्सेस आफ्टर एड्स कन्वर्ट क्यों करते हैं? सिंपल सा रीज़न है।
+[111:54] Speaker 2:  हम कंपेयर करके ना बहुत इंस्टेंटली सामने वाले बंदे को अपने प्रोडक्ट या सर्विस का प्रूफ दे दे रहे हैं। लाइक फॉर एग्जांपल, अगर मेरे पास यूजीसी ऐड एजेंसी होती, मैं कहती कि हमारे पास एक क्लाइंट आया था जिसने बहुत सारे एड्स रन किए थे, लेकिन उसका -2 का रॉस चल रहा था।
+[112:09] Speaker 2:  बट व्हेन दे यू नो, जो जब वो हमारी एजेंसी के साथ जुड़े, तो उन क्लाइंट का रॉस हमारे ऐड क्रिएटिव की वजह से 4x पहुंच गया। तो हमने पहले ही प्रूफ में दिखा दिया कि ऐसे से ऐसा कर दिया।
+[112:19] Speaker 2:  सेकंड बेसिकली होता है कि आपको ना पहले ही आइडेंटिफिकेशन मिल जाता है। क्योंकि बहुत सिंपल सी बात है, जब ऑडियंस को स्टार्टिंग स्टेज दिख जाता है ना, जब उनको फील होता है कि भाई इस पोजीशन पर तो मैं भी रहा हूं लाइफ में कभी ना कभी, तो वो रिलेट करने लग जाते हैं।
+[112:30] Speaker 2:  एंड उनको आफ्टर बहुत ज्यादा ड्रीमी लगता है, जिस वजह से वो प्रोडक्ट परचेस कर लेते हैं। आप अगर उसमें टाइमलाइन ऐड कर देते हो कि किस तरीके से वो प्रोडक्ट कितने दिनों में आपको अफेक्ट करेगा, तो वो भी काफी ज्यादा बेनिफिशियल हो जाता है, जिससे कन्वर्जन इनक्रीस होती है।
+[112:42] Speaker 2:  एंड जो मैकेनिज्म होता है, लाइक जो द प्रोसेस आप बताओगे अपने प्रोडक्ट या फिर सर्विस का, वो डाउट्स को सारे क्लियर कर देता है। उनके मन में कोई डाउट नहीं रहते हैं।
+[112:48] Speaker 2:  और अल्टीमेटली जो परचेस करने का जो जर्नी रहता है ना, वो बहुत ही ज्यादा क्लियर हो जाता है। अब देखो, अगर स्पेसिफिकली मेटा एड्स पर आपको बिफोर वर्सेस आफ्टर एड्स रन करने हैं ना, तो मेटा हर एक बिफोर वर्सेस आफ्टर एड्स को एज अ गुड सिग्नल नहीं समझता है।
+[113:00] Speaker 2:  लाइक फॉर एग्जांपल, आप वेट लॉस और फिटनेस में हो और आप एकदम आइडलाइज्ड बॉडी इमेजरी का यूज़ कर रहे हो पर्सनल हेल्थ के नाम पर। लाइक आपका कोई क्लाइंट व्लाइंट कुछ भी नहीं है।
+[113:08] Speaker 2:  आपने नॉर्मल एआई से फोटो जनरेट करवा ली है और उसका यूज़ करके आप समझा रहे हो बेसिकली कि हम ऐसे वेट लॉस करते हैं। तो वो मेटा के तरफ से रेस्ट्रिक्टेड होता है।
+[113:16] Speaker 2:  आप ये सारी चीजें नहीं कर सकते हो। एंड वेट लॉस एंड फिटनेस में स्पेसिफिकली सबसे ज्यादा रेस्ट्रिकशंस होती हैं।
+[113:21] Speaker 2:  तो उसका सेफ वे ये होता है कि आप अपनी मतलब आपका जो रूटीन, हैबिट, इक्विपमेंट्स और मील होता है, उसके थ्रू बिफोर वर्सेस आफ्टर दिखाओ। सिर्फ बॉडी का यूज़ करके अगर आप बिफोर वर्सेस आफ्टर दिखाओगे, तो वहां पर आपका अकाउंट रेस्ट्रिक्ट हो सकता है।
+[113:34] Speaker 2:  सेम स्किन केयर एंड डर्मेटोलॉजी में भी होता है। हेयर केयर में भी होता है।
+[113:37] Speaker 2:  डेंटल एंड कॉस्मेटिक प्रोसीजर्स, होम ऑटो क्लीनिंग रिपेयर और डॉक्यूमेंट्स, स्क्रीन्स एंड डेटा। ये जो कैटेगरीज होती हैं, इसमें अगर आप बहुत ही हार्श बिफोर वर्सेस आफ्टर करते हो, तो ये मेटा के एडवरटाइजिंग पॉलिसीज के अगेंस्ट जाता है और आपका अकाउंट रेस्ट्रिक्ट हो सकता है।
+[113:49] Speaker 2:  तो मेक श्योर करिए कि आप जो भी कर रहे हो, वो आप बहुत सल तरीके से बिफोर वर्सेस आफ्टर दिखा रहे हो ताकि ये जो आपको एथिकल और लीगल प्रॉब्लम्स होती हैं, ये सारी चीजें फेस ना करनी पड़े। अब पॉइंट ये आता है कि बिफोर वर्सेस आफ्टर एड्स क्रिएट किए कैसे जाते हैं?
+[113:59] Speaker 2:  बहुत ही सिंपल सा मैकेनिज्म है। आप सबसे पहले बिफोर से स्टार्ट करते हो कि पहले क्या होता था।
+[114:04] Speaker 2:  अब उस बिफोर को आप एज अ होकी भी यूज़ कर सकते हो। उसके बाद टेक मतलब क्या ऐसी चीज थी जो आपको अपने बिफोर में चेंज करनी थी।
+[114:11] Speaker 2:  वंस यू आर डन विद दैट, यू ऐड की द टर्न। मतलब आपने क्या ऐसा चेंज किया अपनी लाइफ में?
+[114:16] Speaker 2:  एंड मैकेनिज्म कैसे किया? हाउ?
+[114:20] Speaker 2:  एंड देन आफ्टर मतलब कैसे आपको रिजल्ट्स मिले? एंड देन कॉल टू एक्शन।
+[114:25] Speaker 2:  लेट्स अंडरस्टैंड दिस विद एन एग्जांपल। बिफोर, लाइक फॉर एग्जांपल, ये मेरी गाड़ी की बैक सीट है।
+[114:29] Speaker 2:  दो साल से प्रॉपर इसकी सफाई ही नहीं हुई है। स्टेक रिसेल वैल्यूएशन कराई तो 400 कम बोला गया।
+[114:35] Speaker 2:  तो सबसे पहले हमने बात करी कि बिफोर क्या था कि मेरी गाड़ी की जो बैक सीट है, वो दो साल से साफ नहीं हुई है। अब स्टेक पर क्या है?
+[114:40] Speaker 2:  मतलब क्या उस पर्टिकुलर प्रॉब्लम की वजह से क्या प्रॉब्लम आ रही है कि उसको जब उसे सेकंड हैंड बेचनी है, तो 40 से ₹500 जो कॉस्ट है, वो और कम होकर आ रही है। तो उसने फिर वहां पर अपनी लाइफ में चेंज करने की कोशिश की।
+[114:50] Speaker 2:  एक डिटेलिंग वाले ने कहा, "एक-दो दिन बाकी मैं देख लूंगा।" मतलब एक डिटेल वाले ने कहा कि "एक-दो दिन दे दो मेरे को, बाकी वो देखकर सब कुछ बता देगा।"
+[114:56] Speaker 2:  उसके बाद मैकेनिज्म स्टीम फोम एक्सट्रैक्शन फिर यूवी ट्रीटमेंट सिर्फ 3 घंटे लगे। मतलब क्या-क्या किया?
+[115:02] Speaker 2:  व्हाट एक्जेक्टली डिड यू डू? आफ्टर ये अब है सेम सीट, सेम एंगल, सेम दिन, कोई फिल्टर भी नहीं लगा हुआ है।
+[115:07] Speaker 2:  सीटीए स्लॉट बुक करने की लिंक बायो में है। पिकअप फ्री है।
+[115:10] Speaker 2:  तो हमने सबसे पहले बिफोर से स्टार्ट किया। प्रॉब्लम क्या थी?
+[115:13] Speaker 2:  उस प्रॉब्लम की वजह से क्या हो रहा था? उसके बाद उसने उस प्रॉब्लम को सॉल्व करने के लिए क्या किया?
+[115:17] Speaker 2:  कैसे किया? और फिर आफ्टर रिजल्ट्स क्या आए?
+[115:19] Speaker 2:  और फिर सिंपली एक कॉल टू एक्शन। अब जैसे फॉर एग्जांपल, अगर आपको शुरुआत में बिफोर से ही स्टार्ट करना है, तो आप बोल सकते हो, "ये मेरी गाड़ी की हालत है।
+[115:25] Speaker 2:  अब देखो इस गाड़ी का क्या हो गया।" 
+[115:27] Speaker 2: ठीक है? कॉस्ट ऑफ बिफोर बता सकते हो। लाइक आप वो कैसे स्टार्ट कर सकते हो कि इस एक चीज की वजह से मेरा ₹400 का नुकसान हो गया था।
+[115:33] Speaker 2:  एक टर्न मोमेंट बता सकते हो। लाइक आप चालू ही कर सकते हो कि आपकी लाइफ में क्या टर्न हुआ ये करने के बाद।
+[115:38] Speaker 2:  एक दिन मुझे बर्दाश्त नहीं हुआ और मैंने ये कर दिया। मैकेनिज्म टीस।
+[115:41] Speaker 2:  लाइक जहां पर आप मैकेनिज्म को टीस करके बता रहे हो। लाइक आपने वो कैसे किया उसको?
+[115:45] Speaker 2:  फॉर एग्जांपल, तीन स्टेप थे और उसमें से सेकंड वाला मेरे लिए सबसे ज्यादा इंपॉर्टेंट था। स्टेटेड टाइमलाइन।
+[115:50] Speaker 2:  सिर्फ एक हफ्ते में मुझे ऐसे से ऐसा हो गया। व्हाटएवर योर प्रोडक्ट इज।
+[115:55] Speaker 2:  सेम एंगल के थ्रू प्रूफ। सेम जगह, सेम टाइम, सेम फोन, कोई भी फिल्टर मैंने यूज़ नहीं किया।
+[115:59] Speaker 2:  ऑनेस्ट काइंड ऑफ ऑनेस्ट वाला जो बिफोर वर्सेस आफ्टर होता है। पहले दो हफ्ते मुझे लिटरली कोई इफेक्ट नहीं दिखा।
+[116:03] Speaker 2:  लेकिन तीसरे हफ्ते से जो फर्क दिखा, वो जेनुइनली बहुत ही ज्यादा शॉकिंग था। रिलेटेबल बिफोर।
+[116:07] Speaker 2:  अगर आप ड्रॉर भी ऐसा दिखता है, तो ये वीडियो जेनुइनली आपके लिए है। बिकॉज़ मैं भी क्लटर्ड ड्रॉर से बहुत ही ज्यादा स्ट्रगल फेस करती थी।
+[116:13] Speaker 2:  मुझे सामान नहीं मिलता था। देन आई ऑर्डर्ड दिस थिंग फ्रॉम डैश डैश डैश डैश वेबसाइट।
+[116:18] Speaker 2:  मैंने फिर इसे अपने ड्रॉर पे जैसे ही ऑर्गेनाइज़ किया। मेरी सारी चीजें अब ऑर्गेनाइज़ रहती है।
+[116:21] Speaker 2:  मेरे को सारी चीजें जल्दी मिल जाती है। एंड दैट इज़ हाउ योर स्क्रिप्ट गोज लाइक।
+[116:23] Speaker 2:  जिसका यूज़ करके आप बिफोर वर्सेस आफ्टर क्रिएट कर सकते हो। अब ये आता है कि सबसे ज्यादा बिफोर वर्सेस आफ्टर कहां काम करते हैं?
+[116:29] Speaker 2:  क्लीनिंग एंड होम सर्विसेस में टॉप नच। अगर आपका होम से रिलेटेड कोई सर्विसेस है, इंटीरियर हो गया या ऐसा कोई सर्विसेस हो गया, तो इट्स प्रीटी क्रेजी देयर।
+[116:39] Speaker 2:  ऑटो डीलिंग एंड रिपेयर, कार्स और इसकी एक्सेसरीज अगर आप करते हो। इंटीरियर्स, हेयर केयर, गार्डनिंग, एजेंसी वर्क, सैस, फुटवेयर, स्किन केयर, फिटनेस और डेंटल्स और मेडिकल ट्रीटमेंट वगैरह में तो इतने काम नहीं करते हैं।
+[116:50] Speaker 2:  बट इन कैटेगरीज के लिए ये एक जेनुइनली गोल्ड माइन है। अब हम ऐड के कुछ एग्जांपल्स देखते हैं इन ऑर्डर टू अंडरस्टैंड व्हाट एक्चुअली बिफोर वर्सेस आफ्टर एड्स होते कैसे हैं और किस तरीके से आप उन्हें बनाओगे।
+[116:59] Speaker 2:  दिस वन प्रोडक्ट हेल्प मी गेट रिड ऑफ माय येलो। दीज़ आर वन ऑफ़ द मोस्ट यूनिक प्रोडक्ट्स आई हैव एवर हर्ड ऑफ एंड आई थॉट लेट्स गिव इट अ ट्राई।
+[117:05] Speaker 2:  द एप्लीकेशन इज़ आल्सो सुपर सिंपल विदाउट एनी हस। शी स्टार्टेड विद कि क्या हुआ वो प्रोडक्ट यूज़ करने के बाद कि वो प्रोडक्ट यूज़ करके उसके येलो टीथ चले गए।
+[117:12] Speaker 2:  नाउ शी इज़ शोइंग द मैकेनिज्म कि कैसे। जस्ट फील, अप्लाई एंड वेट फॉर 30 मिनट्स।
+[117:16] Speaker 2:  नाउ यू जस्ट ट्रिप इट ऑफ लाइक दिस एंड लुक एट द। अब उसने बोला कि 30 मिनट्स वेट करना है एंड देन देखिए क्या रिजल्ट आता है।
+[117:22] Speaker 2:  अब 30 मिनट्स इज़ अ टाइमलाइन जहां पर उसने बता दिया यू विल जस्ट हैव टू वेट 30 मिनट्स नो एफर्ट। जस्ट आफ्टर वन यू।
+[117:28] Speaker 2:  द बेस्ट पार्ट इज़ यू कैन अप्लाई दिस एनीवेयर एनी टाइम एंड इट्स अ 14 डे ट्रीटमेंट दैट डजंट गिव सेंसिटिविटी। आई डिडंट एक्सपेक्ट इट टू वर्क दिस वेल।
+[117:34] Speaker 2:  सो इफ यू वांट टू नो मोर अबाउट। बहुत ही सिंपल ऐड है।
+[117:36] Speaker 2:  बता दिया कैसा प्रॉब्लम था, कैसे सशन निकाला, मैकेनिज्म बताया, टाइमलाइन बताई एंड एंडेड दी ऐड। बहुत अच्छा है।
+[117:40] Speaker 2:  लेट्स लुक एट दिस वन। आई थिंक वी ऑल मिसअंडरस्टुड व्हाट ग्लोइंग स्किन एक्चुअली मींस।
+[117:44] Speaker 2:  इट्स नॉट अबाउट हाईलाइटर। इट्स अबाउट स्किन दैट स्टिल लुक्स हेल्दी इवन आफ्टर यू दे मूव योर मेकअप।
+[117:48] Speaker 2:  फॉर द लॉन्गेस्ट टाइम आई केप्ट एडिंग मोर मेकअप टू क्रिएट ग्लो। व्हेन माय स्किन अंडर नेक वाज़ एक्चुअली डल एंड डीहाइड्रेटेड।
+[117:53] Speaker 2:  दैट्स व्हेन आई स्टॉप चेसिंग मेकअप ग्लो एंड स्टार्टेड वर्किंग ऑन माय रियल स्किन विथ अ डर्मेटोलॉजिकली टेस्टेड डॉक्टर। अब आपने देखा होगा कि इसमें शुरू में जो प्रॉब्लम स्टेटमेंट दी गई है वो थोड़ी सी लंबी थी और उसके बाद यहां पर प्रोडक्ट पिच हुआ है।
+[118:03] Speaker 2:  मैजिक ग्लो रोल ऑन सीरम। इट हैज़ कोजिक एसिड, विटामिन सी, नाइस, फ्लोटाथाइऑन एंड अब मैकेनिज्म की बात हो रही है।
+[118:08] Speaker 2:  डलनेस एंड सपोर्ट ब्राइटर हेल्दी और लुकिंग स्किन। अब वो दिखा रही है व्हाट एक्चुअली हैपेंड।
+[118:11] Speaker 2:  मेकअप एंड दैट्स द काइंड ऑफ़ ग्लो आई एक्चुअली वांटेड। नाउ आई नो व्हाई 91,000 पीपल फाउंड इट।
+[118:14] Speaker 2:  क्रेडिबिलिटी भी ऐड हो गई। मतलब जितने जो टिक बॉक्सेस थे वो सारे थे इसमें।
+[118:18] Speaker 2:  लेट्स लुक एट दिस वन। इट्स अ क्लियर स्मूथ बम फ्री स्किन इन जस्ट 14 डेज।
+[118:23] Speaker 2:  ऑफ कोर्स आई हैड टू टेस्ट इट। तो देखो बहुत ही सिंपल था।
+[118:26] Speaker 2:  बताया कि ये मिलेगा इतने टाइमलाइन के अंदर। एक हुक क्रिएट कर लिया और नाउ शी इज़ टेस्टिंग इट।
+[118:30] Speaker 2:  ट्राइड एंड टेस्टेड। दिस इज़ हाउ माय स्किन लुक 14 डेज बैक।
+[118:33] Speaker 2:  बंपी एंड स्ट्रॉबेरी स्किन एंड आई हैव टू एडमिट दिस वर्क प्रीटी वेल फॉर मी। यू नो व्हाट द बेस्ट पार्ट वाज़ आई एम लाइक मोस्ट ऑफ़ द एक्सफोलिएटिंग बॉडी वॉशेस दैट गेट्स रिंस्ड ऑफ।
+[118:40] Speaker 2:  दिस वन कीप्स वर्किंग लॉन्ग आफ्टर यू शार्प। दैट्स बेसिकली फर्स्ट ऑफ़ इट्स काइंड डिपोजिशन टेक्नोलॉजी एट वर्क।
+[118:45] Speaker 2:  एंड डिड आई मेंशन द मोरक्कन लेमन मोहितो फ्रेगरेंस? डैम फील्स लाइक फा।
+[118:49] Speaker 2:  आई लव हाउ सेलिसिलिक एसिड होवर बीट। पहले इसने टाइमलाइन ही बता दी तो वो एक हुक क्रिएट कर दिया।
+[118:54] Speaker 2:  एक प्रॉब्लम के बारे में बात करी जो ऑलमोस्ट हर एक बंदे को फेस होती है। तो उसके बारे में बात की।
+[118:58] Speaker 2:  देन शी शोड कि स्किन पहले कैसी थी, बाद में कैसी हो गई। एंड देन टॉक्ड अबाउट कि कैसे इसका मैकेनिज्म काम किया।
+[119:03] Speaker 2:  प्रीटी ग्रेट। सारे बॉक्सेस टिक होते हैं।
+[119:04] Speaker 2:  नाउ लेट मी शो यू सम ग्राफिक एड्स। जैसे ये देखो।
+[119:06] Speaker 2:  योर मेडिसिन डिडंट चेंज योर बिल डेट। आपका पहले मंथली बिल आता था ₹2000 लेकिन हमारा ट्रू मेड्स पर बिल आएगा ₹980।
+[119:12] Speaker 2:  व्हिच मींस आप ₹120 सेव कर रहे हो। दैट्स ₹1240 पर ईयर।
+[119:16] Speaker 2:  51% ऑफ मिलेगा। यू कैन डाउनलोड द ऐप नाउ।
+[119:18] Speaker 2:  बहुत ही प्यारा बिफोर वर्सेस आफ्टर है। अब जैसे ये देखो बिफोर वर्सेस आफ्टर कि पहले ये मेसी रहता था।
+[119:23] Speaker 2:  अब आप ये वाला प्रोडक्ट यूज़ करके अपना जो कार का कैबिनेट है उसको क्लीन और क्लियर रख सकते हो। नाउ लेट्स लुक एट सम ऑफ़ द एड्स दैट वी क्रिएटेड।
+[119:30] Speaker 2:  एनर्जी तो कम फील होगी ही ना क्योंकि तुम नॉर्मल आरो का पानी जो पी रहे हो। मेट्रो सिटीज का पानी आरो से चाहे जितना फिल्टर करवा लो रहेगा वो एसिडिक ही।
+[119:36] Speaker 2:  हमारे बूढ़े बुजुर्ग मटके और तांबे के बर्तन में इसलिए पानी रखते थे दैट बहुत हुक से स्टार्ट हुआ है कि आपको ये प्रॉब्लम तो होगी ना अगर आप ये करते रहोगे तो मतलब ऑलरेडी टॉक्ड अबाउट बिफोर नाउ ही इज़ एक्सप्लेनिंग कि उस बिफोर का मतलब क्या है एक्सैक्टली मेट्रो सिटीज का पानी आरो से चाहे जितना फिल्टर करवा लो रहेगा वो एसिडिक ही हमारे बूढ़े बुजुर्ग मटके और तांबे के बर्तन में इसलिए एक्सप्लेनिंग द बिफोर कि वो हार्ड वाटर से अल्कलाइन वाटर में कन्वर्ट हो जाए एंड इसी
+[119:57] Speaker 2:  वजह से उनकी हेल्थ हमारे कंपैरिजन में काफी अच्छी रहती थी लेकिन आजकल ये सब कोई नहीं करता जिससे कि होती है ब्लोटिंग एसिडिटी और हेयर फॉल जैसी प्रॉब्लम्स बट जब से मैंने प्योरिटी की है अल्कलाइन वाटर बॉटल ड्राई की है आइस सॉल्यूशन लाइक एंड इवन अल्कलाइन वाटर से मेरी स्किन में भी चेंजेस आने लगे हैं एंड बिलीव मी पानी बदलने से आपकी सारी लाइफ चेंज हो सकती है तो फालतू चीजों में पैसे वेस्ट करने से अच्छा अपनी हेल्थ पे पैसे लगाओ टॉक्ड अबाउट बिफोर क्या प्रॉब्लम होती
+[120:17] Speaker 2:  थी उस प्रॉब्लम को एक्सप्लेन किया देन टॉक्ड अबाउट द क्रेडिबिलिटी देन आफ्टर एंड देन कॉल टू एक्शन लेट्स लुक एट दिस वन ये एक ऐसा प्रोडक्ट है जो मेरी स्किन पे मैजिक की तरह वर्क किया इस प्रोडक्ट की हेल्प से मेरी टैनिंग ब्लैक हेड्स एंड एक्ने बहुत कम हो गए वो भी विद इन टू टू थ्री वीक्स इस फेश वॉश में मुझे मिलता है विटामिन सी नया सिनेमाइड सेलिसिलिक एसिड जो मेरी स्किन को जेंटली एक्सफोलिएट करके डैम रिमूव करता है और उसे और ग्लोई और स्मूथ बनाता
+[120:37] Speaker 2:  है तो अगर इस सीजन आपको भी चाहिए ग्लोई और तो यहां पर बेसिक स्किन केयर में बिफोर वर्सेस आफ्टर है जिसमें हम स्क्रिप्टिंग के थ्रू ही सारी चीजें समझा रहे हैं लेट्स ये देखते हैं फोनिक्स का मल्टी फंक्शनल डेटा केबल के सारे कलेक्टर्स भी है टेक का जहां पर ये ये सारी चीजें आपका अनरियलिस्टिक बिफोर नहीं होना चाहिए कि फॉर एग्जांपल यूजीसी ऐड एजेंसी है तो पहले उसका -20 का रॉस आता था हमने उसका 25 का रॉस कर दिया डजंट मेक सेंस लोग बिलीव नहीं करेंगे कोई
+[121:02] Speaker 2:  टाइमलाइन नहीं ऐड कर रहे हो कि कितने दिनों में कितने महीनों में आपको ये रिजल्ट देखने को मिलेगा कोई मैकेनिज्म का यूज़ नहीं किया अगर आप बिफोर वर्सेस आफ्टर दिखा रहे हो तो आप ये भी बताओ कि किस तरीके से उसको यूज़ करना है तो अगर आप ये सारी बेसिक चीजें भी इन माइंड रखते हो ना तो आई एम 100% श्योर कि आप अच्छे बिफोर वर्सेस आफ्टर एड्स बना लोगे अब हम मूव ऑन करेंगे हमारे नेक्स्ट चैप्टर में वेयर वी विल बी डिस्कसिंग अबाउट अ वन मोर
+[121:20] Speaker 2:  टाइप ऑफ एड दैट इज रियली हाई कन्वर्टिंग बाय बाय।

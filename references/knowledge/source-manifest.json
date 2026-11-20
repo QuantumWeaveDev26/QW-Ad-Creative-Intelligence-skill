@@ -1,0 +1,74 @@
+[
+  {
+    "id": "T01",
+    "file": "01 - Ad Creative Essentials and Psychology.txt",
+    "sha256": "1e063355ad79c7f7510f96886a8c34de2826e96c73eac9b0da6be70ab4ce33ed",
+    "bytes": 251860,
+    "lines": 723,
+    "transcript_heading_line": 78
+  },
+  {
+    "id": "T02",
+    "file": "02 - Ad Angles and UGC Strategies.txt",
+    "sha256": "bcd7be2bd68bb9fac348b826d91c128ef6a95c5a2eb4604957417caa7462bfe2",
+    "bytes": 56628,
+    "lines": 170,
+    "transcript_heading_line": 49
+  },
+  {
+    "id": "T03",
+    "file": "03 - Value-Based Advertising Strategies.txt",
+    "sha256": "6e26924f347536eb3e0fd7a675cc2dc4a75b01164da10fa18760a4ea7a346237",
+    "bytes": 222402,
+    "lines": 814,
+    "transcript_heading_line": 85
+  },
+  {
+    "id": "T04",
+    "file": "04 - Creating High-Converting Statistics Ads.txt",
+    "sha256": "da327bd9c0cfcd3e097d26240c7dfdca0d836e98aee97dc40605d3bbcda8739e",
+    "bytes": 165880,
+    "lines": 553,
+    "transcript_heading_line": 68
+  },
+  {
+    "id": "T05",
+    "file": "05 - Street Interview Ad Strategies.txt",
+    "sha256": "1f199b6f3729f7f34af8352dfe70c962988bb3dec6343903643433878f36bc51",
+    "bytes": 195150,
+    "lines": 699,
+    "transcript_heading_line": 68
+  },
+  {
+    "id": "T06",
+    "file": "06 - Low Budget Content Creation.txt",
+    "sha256": "6656b4bcbbad8ce3de85959717bf2fb61f7e39baed8e54aee01a5b9791801511",
+    "bytes": 42954,
+    "lines": 150,
+    "transcript_heading_line": 40
+  },
+  {
+    "id": "T07",
+    "file": "07 - Ad Script Writing Frameworks.txt",
+    "sha256": "33ec3212bf2fe8519218cf88460e53212a18b761a1f0e503a70b3082f7790972",
+    "bytes": 86407,
+    "lines": 281,
+    "transcript_heading_line": 40
+  },
+  {
+    "id": "T08",
+    "file": "08 - Improving Ad Scripts.txt",
+    "sha256": "c11725dda5236b680ba559f5d7da0c2af313e0c06dd56298d3ebe5e028bc5afc",
+    "bytes": 26857,
+    "lines": 107,
+    "transcript_heading_line": 37
+  },
+  {
+    "id": "T09",
+    "file": "09 - Mini Vlog Ad Strategy.txt",
+    "sha256": "bdfd5eaa16dc83eb9773fbe2c5b232e5a7866bf7d96864d2c78f6e8a153ea300",
+    "bytes": 224395,
+    "lines": 76,
+    "transcript_heading_line": 63
+  }
+]

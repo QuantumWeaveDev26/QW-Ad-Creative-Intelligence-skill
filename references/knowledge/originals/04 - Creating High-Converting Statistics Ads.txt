@@ -1,0 +1,553 @@
+# Creating High-Converting Statistics Ads
+
+## Summary
+### Flow Summary
+Course के पाँच high-converting ad structures समझाए गए: statistics ads (एक sourced number से hook), ugly ads, founder ads, testimonial ads और podcast ads, हर एक के script formula, formats और best categories के साथ।
+
+### Statistics Ads: मूल सिद्धांत
+- Statistics ad एक number के इर्द-गिर्द बनता है: number attention खींचता है, बाकी ad बताता है कि उसका मतलब क्या है और viewer को क्यों फायदा है।
+- "A number is not a proof until it is made comparable": हर ad में एक ही statistic, एक source, और product से जुड़ा translation होना चाहिए।
+    - खुद से number मत बनाओ, source न हो तो audience trust नहीं करेगी
+    - एक ad में 2 से ज़्यादा numbers नहीं
+- ये क्यों काम करता है: specificity से precision और research का एहसास, benefit-heavy ads के बीच pattern interrupt, और number खुद proof का काम करता है।
+- Statistics के sources: अपने ad accounts का data, government data, published industry reports, customer survey या calculation, और social media पर बड़े लोगों के quoted numbers।
+
+### Statistics Ad का Structure और Examples
+- Script क्रम: Number, Source, Translation, Mechanism, Implication, फिर CTA (याद रखने के लिए formula 'NKKKF')।
+    - Number: पुराने fridge से महीने के 640 rupees waste
+    - Source: 400 घरों के बिजली बिल compare; Translation: साल के 7680
+    - Mechanism: पुराना compressor 40% ज़्यादा बिल; CTA: calculator link bio में
+- Presentation formats: बड़ा raw number, 'one in X', money translation, time cost, comparison bar या trend line, physical analogy, source का screenshot।
+- Translation ladder: वही research अलग framing में बेहतर hook बनती है, national figure से per home, per year, फिर product comparison तक।
+    - 92 lakh units/year (true पर unusable) → 18% of household consumption
+    - → 640 rupees a month per home → 7680 rupees a year → 5 साल में दो नए fridge
+- Best categories: fintech/investing, insurance, SaaS, energy appliances, healthcare/diagnostics, edtech, e-commerce/logistics, real estate।
+- Examples: gold saving app (रोज़ 20 रुपये से 3 महीने में 2000 से ज़्यादा), शादी के gold का 25 साल का calculation, और in-house alkaline water bottle ad जिसने अच्छा perform किया।
+- Source viewer को मिलना चाहिए, वरना credibility गिरती है; landing page पर भी वही stats दिखाओ ताकि connection बना रहे।
+
+### Ugly Ads
+- Ugly ads जानबूझकर unpolished creatives हैं जो design signals हटा देते हैं: 'lazy नहीं, subtraction'; दिखने में careless पर पीछे strategy होनी चाहिए।
+- Polished ad दिखते ही लोग skip कर देते हैं; unpolished content relatable लगता है और plain text पढ़ना तेज़ होता है।
+- ये ज़्यादातर static ads में काम करते हैं; video में पूरी तरह ugly बनाना मुश्किल है, इसलिए video examples सिर्फ आंशिक रूप से ugly थे।
+- Formats: notes app screenshot, chat/DM screenshot, solid color पर text, raw phone photo, review screenshot, arrows और circles, spreadsheet/Shopify या CRM dashboard, unedited screen recording।
+- Structure: पहली line (90% तय करती है कि audience रुकेगी), format, argument, और ask (CTA)।
+    - Example: founder का notes screenshot, शिया बटर import duty 18% से 28% होने पर cream का price 200 rupees बढ़ाया, पुराने price पर stock 3 दिन
+- कब use करें: perception नहीं बल्कि sales/leads चाहिए, message strong और specific हो, retargeting में; founder perspective से बेहतर perform करते हैं।
+- कब नहीं: high ticket, premium, luxury या aspirational brand, या जब शुरुआती impressive positioning बनानी हो; content में fakeness नहीं होनी चाहिए।
+
+### Founder Ads
+- Founder on camera brand के बारे में बात करता है, जिससे accountability आती है: 'brand कभी accountable नहीं हो सकता, but a person can'।
+- Founder offers की बजाय real decisions, product कैसे बना, और hidden industry knowledge पर बात करे; authentic रहे, script पढ़ता CEO नहीं लगना चाहिए।
+- Hired face से बेहतर क्यों: accountability, price और making को explain करने की क्षमता, किसी और के पास न होने वाली information, और face familiarity से trust।
+- Basic anatomy: identity reveal, problem का why, solution, proof, promise, CTA; general structure hook, problem, solution, credibility, pitch, CTA।
+    - Example: 2021 से चल रहा brand, sale बंद, costing sheet में margin 42% है 300% नहीं
+    - Example: 5,000 rupees tumbler का pitch, 800, 900 वाले tumblers से तुलना
+- 8 formats: face to camera, cost breakdown, factory work, mistake video, brand क्यों बनाया, comment reply, team द्वारा interview, refusal।
+- Time बचाने वाला content: customer support, comment/DM replies, business decisions, sales calls live record करना, और monthly batching (जैसे 20 ads) को SOP में डालना।
+- गलतियाँ: सिर्फ अपने बारे में बोलना, ऐसे promises जो पूरे न हों, कुछ दिन बाद गायब होना, और बिना proper statistic के numbers देना।
+
+### Testimonial Ads
+- Real customer claims बताता है, न कि brand; retargeting के लिए सबसे अच्छे, क्योंकि trust, honesty, authenticity और credibility एक साथ मिलते हैं।
+- ज़रूरी elements: person का real नाम और background, solve हुआ doubt, और specific result (जैसे oily skin के बावजूद 15 days में results); audience से similarity बढ़ाती है।
+- Testimonial types: skeptic, switcher, long-term user, filmed interview, expert/professional, unsolicited review screenshot।
+- Script क्रम: doubt, वो कौन हैं, पहले की problem, switch, result, किसके लिए suitable।
+    - Example: इंदौर का 11 साल पुराना किराना store, हिसाब 2 घंटे से 20 मिनट, GST filing में कोई mismatch नहीं
+- Best categories: courses, services, SaaS, insurance, health/supplements, home, fitness, fashion, e-commerce/D2C; real estate में awareness मिलती है पर conversions कम।
+- Customers को script मत करो, simple editing रखो, answers stitch मत करो: एक product, एक problem, एक doubt, एक solution।
+
+### Podcast Ads
+- Podcast clips या fake podcast setup: दूसरे से बात करते दिखने पर viewer पर force कम लगता है ('eavesdropping effect'), host objections उठाता है, और authority बढ़ती है।
+- Top और middle of funnel audience के लिए अच्छा, क्योंकि podcast में attention naturally ज़्यादा रहता है।
+- Structure: interesting question, honest reaction, answer, host का agree/disagree और follow-up, resolution, soft CTA।
+    - Example: insurance advisor, ज़्यादातर claim rejection form भरते वक्त medical history छुपाने से
+- Styles: studio clip, remote call recording, staff द्वारा founder interview, expert Q&A, headphones वाला fake interview, disagreement clip।
+- Best categories: insurance, health, B2B, courses, legal/compliance, real estate, agencies, consulting।
+- Metrics: hook rate 20% से ऊपर, average watch time 40% या उससे ऊपर, साथ में hold rate और cost per purchase/lead देखें।
+- गलतियाँ: scripted लगना, शुरुआत में self-introduction, hard spoken CTA ज़रूरी नहीं, और कई questions को एक answer में merge करना।
+
+## Transcript
+[00:05] Speaker 1: About statistics ad, but they are pretty great when it comes to अगर आपको एसआई कन्वर्टिंग, आई कन्वर्टिंग, एड स्ट्रक्चर्स—I hope आप लोगों को मज़ा आ रही होगी ये करिकुलम कम्प्लीट करने में। Obviously, मैं ज़्यादा फन नहीं कर पाती एजुकेशन में, but I make sure कि मैं सारी information आपको deliver कर सकूँ, ताकि उस information का use करके आप कहीं न कहीं अपने ads को, अपनी किसी भी चीज़ को better बना सको। And that's why I'll be talking about statistics ads today.
+[00:27] Speaker 1:  I don't know what you know about statistics ad, but they are pretty great when it comes to अगर आपको एडटेक, एफएमसीजी ब्रांड में कुछ क्रिएट करना है, तो उसके लिए ये ad बहुत कन्वर्ट करते हैं। Statistics ad का बड़ा simple सा मतलब होता है—मैं आपको स्क्रीन में directly दिखाती हूँ—कि आप किसी नंबर को लेकर basically बात करते हो।
+[00:42] Speaker 1:  Like, for example, अगर मैं मेटा ad का कोई example ले लूँ। मेटा ads में मान लो, officially 60% businesses ही अभी मेटा ads run कर रहे हैं।
+[00:49] Speaker 1:  तो मैं उसके around कुछ script create करूँ। Like, for example, India में अभी भी सिर्फ 60% brands मेटा ads में अपने ads run कर रहे हैं, and बाकी 40% को इसके बारे में कुछ भी नहीं पता है।
+[00:58] Speaker 1:  And then I talk about the statistics and talk about like, for example, मैं ये भी बोल सकती हूँ कि last year इतना ad spend किया था businesses ने, इस साल उसका दुगना किया है, 128% से grow कर रहा है, 3 billion dollars की है। Not exact statistics, मैं आपको सिर्फ numbers बता रही हूँ।
+[01:12] Speaker 1:  So this is called statistics ad. जहाँ पर जो नंबर होता है न, basically वो आपकी audience को hook करने में help करता है। 
+[01:17] Speaker 1: ठीक है? जो figure होता है, वो attention borrow करता है, and बाकी जो आपका ad होता है, वो explain करने में जाता है कि exactly वो नंबर का मतलब क्या है, and why that exact number is beneficial to you। A number is not a proof until it is made comparable.
+[01:30] Speaker 1:  Obviously, आप नंबर तो बता दोगे, लेकिन वो नंबर को compare करने के लिए, या फिर उसको सही तरीके से explain करने के लिए, आपके पास अगर कोई gavor नहीं है, basic report, research नहीं है, तो वो नंबर का भी कोई sense नहीं बनता है। Always make sure करिए, statistics ad में आप एक नंबर का ही use करो।
+[01:45] Speaker 1:  Like, only one statistic, जिसके around आप अपनी पूरी research के बारे में बात करोगे। हर एक statistics ad में एक source होना बहुत ज़्यादा important है।
+[01:53] Speaker 1:  आप अपने आप से कोई भी नंबर मत create करो कि आपने अपने आप बोल दिया 30% businesses ये नहीं कर रहे हैं। कुछ proof होना चाहिए, कि exact proof कि आपको ये जो numbers हैं, ये कहाँ से मिले।
+[02:02] Speaker 1:  Because आप तो कोई भी नंबर बोल सकते हो, अगर audience को आप पर trust करना है, तो आपको exactly बताना पड़ेगा कि वो source कहाँ से आया आपके पास। और एक translation होना चाहिए, basically आपकी static ad में, कि आपने कुछ statistics अगर deliver कीं, तो exactly how does it relate to your product।
+[02:17] Speaker 1:  ये आपको बताना बहुत ही ज़्यादा ज़रूरी होता है। अब आपके दिमाग में भी question आ रहा होगा कि यार, ये statistics ad जो होते हैं, उसमें एक नंबर कैसे आपके पूरे ad को outperform कर ले जाता है।
+[02:25] Speaker 1:  Very good question, जिसका answer मैं आपको बड़ी simply करने की कोशिश करूँगी। देखो, सबसे पहले, जब आप किसी भी चीज़ के बारे में specific हो जाते हो—like, आप एक ही नंबर के बारे में बार-बार बात कर रहे हो, बार-बार बात कर रहे हो, like 6%, 1298 people—तो ये न specific हो जाता है।
+[02:38] Speaker 1:  जब आप कुछ specific चीज़ों के बारे में बात करते हो, तो audience को लगता है कि आपने उस particular topic के around research कर रखी है, because you are talking about numbers। तो ऐसी situation में क्या होता है, कि precision रहता है न, तो लोगों को ऐसा लगता है कि ये जो information दे रहा है, that is correct।
+[02:52] Speaker 1:  तो वो आपके product के बारे में और भी ज़्यादा interested हो जाते हैं। And इसी के साथ-साथ, आज के time पर आप जितने भी ad creatives market में देखोगे न, हर जगह लोग अपने benefits के बारे में बता रहे हैं, उनका product अच्छा कैसे है इस बारे में बता रहे हैं।
+[03:01] Speaker 1:  No one is talking about कि उस industry की क्या statistics हैं, क्या चीज़ें उनको ध्यान में रखने की ज़रूरत होती हैं। तो उससे क्या होता है, आप एक pattern interrupt करते हो, जिससे conversion के chances increase होते हैं।
+[03:09] Speaker 1:  And इसके बाद, अगर आप कोई number quote करके कोई भी चीज़ बताते हो न, तो उसमें already एक valid proof add हो जाता है, जिससे आपको अपने product में एक proof add करने की ज़रूरत नहीं पड़ती है, because you added that with the statistic। अब question ये आता है, कि आप ये जो statistics होती हैं, वो ढूँढोगे कहाँ से, आपको मिलेंगी कहाँ से।
+[03:23] Speaker 1:  देखो, मुझे सबसे पहले लगता है कि अगर आपका business है already, या आप किसी के लिए performance marketing करते हो, और उनके पास already data है, like, they have been running ads for a long time, तो उनके खुद के accounts के data से आपको बहुत सारी useful information मिल सकती है। और उस useful information को आप as a statistic use कर सकते हो।
+[03:38] Speaker 1:  इससे क्या होती है, credibility high होती है, because आप इसमें अपनी खुद की research के बारे में बात कर रहे हो। Second हो सकता है, government and regular data आपको Google पर, internet पर, कहीं पर भी कोई government-based data मिलता है।
+[03:48] Speaker 1:  Third हो सकता है, published industry reports। जैसे news channels हो गए, या फिर और भी कोई industry reports अगर publish हुई हों, उसके around आप बात करना चाहते हो, तो वो भी कर सकते हो।
+[03:55] Speaker 1:  इसके बाद, आपका कोई customer का survey हो, या फिर आपने ऐसी कोई calculation की हो जो आप proof की तरह दिखा सकते हो। या फिर आपको कोई ऐसा नंबर मिला हो जो आपने कहीं देखा हो, कहीं Instagram feed पर, Twitter पर, कोई बड़ा बंदा उसके बारे में बात कर रहा हो, उस statistic पर आप बात कर सकते हो।
+[04:07] Speaker 1:  तो इस तरीके से आप statistics ad के लिए अपने statistic या फिर numbers ढूँढते हो। अब basically बात करते हैं कि एक statistic ad बनाया कैसे जाता है।
+[04:15] Speaker 1:  Always start with a number. जो भी number या फिर जो भी stats आपने ढूँढे हैं, आप exactly उसी number से अपना ad start करोगे।
+[04:21] Speaker 1:  उसके बाद source के बारे में बात करोगे, कि exactly आपको ये मिला कहाँ पर। Translation in the sense, आप उसको फिर explain करोगे।
+[04:27] Speaker 1:  फिर बताओगे कि कैसे, like, what was the process। और उसके बाद implication पर बात करोगे, जहाँ पर आप अपने product को integrate करोगे।
+[04:34] Speaker 1:  इसे basically एक example के साथ समझाती हूँ। Number: महीने के 640 rupees, सिर्फ एक पुराने fridge की वजह से।
+[04:39] Speaker 1:  मतलब आप एक पुराने fridge की वजह से महीने के इतने rupees हमेशा waste करते हो। Source: ये हमने 400 घर के बिजली बिल compare करके निकाला है। 
+[04:45] Speaker 1: ठीक है? Translation: साल के 7680, मतलब एक छोटा EMI बिना कुछ किए। Mechanism: पुराना compressor technology 40% ज़्यादा बिल खींचता है।
+[04:54] Speaker 1:  मतलब क्यों ऐसा हुआ, why happened, what was the reason। Because पुराना compressor आपके पुराने fridge में use हो रहा है।
+[04:59] Speaker 1:  Implication: अगले 5 साल में ये इतने रुपये बन जाएगा। तो CTA: अपना model डाल के calculator पर check करो, link bio में है।
+[05:07] Speaker 1:  तो ऐसा आप कर सकते हो। आपने सबसे पहले किसी number के बारे में बात करी, बताया वो number आपको कहाँ से मिला।
+[05:12] Speaker 1:  इसे न आप basically बहुत simple formula से याद रखो, NKKKF, जिससे मैं भी याद रखती हूँ। पहला, कि आप एक number के बारे में बात करोगे, वो number आपको कहाँ से मिला, उससे क्या हुआ, कैसे हुआ, और final क्या consequences आए।
+[05:25] Speaker 1:  इतना सा याद कर लोगे, तो आपको statistic ad की script बनाने में ज़्यादा मेहनत नहीं लगेगी। Now let's talk about कि आप इन numbers को किस तरीके से present कर सकते हो।
+[05:31] Speaker 1:  पहला, directly number से ही चालू कर दिया। एक enormous number लिया आपने, आपको जो भी research के through मिला, and you directly talked about this।
+[05:38] Speaker 1:  And एक और format चलता है, that is the one in X। Like, for example, 100 में से 1 लोग ये चीज़ करते हैं।
+[05:44] Speaker 1:  तो ये format भी बहुत चलता है। Money translation: जो अभी हमने पुराना example देखा, कि for example, 500 रुपये आप हर महीने lose कर रहे हो, because आपका compressor सही नहीं है fridge का।
+[05:52] Speaker 1:  Time cost: आपको रोज़ 4 से 5 घंटे आपके waste होते हैं, because आप इस AI का use नहीं करते हो। Comparison bar: आप comparison bar का use करके वो कर सकते हो, statistic दिखा सकते हो, trend line।
+[06:03] Speaker 1:  ये जो ये वाली जो lines होती हैं न, इसका use करके आप same चीज़ explain कर सकते हो। Physical analogy: मतलब like, for example, मैंने ले लिया कि इस pen को खत्म होने में मुश्किल से मुश्किल 1 महीना भी नहीं लगेगा, और अगर आप अपने fridge का compressor सही नहीं करते हो, तो उसमें भी 1 महीने में आपको ये हो जाएगा।
+[06:17] Speaker 1:  तो आप उससे ऐसे कुछ relate करके physical analogy use कर सकते हो। और screenshot: जहाँ पर आपने directly जहाँ से जो resource लिया है, उस resource का screenshot दिखाते हुए आपने exactly समझा दिया कि क्या statistic के बारे में आप बात करना चाह रहे हो।
+[06:29] Speaker 1:  अब इसे एक और example के साथ समझने की कोशिश करते हैं। जैसे आपका raw figure, for example, ये है कि Indian household wastes 92 lakh units of electricity per year। 
+[06:37] Speaker 1: ठीक है? जहाँ पर ये true तो है, मतलब this is true, but unusable है। और किसी specific बंदे के बारे में बात नहीं की जा रही है।
+[06:45] Speaker 1:  Percentage की तरह दिखाओगे, तो that is about 18% of household consumption. Slightly better है, because आप country के बारे में fact तो बता रहे हो, लेकिन अगर आप इस angle से बता रहे हो, तो लोगों को ज़्यादा interesting लग रहा है।
+[06:55] Speaker 1:  अगर आप per person के हिसाब से बताओगे, roughly 640 rupees a month per home। मतलब हर महीने 640 रुपये हर एक इंसान के electricity consumption में waste हो रहे हैं।
+[07:03] Speaker 1:  ये इन दोनों से एक better hook है। Research same है, लेकिन उसको लिखने का तरीका थोड़ा सा different हो गया।
+[07:07] Speaker 1:  या फिर around 7680 rupees a year, every year। इसको हमने साल में convert कर दिया।
+[07:12] Speaker 1:  इतना जाता है। तो ये basically और आपने थोड़ा सा बढ़ा दिया।
+[07:16] Speaker 1:  5 years of that is a new fridge paid for twice। मतलब यहाँ पर आपने किसी एक product से ही compare कर दिया, कि भाई, 2 fridge के बराबर साल में अगर आप 2 fridge भी खरीदते हो न, तब भी आप अपनी electricity का ये जो फालतू का consumption है, इसको नहीं रोक पा रहे हो।
+[07:27] Speaker 1:  तो इस तरीके से आपको इसे align करना है। सबसे ज़्यादा ये काम करता है fintech और investing की industry में।
+[07:31] Speaker 1:  अगर आप finance से related कोई भी product बेचते हो, तो ये काफी अच्छा काम करेगा। Insurance में बहुत अच्छा काम करता है।
+[07:37] Speaker 1:  SaaS business tools, energy appliances (electricity से related), healthcare and diagnostics, edtech, e-commerce and logistics, and real estate। ये कुछ ऐसी categories हैं जहाँ पर ये जो statistic type of ad है, काफी अच्छे काम करते हैं।
+[07:47] Speaker 1:  Now let's look at some of the examples.
+[07:49] Speaker 2:  रोज़ का 20 रुपये save करोगे, तो 3 महीने में कितना बचाओगे? 1800 रुपये? नहीं, 2000 से भी ज़्यादा बचाओगे।
+[07:54] Speaker 2:  कैसे? मैं बताता हूँ।
+[07:56] Speaker 2:  इसके लिए daily save करो 4000 रुपये। यहाँ पैसे gold में save होते हैं, और तुम सिर्फ 10 रुपये से saving start कर सकते हो।
+[08:01] Speaker 1:  Exactly सारे numbers के बारे में बात कर रहे हैं, कि महीने में आप कितने पैसे save कर सकते हो, and everything। जैसा कि आप देख सकते हो, पूरी video ही इसी बारे में है।
+[08:08] Speaker 2:  पैसा सीधा account से 4000 में gold में convert हो जाता है। Gold की value और तुम्हारी saving, दोनों साथ में बढ़ेगी। अब आप बताइए, 20 रुपये की saving से हो गए न 3 महीने में 2000 रुपये से भी ज़्यादा?
+[08:17] Speaker 2:  इंस्टॉल now पर क्लिक करो और 4000 app डाउनलोड करो।
+[08:19] Speaker 1:  तो basically कैसे आप gold save कर सकते हो, इस app के through इसके बारे में बात की गई है, and exactly numbers के बारे में बात की है कि इस number को use करके आप इस number तक पहुँच सकते हो। Let's look at this ad.
+[08:28] Speaker 2:  तो आज का topic है, अपने बच्चे की शादी में 1 से 1.5 करोड़ रुपये gold पर कैसे बचाना है। चलिए calculation समझते हैं। मान लीजिए, आज की तारीख में gold का भाव है 15000 rupees per gram, और आपके बच्चे की उम्र है 3 साल।
+[08:40] Speaker 2:  जब आपके बच्चे की शादी होगी, तब आपके बच्चे की age होगी around 28 years। मतलब आपके पास पूरे 25 साल हैं prepare करने के लिए।
+[08:48] Speaker 2:  और जब शादी का समय आएगा, तब gold का भाव होगा approximately 2 लाख रुपये per gram, और शादी के लिए minimum 100 gram सोना तो लगता ही है। तो मतलब gold का cost approximately 2 करोड़ रुपये के आसपास आ सकता है।
+[09:00] Speaker 1:  ये purely statistic based है, और बहुत real life problems भी हैं।
+[09:02] Speaker 2:  और gold को कैसे बचाने हैं, मैं आपको बताता हूँ। एक बहुत simple सा hack है: daily 100 रुपये की SIP start कीजिए, and at the end of year 1।
+[09:09] Speaker 1:  Exactly फिर बता रहा है, how do you save it?
+[09:11] Speaker 2:  36500 rupees per single time। Carat gold को, और तो और, धीरे-धीरे।
+[09:16] Speaker 1:  And then यहाँ पर product integrate हुआ है, कि exactly कैसे आप ये कर सकते हो। बहुत ही अच्छा ad है। 2 ये लंबा है, 2.5 मिनट का है, but ये perform करेगा।
+[09:24] Speaker 1:  Now ये कुछ graphic ads देख लो, जैसे ये policy bazaar का है, term life insurance plan, आपको आप इतना करोगे तो आपको इतना मिलेगा। Paytm is hiring, इतनी opening है, इतना मिलेगा, ये है।
+[09:33] Speaker 1:  ये जो job applications वाली ad होती हैं, ये भी static ad होती हैं। Get 100 rupees cashback on your first UPI payments।
+[09:38] Speaker 1:  ये भी statistic ad है।
+[09:40] Speaker 2:  You know what, every 7 out of 10 Indian faces digestive discomfort. और India में अब digestive products का market 2000 करोड़।
+[09:45] Speaker 1:  अभी जैसे मैंने बताया था, screenshot का use करके start करना है। उसमें research की screenshot थी, and देखो उसके बाद एक और screenshot आया।
+[09:50] Speaker 2:  पैसे भी ज़्यादा का हो चुका है। क्योंकि अभी भी लोगों को core problem समझ ही नहीं आती है। RO आपके पानी को filter तो करता ही है, साथ ही साथ सारे minerals भी निकाल देता है, जिससे कि हमारी gut health पर बहुत effect पड़ता है।
+[09:59] Speaker 2:  अब इससे हमारी problems पर बात हो रही है। जिससे acidity, bloating, और बहुत सारे digestive issues होते हैं।
+[10:03] Speaker 2:  और इसी के साथ-साथ skin और hair issues भी बहुत बढ़ जाते हैं। इसलिए doctors और आयुर्वेदा दोनों का यही कहना है कि हमें alkaline water पीना चाहिए।
+[10:09] Speaker 2:  और अभी market में सबसे stylish और affordable purity की ये alkaline water bottle available है। And the best part।
+[10:13] Speaker 1:  मतलब basically आपने देखा कि stats से चालू किया कि India में क्या water की problem है, और उसको फिर alkaline water की problem से relate करते हुए फिर product को pitch किया। Which is a very good ad, जो ये हमने खुद create किया था। Ads में बहुत अच्छा performance लाकर दिया था।
+[10:25] Speaker 1:  Now let's talk about कि आप statistics ad create कैसे करते हो। How do you actually create one?
+[10:29] Speaker 1:  सबसे पहले मैं suggest करूँगी, अगर आपके पास खुद का कोई data है, तो या तो उसके बारे में research करो। नहीं है, तो आप कहीं न कहीं research paper से अपनी industry की research करके कुछ data निकाल सकते हो।
+[10:38] Speaker 1:  उस data को पहले लिख लो। उस data के around फिर आप transition ladder पर जाओ, कि raw data आपके पास क्या है, कितने percentage हो जाएंगे वो लोग।
+[10:47] Speaker 1:  Per person में क्या effect पड़ेगा, per year उसको क्या effect पड़ेगा। ऐसे करके उसको पूरा breakdown करो।
+[10:51] Speaker 1:  उसको एक cause दो, like क्यों ऐसा, why you should change this, या फिर why you should not change this। और उसके बाद उसे as a loss frame कर सकते हो, as something frame कर सकते हो, ताकि आप अपने product को next pitch कर सको।
+[11:02] Speaker 1:  अब always make sure करिए कि आप एक ad में 2 से ज़्यादा numbers न use करिए, because अगर आप बहुत सारे numbers statistics use कर लेते हो न, तो वो लोग ज़्यादा interested नहीं रहते हैं। Always make one।
+[11:12] Speaker 1:  Also make sure करिए कि आपके ad creative में एक proper translation होना चाहिए, कि ये जो stat use किया है, ये आपने product के लिए जिसके लिए भी use किया है, क्या वो उसमें translate हो रहा है या नहीं हो रहा है। इसी के साथ-साथ ऐसा न हो कि आपने जो source के बारे में बात की हो, वो source सामने वाले बंदे को मिल ही न रहा हो।
+[11:25] Speaker 1:  इससे आपकी credibility बहुत ही गंदी lose हो जाएगी। And अगर आप landing page पर अपनी audience को लेकर जा रहे हो, तो make sure करिए, वो stats आपने अपने landing page में भी add कर रखे हैं, ताकि उनको एक feeling of connection मिल जाए।
+[11:38] Speaker 1:  I hope आप लोग समझ गए होंगे कि statistics ad होते कैसे हैं, और किस तरीके से आप इन्हें create कर सकते हैं। Now we will be moving on to the next chapter, जहाँ पर हम एक और high converting ad structure के बारे में पढ़ेंगे।
+[11:47] Speaker 1:  तब तक के लिए, bye-bye।
+[11:51] Speaker 3:  अरे, वो scripting से लेकर।
+[11:53] Speaker 1:  और आज न हम एक ऐसे ad type की बात करने जा रहे हैं, जो बहुत कम लोग जानते हैं, but I think it's pretty crazy, because बहुत सारे brands के लिए ये काफी अच्छी performance लाकर देता है। And I am exactly talking about ugly ads। अब ugly ads का मतलब पहले समझने की कोशिश करते हैं, कि what exactly it is।
+[12:07] Speaker 1:  आपने UGC ads तो समझ लिया। UGC ads क्या होते हैं, जहाँ पर आप एक normal looking ad create करते हो, जिसमें आप थोड़ा बहुत setup, आप कैसे दिख रहे हो, इन सारी चीज़ों पर ध्यान देते हो।
+[12:15] Speaker 1:  But when it comes to ugly ads, यहाँ पर आप किसी भी चीज़ पर ध्यान नहीं देते, कि आपका camera कैसा दिख रहा है, आपकी photo कैसी आई है। You just create a very normal kind of ad, जो लोगों की होता है न, photo galleries में मिल जाए।
+[12:25] Speaker 1:  जो बहुत ही unpolished सा ad creative होता है, उसे हम ugly ad कहते हैं। Like मैंने यहाँ पर mention भी किया है, कि जो हर एक design signals को remove कर दे, where you don't think about designing, कैसा लग रहा है, and everything।
+[12:35] Speaker 1:  You just put up that ad, because उससे आजकल लोग काफी ज़्यादा relate करने लगे हैं। जैसे for example, एक solid color का background है, और उस पर आपने कुछ text लिख दिया।
+[12:43] Speaker 1:  या फिर notes app का कोई screenshot हो गया। या फिर कोई आपके phone पे unedited photo हो गई, वो हो गया।
+[12:48] Speaker 1:  या फिर screen recording with cursor still visible। मतलब आपने screen recording में भी कोई changes करने की ज़रूरत नहीं पड़ी।
+[12:52] Speaker 1:  आपने normally उसे live कर दिया, as an ad। तो ये भी बहुत अच्छे performance लाके देते हैं।
+[12:56] Speaker 1:  और एक चीज़ हमेशा याद रखिएगा, कि ये जो ugly ads होते हैं न, ये lazy नहीं होते, it's subtraction। आप यहाँ पर volume of ad create कर सकते हो, and even ugly ads create करने में आपको ज़्यादा मेहनत नहीं लगती है, और वो लोगों के साथ ज़्यादा relatability करता है।
+[13:07] Speaker 1:  अब for example, अगर मेरे पास कोई phone पर photo हो, जो बहुत ही normal looking हो, उस पर मैंने Instagram पर ही एक text लिखकर, उसको download करकर ad पर चला दिया। तो लोग relate कर पाएंगे, because ऐसी सारी चीज़ें वो भी करते रहते हैं।
+[13:18] Speaker 1:  But always you have to make sure कि जब भी आप ugly ads create करते हो न, careless नहीं होने चाहिए वो ads। कि आपने कुछ भी बना दिया, होने intentionally चाहिए।
+[13:25] Speaker 1:  मतलब उसके पीछे कुछ न कुछ strategy ज़रूर होनी चाहिए, but देखने में वो careless लगने चाहिए। And next, a message that stands alone।
+[13:31] Speaker 1:  आप graphic ad बना रहे हो, video ad बना रहे हो, whatever kind of ugly ad you are creating, always make sure कि उसमें एक single message हो, जो आप अपनी audience को देना चाहते हो, and आपके platform से related हो। Like आप अपने platform के हिसाब से बनाओ।
+[13:42] Speaker 1:  Feed के लिए आप ऐसा बना सकते हो। Reel के लिए आप ऐसा बना सकते हो।
+[13:45] Speaker 1:  तो make sure करिए, ugly ads में भी आप formats का proper तरीके से ध्यान दे रहे हो। एक चीज़ और make sure करिएगा, कि जो ugly ads होते हैं न, वो low effort ads नहीं होते हैं।
+[13:52] Speaker 1:  वो चलते हैं, इसलिए लोग strategy बनाकर उन ads को live करते हैं। कोई excuse नहीं है कि आपको ad creative नहीं run करने, तो भाई आपने ये गंदे type के ad बना लिए।
+[14:00] Speaker 1:  वो genuinely चलते हैं, इसलिए लोग आजकल बना रहे हैं। और हर एक brand के लिए ugly ad नहीं होता है।
+[14:03] Speaker 1:  अगर आपका high ticket price है, high ticket product है, तो वहाँ पर ugly ad नहीं काम करेंगे। But अगर आप middle class families को cater करते हो, तो वहाँ पर ugly ad आपके लिए definitely काम कर सकते हैं।
+[14:11] Speaker 1:  अब question ये आता है, कि unpolished creative, designed creative को क्यों beat कर ले जाते हैं, why? देखो, सबसे पहला, polished ads हमारी eyes में सबसे पहले आता है।
+[14:20] Speaker 1:  जैसे ही हम polished ads देखेंगे, हमें समझ आ जाएगा कि भाई ये ad है, and we will immediately skip it। लेकिन अगर कोई ऐसा ad आता है, जो polished नहीं दिख रहा है, normal है, ऐसा लग रहा है कि सामने वाला बंदा उससे relate कर पा रहा है, तो वो उसको attractive समझता है, और उस particular ad को end तक देखता है, या फिर आपके graphic ad पर रुकता है। 
+[14:34] Speaker 1: ठीक है? And the next is, plain text is faster to read। अब for example, अगर आप कोई graphic ad बनाते हो, जिसमें आपने कोई भी elements नहीं add किया हुआ creative, लेकिन simple text लिखा है, या फिर आपने अपने notes का, जो iPhone में या फिर आपके normal Android पर notes आता है, उस पर कुछ लिख के एक screenshot मार लिया है, या फिर आपने Reddit या फिर Quora का एक thread का screenshot मार के as an ad run कर दिया है, तो लोगों को वो बड़ा
+[14:52] Speaker 1:  वो लगता है, क्योंकि आज के time पर लोग video ads देख-देखकर न परेशान हो चुके हैं। उन्हें भी ऐसा लगता है कि sometimes they need to watch something, जहाँ पर उन्हें कुछ सुनने की ज़रूरत न पड़े। तो उस particular situation में ऐसे creatives बहुत ही ज़्यादा help में आते हैं।
+[15:02] Speaker 1:  अब basically, ugly ads आपको पता है, सबसे ज़्यादा किसमें use होते हैं। That is static ads।
+[15:06] Speaker 1:  Video ads में ugly ads आप नहीं use करते, because video ads में ugly ads create करना थोड़ा difficult भी हो जाता है। But static ads में आप बहुत अच्छे से इसे use कर सकते हो।
+[15:13] Speaker 1:  Question आता है, कि इसका structure क्या होना चाहिए। देखो, सबसे पहले, आपका जो पहला line होगा, whether it's your video ad or your graphic ad, वो 90% decide करता है, कि वो आपकी जो audience है, आपके ad पर रुकेगी कि नहीं रुकेगी।
+[15:24] Speaker 1:  उसके बाद the format। मतलब format क्या आप use कर रहे हो।
+[15:26] Speaker 1:  आप notes का screenshot use कर रहे हो, आप normal photo use कर रहे हो, आप किस format में उसे use करना चाहते हो, detail। Obviously, आपको उस ad को बहुत ज़्यादा professional looking नहीं बनाना, लेकिन वो ugly है, तो उसमें details add करना ज़रूरी है।
+[15:36] Speaker 1:  उसके बाद argument। Reason कि आपको सामने वाले बंदे को आपका product क्यों लेना चाहिए, and ask in the sense, आपका जो basically call to action है।
+[15:43] Speaker 1:  Let's look at an example to understand how ugly ad की copy लिखी जाती है। एक skin care brand का लेते हैं।
+[15:48] Speaker 1:  Suppose करिए, ये एक note app का screenshot है। यहाँ पर सबसे पहले लिखा है, हमने अपनी क्रीम का price 200 rupees बढ़ा दिया, क्यों वो बता रही हूँ।
+[15:56] Speaker 1:  Format है, note app का screenshot, plain text, posted from the founder's handle। शिया बटर पे import duty 18% से 28% हो गई है। 
+[16:03] Speaker 1: ठीक है? Quantity कम करना आसान था, हमने price बढ़ाना चुना। पुराना price पे stock 3 दिन और है, link bio में है।
+[16:09] Speaker 1:  तो obviously, बड़ा simple सा ad creative है, कि एक founder ने note app का screenshot डाला है, और लिखा है कि हमने अपने product का price बढ़ा दिया, because GST बढ़ गई है। And product की quality कम करने की जगह, हमने उसका price ही बढ़ा दिया, और जो limited quantity बची हुई है, वो same price पर मिल रही है, आप अभी ले सकते हो।
+[16:22] Speaker 1:  Very simple ad, but very converting, because इसमें बहुत honestly सामने वाले बंदे ने अपना feedback दिया है। अब जैसे कि मैंने आपको बताया, कुछ ऐसे formats होते हैं, जो ugly ad में काम करते हैं।
+[16:30] Speaker 1:  जैसे note app का screenshot ले लिया। आपका जो normal messages होता है, chat होता है, DM होता है, उसका screenshot ले लिया।
+[16:35] Speaker 1:  एक solid color पे आपने text डाल दिया। Raw phone की कोई भी photo हो गई।
+[16:39] Speaker 1:  कोई भी review का screenshot हो गया। Arrows और circles हो गए।
+[16:42] Speaker 1:  Like for example, आपने एक screenshot लिया, उसमें कुछ-कुछ लिखा है। आपने उस पर arrows, circles, और important चीज़ों को highlight कर दिया।
+[16:48] Speaker 1:  Spreadsheet और dashboards हो गए। जैसे Shopify का dashboard होता है।
+[16:51] Speaker 1:  आपका कोई CRM platform होगा, तो उसका dashboard हो सकता है। और screen recordings हो गईं।
+[16:54] Speaker 1:  कोई editing music नहीं किया, आपने बस screen recording के through explain कर दिया। अब देखो, ugly ads, जैसा कि मैंने आपको बताया, is not made for every other brand out there, because आपके product की जो positioning है, वो भी बहुत ज़्यादा matter करती है।
+[17:05] Speaker 1:  अब ugly ads कब use करने चाहिए? जब आप perception नहीं build करना चाह रहे हो।
+[17:09] Speaker 1:  आपका at the end of the day goal ये है कि भाई मुझे sales और leads generate करनी हैं, और message आपका बहुत ही ज़्यादा strong है, बहुत ही ज़्यादा specific है, तब ugly ads काम कर जाते हैं। आपको ugly ads के न बहुत सारे variations test करने पड़ते हैं, in order to understand कि कौन सा वाला work करेगा।
+[17:23] Speaker 1:  And ugly ads अगर आप founder के perspective से बनाते हो न, तो वो comparatively ज़्यादा अच्छे perform करते हैं। Make sure करिए, आपके ugly ads urgent हों, honest हों, और easy to understand हों।
+[17:32] Speaker 1:  तभी सामने वाला बंदा उस ugly ad से convert होगा। लेकिन अगर आपके product की value है, आप उसका perception नहीं change करना चाहते हो, तो ugly ads मत use करो।
+[17:40] Speaker 1:  अगर आप premium हो, luxury, aspirational kind of brand हो, तब भी use मत करो। अगर आप शुरुआत में अपने brand से related कोई impressive, you know होता है न, first positioning add करना चाहते हो, तब भी ugly ads इतने beneficial नहीं होते हैं।
+[17:50] Speaker 1:  Ugly ads मुझे personally ऐसा लगता है कि retargeting campaigns में काफी अच्छे काम करते हैं, जहाँ पर आप simple photos and everything का use करके अपनी current audience को cater कर सकते हो। But always make sure करिए, rough होना fine है ugly ads में, but उसका जो content है, वो perfect होना चाहिए।
+[18:04] Speaker 1:  And आपको ugly ads में कभी भी fakeness नहीं दिखानी है, because अगर आप ऐसी information add कर देते हो, जो आपके product या service से बिल्कुल भी relevant नहीं है न, तो there are very great chances कि उनको आपका ad एक तो समझ नहीं आएगा, और समझ आएगा भी तो वो convert नहीं होंगे। जैसे for example, आप किस type के hook लिख सकते हो।
+[18:17] Speaker 1:  Last night a customer messaged me and I am posting it as it is. That's it.
+[18:21] Speaker 1:  आपने नीचे अपने customer का review add कर दिया, and इसे as an ad run कर दिया। Very ugly, but very converting।
+[18:27] Speaker 1:  3 साल में मुझे 2 failures हुए, और 1 ये ऐसी चीज़ है जो काम कर गई। ये आप as a note का screenshot डाल सकते हो, वो जो हमारे 2 AM, 3 AM वाले thoughts नहीं होते हैं, उसको जो हम notes पर लिखते हैं, एक वैसा kind of screenshot use हो सकता है।
+[18:38] Speaker 1:  For example, एक ऐसा हो सकता है कि आपने एक screenshot attach किया है, और ऊपर लिख दिया है, screenshot is attached, rest you can decide. बस।
+[18:48] Speaker 1:  बाकी वो बंदा screenshot से decide करेगा, whether उसको वो product खरीदना है कि नहीं। Maybe for example, अगर आप e-commerce businesses को cater करते हो, आपने Shopify का एक screenshot डाल दिया, जिसमें बहुत सारी sales दिख रही हैं।
+[18:57] Speaker 1:  आपने लिख दिया, screenshot is attached, you can decide what to do for your business. That's it.
+[19:01] Speaker 1:  That's the ad. अब देखो, question ये आता है, कौन सी category में ये work करते हैं।
+[19:04] Speaker 1:  I personally think कि हर एक category में ugly ads काम कर जाते हैं, but आप यहाँ पर differentiation create करोगे positioning की। अगर आपको अपने brand की positioning से ज़्यादा issue नहीं है, you can test a lot of ad creatives, तब आप ugly ads use करो।
+[19:16] Speaker 1:  लेकिन आपकी अगर कोई specific positioning है, जिसको आप बिल्कुल भी छेड़ना नहीं चाहते हो, जिसकी वजह से आप multiple different type of ads नहीं देखना चाहते हो, या फिर उनको cater नहीं करना चाहते हो, then don't use ugly ads। Otherwise, ये जितनी categories लिखी हैं, courses, edtech, founder, lead, D2C, brand services, fashion, home interior, jewelry, premium, hospitality, ये सारी जगह ये काम करता है।
+[19:32] Speaker 1:  अब न हम कुछ examples देख लेते हैं, ugly ads के।
+[19:42] Speaker 1:  मतलब कुछ नहीं था इस ad में, एक basic meme create किया है, और end में product pitch कर दिया है। बहुत अच्छा ad है, like आप वापस एक बार देख लो।
+[19:55] Speaker 1:  तो मतलब शुरू में जो basic रक्षाबंधन के हमारे gifts होते हैं, जो देते हैं brothers अपनी sisters को, उसको diss करके उन्होंने end में अपना product pitch कर दिया। वो नाच रहा है, कोई setup नहीं है, कुछ नहीं है, it's just an ugly ad.
+[20:05] Speaker 1:  Let's look at this one. अबे भाई, कर दी न छोटी बात।
+[20:07] Speaker 1:  वो देख, 5 टन का AC। स्पेशल तेरे लिए लगवाया है।
+[20:09] Speaker 1:  ये 5 टन का AC है। और क्या भाई, शिमला बना देगा 10 मिनट में।
+[20:12] Speaker 1:  तू इतनी देर TV देख ले। TV?
+[20:14] Speaker 1:  वो देख भाई, 6.5 inch Ultra HD Pro OLED TV है। हर बात में मज़ाक।
+[20:18] Speaker 1:  अच्छा, ये बता, bed है या ज़मीन पे सोना है? भाई, देख, bed तो नहीं है, लेकिन 1 फीट का लेटेक्स मैट्रेस है, जो कि 100% नेचुरल लेटेक्स से बना है।
+[20:24] Speaker 1:  इसपे लेट के मज़ा आ जाएगा तेरे को। सब चीज़ बेकार लेके, एक चीज़ अच्छी कैसे ले ली तूने?
+[20:29] Speaker 1:  तो मतलब आपको दिख रहा होगा, इनकी दीवारें कितनी गंदी लगी हैं। इसमें कुछ, मतलब इन्होंने कोई aesthetism maintain नहीं किया है, लेकिन फिर भी 1 फीट बहुत subtly integrate कर दिया है।
+[20:36] Speaker 1:  और आगे देख लेते हैं वाला ad। भाई, ये चीज़ ही ऐसी है, heat resistant और breathable है।
+[20:41] Speaker 1:  पूरे time तेरे को sweat free रखेगी। और इसका airco tech technology, तेरा body pressure evenly distribute करके, तेरे को maximum comfort देगा।
+[20:48] Speaker 1:  और अगर खराब हो गया तो? ऐसे कैसे खराब होगा?
+[20:50] Speaker 1:  12 साल की warranty है। ऐसी थोड़ी न, India का most reviewed mattress brand है, with over 1 lakh plus 5।
+[20:55] Speaker 1:  मतलब पूरा product integrate कर दिया है, credibility भी add करी है। लेकिन शुरू में, शुरू के 10-15 seconds इन्होंने kind of skit किए थे।
+[21:02] Speaker 1:  ये exactly ugly ad genuinely नहीं कहलाएगा, because ugly ad usually लोग videos में नहीं create करते हैं। But it is a type of ugly ad, जहाँ पर आप देख सकते हो कि ज़्यादा मेहनत नहीं की गई है।
+[21:10] Speaker 1:  The words they are speaking, उसमें मेहनत की गई है। But whatever you see in the background, जिस तरीके से उन्होंने कपड़े पहने हैं, and everything, वो बहुत ज़्यादा ugly है।
+[21:17] Speaker 1:  Now let's look at this ad. या जवान, आजकल सभी को joint pain की समस्या हो रही है।
+[21:21] Speaker 1:  ऐसे में कहाँ तक ointment लेना है, इसलिए मैंने ढूँढ निकाला है समीशा brand के knee patches। ये 100% herbal हैं, कोई भी इसका side effect नहीं है।
+[21:27] Speaker 1:  इसको लगाने के बाद तुरंत दर्द से आराम मिल जाता है। तो basically, जैसा कि आप देख सकते हो, इसमें भी ऐसा कुछ नहीं है।
+[21:33] Speaker 1:  Basic ugliness है, but ये भी exactly ugly ad नहीं कहलाएगा। मैं आपको graphics के through समझाऊँगी, what exactly ugly ads look like।
+[21:38] Speaker 1:  This is what ugly ads is. जैसे ये देखो, "Made $53,000, 1.8x rows, satisfy my sweet tooth, my hair is finally growing again."
+[21:46] Speaker 1:  Obviously, एक ऐसा लग रहा है कि story है। उसी story का screenshot मार के, ये basic सा ad उन्होंने डाल दिया है।
+[21:51] Speaker 1:  एक ChatGPT का है, "एक बात बताओ, अगर इंजन ऑयल की जगह पेट्रोल डाल दिया तो?" और एक आदमी का अजीब सा मुँह इससे आगे लगा हुआ है, and पीछे background में अजीब सी कोई bike सी है, which doesn't make sense at all।
+[22:02] Speaker 1:  एक ये है Perfora का, "Yellow teeth rescue," मतलब देखने में काफी ज़्यादा ugly है, but obviously कई लोग इससे relate करेंगे, तो that is why it's converting। Let's look at some of the ad creatives that we created for ugly ads.
+[22:12] Speaker 1:  हम्म, हम्म, हम्म, हम्म, हम्म। यार, मैं तो उल्लू बन गया।
+[22:16] Speaker 1:  क्या हो गया? Ooh, heard you.
+[22:18] Speaker 1:  हाँ, इतना अच्छा e-commerce brand बनाया था, ads भी run किए, पर कोई sales नहीं आई। हाँ, हाँ।
+[22:24] Speaker 1:  अरे, उल्लू के बच्चे, तू purple box पे क्यों नहीं गया? Colza box?
+[22:26] Speaker 1:  हाँ, हाँ, purple box। उनके UGC ads engagement के साथ-साथ sales भी लाते हैं।
+[22:30] Speaker 1:  और सबसे अच्छी बात तो ये है कि सारे ads meta-optimized होते हैं। नहीं, मुझे सिर्फ scripts नहीं चाहिए।
+[22:35] Speaker 1:  अरे, वो scripting से लेकर। तो as you can see कि वो जो मतलब setup है, that is kind of ugly।
+[22:40] Speaker 1:  बाकी scripting तो normal थी। That's why I'm telling again and again, you cannot create ugly ads in a video.
+[22:45] Speaker 1:  आप internet पर जाकर कहीं ugly ads search कर लो, video वाले आपको बहुत rarely मिलेंगे, because लोग इसे ज़्यादा imply graphic ads में करते हैं, because video को at the end of the day पूरा ugly create करना is not possible। Let's look at this one.
+[22:57] Speaker 1:  ये UGC ad agency पे UGC ad मिल जाएंगे जी। मिले तो।
+[23:01] Speaker 1:  अरे, नहीं, आप। How it genuinely converts for your brand.
+[23:03] Speaker 1:  Now let's talk about कि आप on purpose ugly ads को ugly बनाते कैसे हो। जैसे मुझे ऐसा लगता है कि आप जो भी पहली line सोचते हो, graphic की या फिर video की, make sure करिए आप उसे 10-15 बार सोचिए कि exactly ऐसा क्या लिखूँगा या फिर बोलूँगा कि लोगों का जो mind है वो trigger हो जाएगा in order to complete that ad।
+[23:19] Speaker 1:  और उसके बाद आप न अपनी पूरी scripting complete करिए, या फिर आपको graphic में क्या डालना है। I suggest ugly अगर आप graphic creatives बना रहे हो, तो make sure करिए कि उसमें न ज़्यादा elements न हों।
+[23:27] Speaker 1:  बहुत ही basic structure रखिए। जितना ज़्यादा basic structure रखोगे, don't talk about designing कि font का ये combination use कर लेते हैं, color grading कर लेते हैं, nothing like that।
+[23:35] Speaker 1:  Very simple, very basic, and you will have a very good ugly ad in front of yourself। तो I hope ये वाला chapter मैं थोड़ा सा छोटा रख रही हूँ, because ugly ads।
+[23:43] Speaker 1:  पर click कर लेना। Pretty perfect ads लोग एक।
+[23:46] Speaker 1:  The favorite and even high converting ad structure की बात करने जा रही हूँ, that is founder ads। And before I even begin the chapter, मैं आपको बोलना चाहूँगी, अगर आपके पास आप performance marketer हो या फिर as an agency किसी को services दे रहे हो, तो please tell कि उस business के founder को content बनाना है, उसे ad बनाकर देने हैं।
+[24:01] Speaker 1:  Because if you start doing it, I'm 100% sure कि आपका जो भी ROAS आ रहा है, वो genuinely काफी ज़्यादा increase होगा। And secondly, अगर आप business owner की तरह ये videos देख रहे हो, तो भाई make sure करिए कि you start creating content on your own, because जिस तरीके से एक brand के बारे में founder बता सकता है, उस तरीके से genuinely कोई भी नहीं बता सकता।
+[24:18] Speaker 1:  मैंने like I also have an edtech platform called Marketian, जहाँ पर हम digital marketing लोगों को सिखाते हैं। And 90% of ads are founder-based ads, जो मैं खुद create करती हूँ।
+[24:26] Speaker 1:  I understand volume में ads create करना कितना ज़्यादा difficult हो जाता है, but I make sure I stay consistent, I keep creating videos ताकि मैं ads में उसको use कर सकूँ। And founder-based ad से अच्छा ad type इस समय market में कोई भी नहीं है, because people are done watching, you know, a lot of teammates, normal UGC content creators।
+[24:43] Speaker 1:  But एक founder अगर अपने business को on ad pitch करता है, बहुत ही organic तरीके से, that is the real game changer। Now भाई, let's talk about founder ads होते क्या हैं।
+[24:50] Speaker 1:  I'm pretty sure आपको पता होगा, like basically जिसने वो brand या business create किया हो, वही उस brand के बारे में on camera बात कर रहा हो, that is founder ads। तो उससे क्या होता है न, मुझे personally ऐसा लगता है, जब कोई founder content create करना start करता है, ads बनाना start करता है, तो वो responsibility लेता है।
+[25:06] Speaker 1:  They take responsibility for whatever happens in their brand. And लोगों को ये चीज़ बहुत ज़्यादा पसंद आती है।
+[25:11] Speaker 1:  Like for example, मैंने Marketian के through ads run करने start किया as a founder, तो whatever happens, like कुछ भी हो जाए, मान लो मैं like I usually बाकी जो मेरे curriculums हैं, उसमें मैं हर महीने updates देती हूँ, like my Meta Ads curriculum, जहाँ पर हर महीने मैं update add करती हूँ, that is my मतलब जो basically India में कोई भी नहीं कर रहा है। अब that if that doesn't happen, तो उसपे responsibility मेरी आएगी, तो people can talk to me directly।
+[25:31] Speaker 1:  तो उससे लोगों को क्या लगता है कि she is there, we can talk to her, जिससे उनको थोड़ा सा comfortable feel होता है, और at the end of the day वो purchase करने में थोड़ा ज़्यादा interested हो जाते हैं। तो इसलिए एक बहुत बड़ी saying है कि एक brand कभी भी किसी भी चीज़ के लिए accountable नहीं हो सकता, but a person can।
+[25:45] Speaker 1:  अगर वो founder उस चीज़ के लिए accountable हो जाता है न, तो already वो brand की जो visibility, उसकी जो branding है, ऊपर आ जाती है, because a founder has started creating ads और content for them। And also what I personally think is कि जब भी कोई founder content या फिर ad बनाने जा रहा है न, तो वो announcement, offers, इनके बारे में बात न करके, real decisions, कैसे वो product बना, how did it come into the market, इन सारी चीज़ों के बारे में बात करे।
+[26:06] Speaker 1:  Because a lot of people would love hearing about it. And something जो normally hidden होता है, like something जो उसको industry के बारे में पता हो, and उस industry के बारे में पता होने के बाद उसने ये product कैसे develop किया, उसके बारे में अगर वो बात करे, तो लोगों को ज़्यादा interest आता है।
+[26:17] Speaker 1:  और ऐसे बात करे, like for example, अगर कोई भी founder बात करने की कोशिश कर रहा है न, तो वो ad में इस तरीके से बात करे कि लोगों को लगे कि वो directly उनसे बात कर रहा है, ताकि लोगों को एक honesty और trustability feel हो। And मुझे एक चीज़ और लगती है कि आप जरूरी नहीं है founder हो, तो आप एकदम ऐसे you sit like this, and then you talk.
+[26:35] Speaker 1:  जहाँ पे आप बहुत English में बोल रहे हो, like do you know, I have been into this industry for over 7 years, and I have been trying to build a very big or great company, I built a product, and this product is around this and that. That kind of ad doesn't work.
+[26:48] Speaker 1:  अगर आप founder हो, be authentic, be who you are, and exactly उसी तरीके से आप ads create करो। And that's why मैंने यहाँ specifically लिखा है, ऐसा नहीं होना चाहिए कि एक CEO बस script पढ़ रहा है।
+[26:57] Speaker 1:  Because वो sense नहीं बनाएगा, भाई। आपको authentic feeling देनी है।
+[27:00] Speaker 1:  Like for example, the way I'm talking to you guys. मैं भी बहुत authentically बात कर रही हूँ, right?
+[27:03] Speaker 1:  मैं English में बात करती हूँ, मैं आपको English में ही पढ़ा रही हूँ, मेरे ads भी English में ही होते हैं। मैं जबरदस्ती English बोलने की कोशिश नहीं करूँगी, even though I know English, but I won't, because that is not who I am।
+[27:12] Speaker 1:  तो always make sure करिए कि founder ad जब भी हम create कर रहे हैं, it should be very organic, very authentic, ताकि लोगों को एक अंदर से honesty feel हो। And इसमें कोई differentiation नहीं है कि brand नया है, कि old है, आपका brand कितना भी नया हो, कितना भी पुराना हो, founder ads कभी भी outdated नहीं हो सकते हैं।
+[27:25] Speaker 1:  And भाई, बड़ा simple सा question है कि founder ads hired face को क्यों outperform करते हैं? पहली बात तो accountability।
+[27:31] Speaker 1:  अगर accountability एक founder अपने brand की ले लेता है, तो there is nothing that can stop them, obviously। Second, आप ही समझा सकते हो कि आपका product, उसकी price, how was it made, या फिर आपका services, कोई भी चीज़, कैसे हुआ, किस तरीके से हुआ, what thought goes गोड, you know, went behind it।
+[27:49] Speaker 1:  ये सारी चीज़ें आप as a founder बहुत better तरीके से explain कर पाओगे। And that's why hired face ये चीज़ें नहीं कर सकता है।
+[27:54] Speaker 1:  Information nobody else has, obviously। अगर आपका product का price, like for example, this tumbler, this costs around 5,000 rupees।
+[28:01] Speaker 1:  अब अगर आप as a founder आके ये मिल तो जाते हैं 600, 700, 800 रुपये में भी। और है तो aesthetics के लिए ही न, कि water intake complete करना है, एक ऐसी aesthetic bottle होनी चाहिए, that you can carry everywhere, correct?
+[28:10] Speaker 1:  तो आप as a founder अगर explain करते हो कि why your brand has a 5,000 rupees tumbler, जो market में 800, 900 रुपये में easily मिल जाता है, तो लोगों को interest आएगा, because you know behind the scenes, you know the prices, you know the margins, you know what product you are using, क्या material use हो रहा है, what difference you tried to create। आप कोई franchisee लेते हो क्या किसी bottle को बनाने के लिए, तो there are a lot of things a founder can talk about।
+[28:31] Speaker 1:  And obviously, अगर एक ही founder content create कर रहा है, आपने एक founder के use करके 100 ads create करे हैं, तो लोग फिर उस face से काफी ज़्यादा familiar हो जाते हैं। And when someone is familiar with your face, तो उन्हें automatically आप पर trust होने लगता है।
+[28:42] Speaker 1:  अब देखो, founder का जो content होता है न, वो कुछ भी हो सकता है। Like मैंने basic anatomy तो लिख रखी है, but कुछ भी content हो सकता है।
+[28:48] Speaker 1:  वो UGC बना सकता है, वो statistic ad बना सकता है, वो normal कोई भी before vs after बता सकता है, us vs them बता सकता है। It can talk about, like, a founder can talk about anything, right?
+[28:57] Speaker 1:  But एक basic anatomy क्या होती है? आप सबसे पहले identity reveal करो।
+[29:00] Speaker 1:  Like for example, if you have never created ads, तो आप सबसे पहले बताओ who you are। Then you talk about कि why of any particular problem?
+[29:10] Speaker 1:  How did you solve it? You give a proof।
+[29:13] Speaker 1:  Then you give a promise and you end it with a call to action। Let's understand this with an example.
+[29:17] Speaker 1:  I'll talk in a founder way ताकि आपको थोड़ा सा समझ आए मैं किस बारे में बात कर रही हूँ। मैं इस brand की founder हूँ और मैं इसे 2021 से चला रही हूँ।
+[29:24] Speaker 1:  पिछले साल हमने 3 बार sale की थी, अब बंद कर दी है। क्योंकि sale के बाद कोई full price पे कभी वापस ही नहीं खरीदता।
+[29:30] Speaker 1:  ये रहा हमारा costing sheet। Margin 42% है, 300% नहीं।
+[29:33] Speaker 1:  अब साल भर एक ही price रहेगा, discount का इंतज़ार मत करना। सवाल हो तो DM कर दो, मैं खुद आपको जवाब दे दूँगी।
+[29:38] Speaker 1:  Very basic retargeting kind of structure। But अगर मुझसे पूछा जाए कि एक founder ad क्या, ad किस तरीके से होना चाहिए, तो I always consider एक बहुत अच्छा hook।
+[29:47] Speaker 1:  ऐसा hook जो लोगों को, you know, kind of ऐसा feel कराए कि they have to stop at the video। फिर एक problem के बारे में discussion हो, उस problem का solution दो, उस solution पर अपनी credibility दो।
+[29:56] Speaker 1:  Then talk about the pitch, whatever you want to sell, and then talk about the CTA। ये मैं जो structure है, ये हर एक chapter में आपको बता रही हूँ।
+[30:03] Speaker 1:  Because this works, trust me, I have been into performance marketing for over 6 or 7 years now, and I understand कि market में क्या ad creatives काम करते हैं, क्या नहीं करते हैं। And ये structure मुझे कभी भी disappoint नहीं करता है।
+[30:14] Speaker 1:  I'm very sure it never disappoints anyone। इसका मैं एक example भी दे देती हूँ, when it comes to a founder ad, like for example, uh, इसी के बारे में हम बात कर रहे थे, correct?
+[30:22] Speaker 1:  तो obviously hypothetical है, तो I cannot come up with a good reason कि 5,000 का क्यों है ये product। But I can make something up.
+[30:29] Speaker 1:  Like for example, कि ऐसे tumblers आपको 8,900 रुपये में market में हर जगह मिल जाते हैं, तो why do you need to buy this 5,000 rupees tumbler that we sell on -- brand? 
+[30:37] Speaker 1: ठीक है, now I talk about the problem। देखो, आज के time पर problem tumblers नहीं है, the problem is कि लोगों का water intake proper तरीके से complete नहीं हो पाता है। And water intake complete नहीं होने की वजह से कई सारे health issues होते हैं, which can lead exactly to very serious problems in your health।
+[30:51] Speaker 1:  And that's why we created this ultimate tumbler. And trust me, it's not just a tumbler.
+[30:55] Speaker 1:  अगर आप इसको use करते हो, तो आपका daily water intake complete तो होगा ही। You just have to fill it 3 to 4 times a day and you are done.
+[31:01] Speaker 1:  Next, if you see इसके अंदर एक filter लगा हुआ है, जो harmful जो bacteria and everything आते हैं, उनको filter out कर देता है। We also give you very good options of customizing this thing.
+[31:09] Speaker 1:  जहाँ पर this is Harry Potter, but you can get any character that you want. अगर मैं straw की बात करूँ, तो it has a very great straw, जो कभी टूटती नहीं है।
+[31:17] Speaker 1:  If you आप गिरा भी दोगे, तब भी नहीं टूटेगी। ऊपर आपको एक rubber attachment मिल जाता है।
+[31:20] Speaker 1:  And साथ ही, if you see this, it has a suction strip। इसको आप अगर मैं थोड़ा सा ऐसे नीचे कर देती हूँ न, तो ये बार-बार ऐसे निकलेगा नहीं, because यहाँ पर हमने एक holder लगा के रखा है।
+[31:28] Speaker 1:  And you can easily sip it from here or close it. And also, if I talk about the material, ठंडा पानी ठंडा रहता है, गरम पानी गरम रहता है।
+[31:35] Speaker 1:  And that's why we charge you 5,000 rupees a bottle, because it's not just a tumbler, we made it with a lot of thoughts. It has a copper wire as well, जिससे आपको copper के benefits मिलते हैं।
+[31:44] Speaker 1:  Ice cube है, जिससे आपको पानी आप ठंडा रख सकते हो, कोई भी drink chill रख सकते हो। So it has all the benefits, and that's why we charge you 5,000 rupees. 
+[31:51] Speaker 1: ठीक है, I'm not saying 800, 900 रुपये के tumbler बेकार होते हैं, but you can definitely give this a try, because एक बार ले लिया तो I'm 100% sure you will never have to change your tumbler anymore। So this could be a pitch from a founder who has to जो 5,000 रुपये का tumbler बेचना चाहता है। Now let's talk about 8 founder ad formats that work.
+[32:08] Speaker 1:  Obviously, face to camera, जैसे मैं आपसे बात कर रही हूँ, वही। Cost breakdown करना, अपने factory की work करना, please trust me, अगर आप एक manufacturer या फिर export में कहीं पर काम करते हो, तो भाई ये बनाओ।
+[32:18] Speaker 1:  This is the best ad format that you can ever have. The mistake video, ऐसी mistakes जो लोग कर रहे हैं, मैंने क्यों ये brand create किया, किसी comment का reply करना, आपकी team आपका interview ले ले, या फिर कोई refusal हो जो आप नहीं अपने brand या फिर product में करना चाहते हो, you can talk about that।
+[32:32] Speaker 1:  There are a lot of ways जिसमें एक founder बात कर सकता है, you just have to figure out कि वो founder किस तरीके से बात करेगा। And also, there is one more problem, I personally think, कि हर एक founder camera के सामने न, बहुत ही ज़्यादा natural नहीं रह पाता है, because camera fear होता है।
+[32:43] Speaker 1:  तो I personally don't think कि founder को उससे कोई problem होनी चाहिए, because सामने वाले बंदे को भी पता है न कि अगर वो founder है, तो वो camera के सामने shy होगा ही। तो whatever you create, you create, वो देखने में काफी ज़्यादा organic और natural ही लगेगा।
+[32:54] Speaker 1:  अब देखो, यहाँ पर मैंने structurize तो कर रखा है कि founder-led D2C brand, edtech platform services, food, skin care, SaaS, fashion, local home and services, fintech, healthcare, real estate, larger FMCG brands। ये तो मैं हटा देती हूँ, because इनका ad run करने का थोड़ा weird structure रहता है।
+[33:09] Speaker 1:  But when it comes to all this, सब में आपको अच्छी performance मिलेगी। Any category you are in, कोई भी category में आप हो, जो मैंने यहाँ पर mention भी नहीं की हो, तब भी I'm 100% sure आपको अच्छी performance मिलेगी।
+[33:18] Speaker 1:  Now let's look at some of the founder ads. तो you can come to shadi.com for free।
+[33:22] Speaker 1:  तो वो basically एक question का answer कर रहा है, shadi.com free or paid। आप register भी free कर सकते हैं, you can see unlimited matches for free।
+[33:30] Speaker 1:  तो बहुत कुछ आप without paying कर सकते हैं। Very simple ad, एक founder ने बस एक question का answer दिया।
+[33:36] Speaker 1:  And obviously, shadi.com is a little big brand. Now let's see इसका।
+[33:40] Speaker 1:  सीधा साफ मैं बोलना चाहूँगा, मत खरीदो कोर्स। आप मत खरीदो।
+[33:43] Speaker 1:  अगर आपको कोर्स नहीं समझ में आता है, आप मत खरीदो। কেবল পড়ার কথাই নয়, এবার কথা আমি পড়েছি অক্ষমর।
+[33:48] Speaker 1:  আরো পিডব্লিউ অক্ষম, অক্ষমের কঠিন সমস্যা, খোদাই লগন আছে। এই কঠিন সমস্যা পিডব্লিউ অক্ষমের ক্লাস নাইন টেনোর ভাবে রয়েছে, দুটা বিষয়।
+[33:55] Speaker 1:  As you can see, the language is asms, but founders के perspective में बात की जा रही है कि what physics वाला is doing, which is a good ad। Now this is सीरियस question।
+[34:05] Speaker 1:  Give me one reason, one reason why you shouldn't subscribe to Webega. It's too expensive.
+[34:10] Speaker 1:  If you can't afford 1999 for the entire year for your growth, then my friend, that's a lame excuse. So he's talking about the price point.
+[34:18] Speaker 1:  As I mentioned, कि अगर आपको कभी-कभार लगता है कि आप justify नहीं कर रहे हो, तो आप as a founder उसको बहुत सही तरीके से clear up कर सकते हो। Now let's look at some of the graphic ads.
+[34:26] Speaker 1:  जैसे ये founder का ही ad है, Beastlife के founder हैं, ये physics वाला के founder हैं, and ये Palmonas के founder हैं, जिसमें photos use करके बस credibility build करने के चक्कर में इन्होंने ये graphic ads बनाए हैं। कुछ मैंने founder ads बनवाए थे, let's see।
+[34:36] Speaker 1:  अबे ये किसने लिखा यार। ये He is basically my co-founder.
+[34:40] Speaker 1:  तो we started an agency which is called Purple Box, जहाँ पर हम UGC ads की services देते हैं। So I created a mock ad with him.
+[34:46] Speaker 1:  ये reel आपने पहले देख ली होती तो। अबे ये किसने लिखा यार, फेंको इसे।
+[34:50] Speaker 1:  और हाँ, आप Facebook ads चला रहे हो, but results बिल्कुल नहीं आ रहे, और आपका cost per purchase ऐसे ऊपर जा रहा है। लेकिन इसे control करने का तरीका है ad creatives।
+[34:58] Speaker 1:  अब तो Android Meta update के बाद में Meta खुद कह रहा है कि without ad creatives आप grow ही नहीं कर पाओगे। Ads वही चलते हैं जो आपके viewer के brain में curiosity के साथ-साथ उनसे relate भी कर पाएँ।
+[35:05] Speaker 1:  And we know how to do it. मैं 6 साल से marketing industry में हूँ, और हमने multiple brands को।
+[35:09] Speaker 1:  As you can see, it's purely founder ad. जहाँ पर हमने शुरू में थोड़ा सा visual hook का use किया है, but at the end of the day properly बताया है, with his experience, कि उसके experience से हमने clients को किस तरीके से cater किया है।
+[35:18] Speaker 1:  And how you can avail our services too. And it's a very basic ad.
+[35:21] Speaker 1:  Now let's look at this. सर क्लियर सोनार प्लान कर रहे हैं, तो ये वीडियो end तक जरूर देखिए।
+[35:25] Speaker 1:  Factories, housing, सभी जगह आपको solar installation देखने के लिए मिल जाते होंगे। पर solar plant लगवाना एक long-term decision है, जहाँ client price से ज्यादा trust मांगते हैं।
+[35:32] Speaker 1:  और उन्हें एक ऐसा brand चाहिए होता है जो large installation के साथ 24/7 support दे सके। इसलिए JMD Solar Energy, भोपाल की एक मात्र ऐसी कंपनी है जो hot drip structure का use करती है।
+[35:40] Speaker 1:  क्योंकि ये होता है rust-free, और साथ ही आपको इस पर lifetime warranty भी मिलती है। ये दो founders हैं, and trust me, इनसे जब हमने video shoot करवाई थी, they did not know how to be in front of the camera, but they did pretty well.
+[35:49] Speaker 1:  Now let's look at this. Instagram पर ऐसे ही aesthetic views देखकर आपका भी मन करता होगा कि मेरा भी घर ऐसे ही बने।
+[35:53] Speaker 1:  पर इन गलतियों की वजह से आप कभी नहीं कर पाओगे। अब suppose आप shop पर जाकर कोई color पर mistake करें, उसको wall पे लगाते हैं, तो lighting के combination के साथ वो different color दिख सकता है।
+[36:01] Speaker 1:  तो उसके actual color के लिए, wall के size के लिए, आप expert की सलाह से काम करेंगे, तो वो ज्यादा better होगा। मुझे इस industry में 8 साल हो गए हैं, और हम 200 से ज्यादा projects complete कर चुके हैं।
+[36:09] Speaker 1:  और हमने home interior से लेकर commercial spaces जैसे कि office, restaurant, showrooms पर भी काम किया हुआ है। Hi, I'm Nithesh, founder of DesignBricks Interior, और मैं आपको कह सकता हूँ कि हमारे 200 से भी ज्यादा clients हमारी services से satisfied हैं।
+[36:19] Speaker 1:  और अगर आप भी बहुत अच्छा घर बनाना चाहते हो, तो खुद से नहीं, बल्कि experts की help लो। Free consultation चाहिए, तो नीचे दिए link पर click कर लेना।
+[36:25] Speaker 1:  Pretty perfect ad। लोग एक interior designing के लिए एक अच्छा ad है, because directly founder इस चीज़ के बारे में बता रहा है।
+[36:31] Speaker 1:  He is talking about the mistakes कि लोग आजकल Instagram पर देख-देख करके कैसे DIY करते हैं, and ultimately वो fail हो जाता है। And then he talks about कि interior designing why it is important।
+[36:38] Speaker 1:  लोगों को लगती है important नहीं है, but why it is। And then he pitches himself कि he is a founder, has been into experience for 8 years, has done this, this, this, this, and if you need a free consultation, you can book now.
+[36:47] Speaker 1:  बहुत ही अच्छा ad है ये। अब देखो, कई बार ऐसा होता है कि एक founder के पास I'm pretty sure कि time नहीं रहता, like वो content नहीं बना सकता।
+[36:53] Speaker 1:  तो कुछ ऐसा content pieces होते हैं जो आप genuinely create कर सकते हो, that doesn't take a lot of time। जैसे आप customer support दे रहे हो, तो आपने उसको live record कर लिया।
+[37:00] Speaker 1:  Comment and DMs का आपने reply कर दिया। Real business decisions लेते वक्त आपने उसको live record कर दिया।
+[37:04] Speaker 1:  Sales call कर रहे हो, तो आपने उसको live record कर लिया। Mistakes को आपने फटाफट mistakes को बता दिया।
+[37:09] Speaker 1:  Monthly आपने batching create कर ली कि आपने एक महीने में 20 ad बनाने हैं, तो आपने वो बनाने ही हैं। Like you can add it in your SOPs ताकि आप founder ads में अच्छी तरीके से scale कर सको।
+[37:20] Speaker 1:  अब देखो, ये बात तो कर चुके हैं। ऐसा नहीं लगना चाहिए कि CEOs कोई script पढ़ रहा है।
+[37:23] Speaker 1:  कोई उसमें आपने अपने बारे में नहीं बताया है। और कई बार ऐसा हो सकता है कि आप as a founder सिर्फ अपने बारे में बता रहे हो।
+[37:28] Speaker 1:  आप वो चीज़ें promise कर रहे हो जो आप actually नहीं कर सकते हो। करके आप 3 दिन बाद या 4 दिन बाद disappear हो गए, तो आपकी कोई face value नहीं create हुई।
+[37:35] Speaker 1:  आपको वो भी नहीं करना है। And अगर आप numbers की बात कर रहे हो, तो you should have a proper statistic, because as a founder अगर आप research नहीं हो, तो फिर आपके face के ऊपर कोई value नहीं बनेगी।
+[37:44] Speaker 1:  Please try founder ads, because मुझे ऐसा लगता है that is one of the best converting ad structure right now. And now we will be moving on to the next ad type, जहाँ पर हम एक और नए structure की बात करेंगे।
+[37:53] Speaker 1:  तब तक के लिए, bye-bye।
+[38:19] Speaker 1:  Single file index GIC।
+[38:26] Speaker 1:  आता ते लॉग आठ जण करायचं तर वनम सकाळची दांडी ओके.
+[38:50] Speaker 1:  मग अनेक कार्यकर्ता लॉगआउट या मग. करनी है कि उसमें जो person है।
+[38:55] Speaker 1:  And testimonial ads मुझे पता है, आप लोगों को obviously पता होंगे क्या होते हैं। लेकिन आप लोग इसे अभी भी create नहीं कर रहे हो, I'm 100% sure.
+[39:01] Speaker 1:  So I'll just talk about it. देखो, testimonial ad basically ऐसे होते हैं जहाँ पर आप अपने users से या फिर reviews लेते हो, video reviews जो आप ad पर run करते हो।
+[39:09] Speaker 1:  And ये आज के time पर retargeting campaigns के लिए one of the best ad type structure है, because इससे trustability, honesty, authenticity, credibility ये चारों की चारों चीज़ एक साथ ही gain हो जाती हैं। And आपको उसके लिए अलग-अलग type of ads run करने की जरूरत नहीं पड़ती है।
+[39:23] Speaker 1:  इसलिए I'm emphasizing कि testimonial ads आज के time पर बहुत ही important role play करते हैं। जहाँ पर एक ऐसा ad जहाँ पर real customer claims बताता है, rather than you।
+[39:32] Speaker 1:  और इससे क्या होता है, जो सामने वाला user होता है, वो testimonial या फिर अपने जैसे इंसान को देखकर feel करता है कि भाई true, उसको अगर ये वाली problem solve हुई है, तो definitely मेरी भी हो सकती है। And at the end of the day, आपको conversions मिल जाती हैं।
+[39:44] Speaker 1:  And also, testimonial को आप ये मत समझो कि वो आप brag करने के लिए run कर रहे हो। Testimonial is basically an evidence, जिससे आप लोगों को aware कर सकते हो कि it's not, we are not fake, we already have customers who are getting dash dash results from it.
+[39:56] Speaker 1:  And आपको भी वही same results मिल सकते हैं। And that's why testimonial use करना जरूरी है।
+[39:59] Speaker 1:  अब testimonial में एक चीज़ आपको हमेशा make sure करनी है कि उसमें जो person है और उसका जो नाम है, उस person का नाम और वो क्या करता है। Like उसका थोड़ा सा background check बहुत ज्यादा important है।
+[40:10] Speaker 1:  Because आप तो चाहो तो अपने teammate को भी लेकर ये review बना सकते हो, correct। But अगर आप उसमें real name और उसका थोड़ा सा background check add कर देते हो, तो लोगों की trustability और increase हो जाती है।
+[40:20] Speaker 1:  And एक ऐसा doubt जो उसे feel हो रहा था, like for example, अभी हमने एक ad देखा था, I guess पिछले में, I guess before vs after ads था, जहाँ पे वो लड़की बोलती है कि 26 days में इससे pimple cure हो जाएगा। I never believed it until I tested it out.
+[40:32] Speaker 1:  तो उसने एक doubt clear किया। ऐसी वो customer का एक doubt होना चाहिए जो उसकी solve हुई हो, उस product या फिर service से, वो include करना बहुत ज्यादा important है।
+[40:40] Speaker 1:  और एक specific result, एक specific result बहुत जरूरी है कि वो जो doubt था, उससे क्या problem solve हुई है, and how was it solved। अब देखिए, UGC ads के बहुत सारे format होते हैं, but UGC ads और testimonial ad में difference होता है, because testimonial ads आप ज्यादा अलग variations में नहीं create कर सकते हो।
+[40:56] Speaker 1:  अब देखो, simple है, customer के word, आपके words को तो outweigh करेंगे ही, because people want to know कि भाई जिसने use किया है, उसके क्या reviews हैं। तो इससे क्या होता है, लोगों को ये तो चला ही जाता है उनके दिमाग से कि आपने झूठ बोला है। 
+[41:07] Speaker 1: ठीक है। And इसके बाद आप जो भी उनके doubts clear करते हो customer reviews से, उससे आपकी credibility increase हो जाती है। आप specific results बताते हो, like for example, 26 days में आपके pimple हट जाएंगे।
+[41:20] Speaker 1:  That's a very broad result. लेकिन अगर आप इसको specific बनाते हो कि मेरी oily skin होने के बावजूद भी 15 days के अंदर-अंदर मुझे अपने skin में results दिखने लगे, that is very specific.
+[41:28] Speaker 1:  तो आप हर एक customer के specific results को use कर सकते हो। And जितनी ज्यादा similarity होती है सामने वाले बंदे की, जैसे for example, दामिनी है जो भोपाल में रहती है, उसकी age 25 है, उसने एक acne cream try किया, और वही जो आपकी audience है 25 है, tier 2 city में रहती है, and she is a female, तो वो कहीं ना कहीं मुझसे as a customer काफी ज्यादा relate करेगी।
+[41:52] Speaker 1:  तो इस तरीके से आप similarity भी बहुत easily create कर सकते हो। अब देखिए, testimonial ad बनाने के लिए भी ना user के बहुत सारे versions होते हैं।
+[41:59] Speaker 1:  Like कई ऐसे user होंगे जिसने तुरंत खरीद लिया हो। कई ऐसे होंगे जो आपके long-term user हैं।
+[42:03] Speaker 1:  तो सबके जो reviews होते हैं ना, वो भी अलग-अलग type के होते हैं। And that's why I have mentioned it here.
+[42:08] Speaker 1:  एक ऐसे users होंगे या फिर ऐसे customers होंगे जिन्होंने was a little skeptic, like मतलब थोड़े doubtful थे कि उन्होंने खरीद तो लिया, but कैसे results आएंगे। And उससे क्या होता है, ये जो objection create होगा उस user से, but बाद में जब product में दिखेगा कि भाई नहीं, it genuinely worked, तो cold traffic और crowded categories के लिए बहुत अच्छा काम करेगा।
+[42:24] Speaker 1:  एक switcher हो सकता है कि किसी user को ये product use कर रहा हो, लेकिन बाद में उसने आपके product पर switch किया और उसको instantly results दिखने लगे। And ये हर एक funnel audience के लिए काम कर जाएगा।
+[42:33] Speaker 1:  एक हो सकता है आपका long-term user जो बता रहा है कि वो 3 साल से use कर रहा है, क्या और results में कोई भी dip आया है। उससे क्या होगा, आप उससे अपने subscription long-term user को और ज्यादा retain कर सकते हो।
+[42:42] Speaker 1:  एक हो सकता है filmed interview, आप थोड़ा बहुत ही aesthetic बना रहे हो, but वो जो interview है, काफी ज्यादा filmed है, जिसमें आपका depth है, अच्छा studio and everything, और आप उसे बहुत professionally shoot कर रहे हो। एक हो सकता है expert और professional, like for example, आपका skin care है, आपने एक derma से customer review ले लिया कि वो derma भी यही use करती है।
+[43:00] Speaker 1:  तो health, finance, और technical products के लिए बहुत ज्यादा अच्छा है। एक होता है unsolicited review screenshot, जहाँ पर आपने उनको नहीं बोला कि भाई आप हमारे product या service को review दो, but उन्होंने automatically दिया है।
+[43:09] Speaker 1:  आप उनसे बात करके उसे ad पर चला सकते हो, वो भी बहुत अच्छा काम करता है। अब देखो, testimonial ads बनाने का ना सबसे simple तरीका मैं आपको बताती हूँ।
+[43:17] Speaker 1:  सबसे पहले you need to find a doubt. आप सबसे पहले अपने customer से पूछो कि उनको क्या doubt था।
+[43:21] Speaker 1:  Like for example, accounting app for small retailers. सच बताऊँ तो मुझे लगा ये भी एक ही कोई और app है, मैं अभी इसे leave कर दूँगा।
+[43:29] Speaker 1:  That is a doubt. So you start with a doubt.
+[43:32] Speaker 1:  Who they are? मैं इंदौर में किराना store चलाता हूँ 11 साल से।
+[43:35] Speaker 1:  वो है कौन? Who they are?
+[43:40] Speaker 1:  Then हर रात 2 घंटे सिर्फ हिसाब मिलाने में निकल जाते थे कि before उसको क्या होता था। 
+[43:44] Speaker 1: ठीक है। उसके बाद उसकी life में turn आया। भाई ने कहा 1 महीने try कर ले, फिर बंद कर देना।
+[43:48] Speaker 1:  मैंने turn लिया अपनी life में। फिर मुझे result।
+[43:51] Speaker 1:  Result क्या मिला उस customer को? अब 20 मिनट लगते हैं, पिछली GST filing में एक भी mismatch नहीं आया।
+[43:56] Speaker 1:  Who it suits? Rose entry करते हो तो काम की चीज़ है, बड़े businesses के लिए छोटा पड़ सकता है।
+[44:01] Speaker 1:  तो किसके लिए काम के लिए है? Small businesses के लिए, जहाँ पर आपका CTA end हो गया।
+[44:05] Speaker 1:  तो मतलब you start with a doubt. वो doubt से आपने start किया, उसके बाद आप हो कौन?
+[44:08] Speaker 1:  आपको क्या problem होती थी? आपने क्या switch किया?
+[44:11] Speaker 1:  आपको क्या result मिले? और ये किसके लिए है?
+[44:13] Speaker 1:  That is your whole script. Testimonial ads almost हर एक category के लिए काम करते हैं, but अगर मैं सबसे best categories बताऊँ तो वो courses हैं, services हैं, SaaS है, insurance है, health and supplements हैं, home, fitness, fashion and apparel, and e-commerce and D2C।
+[44:26] Speaker 1:  बाकी real estate वगैरह में भी काम करते हैं, but real estate क्या है, बहुत ही ज्यादा high ticket product हो जाता है। तो real estate में क्या है, वो आपकी awareness build करने में, trustability में help तो करेंगे, but conversions बहुत ज्यादा great नहीं लाकर देंगे।
+[44:37] Speaker 1:  But बाकी जो categories मैंने ये आपको बताई, इसमें ये काफी अच्छे काम करते हैं। अब कुछ हम फटाफट से examples देखते हैं testimonial ads के।
+[44:43] Speaker 1:  अगर dark spots हैं, किसी भी वजह से, सन की वजह से, प्रेगनेंसी की वजह से, हार्मोनल चेंजेस की वजह से, और जा ही नहीं रहे हैं, तो ये पोस्ट आपके लिए है। मुझे अभी 3 हफ्ते हो चुके हैं ये use करते हुए, ये मिला के है, पर्सनल टच की, और मैंने actually difference देखा है अपनी skin में।
+[44:56] Speaker 1:  मुझे बहुत डार्क स्पॉट्स और यहाँ पे ना छाइयाँ, ये सब हो गया था। तो ये ad जैसे कि आपने देखा, तो ये ना basically वैसा type of ad है जहाँ पर हम product test करके बता रहे हैं कि हम इतने समय से use कर रहे हैं, and this was the result।
+[45:07] Speaker 1:  तो ये basic एक customer testimonial है, कोई ज्यादा fancy setup में shoot नहीं किया है, simple customer का testimonial जो उन्होंने ad पर run किया है। एक मैंने अभी आपको बताया था कि आप उसे बहुत ही filmy तरीके से interview करो, like थोड़ा सा professional दिखना चाहिए।
+[45:18] Speaker 1:  एक बार वो ad देखिए आप। अब इसकी जरूरत नहीं है।
+[45:23] Speaker 1:  टीनेज हिट करने के बाद मैं थोड़ा hair fall मैंने महसूस किया था। मैं testimonial videos देखा था कुछ।
+[45:26] Speaker 1:  That moved me to try for tria. बाल झड़ने में टाइम लगा है, उगने में भी लगेगा ना।
+[45:30] Speaker 1:  First month I was diligently following the process. particularly fourth month के end के बाद में मैंने results देखना start किया। Confidence बहुत ज्यादा बढ़ जाता है।
+[45:36] Speaker 1:  Take the free hair test, build your customized routine. Proper shoot किया हुआ testimonial है, and it looks great।
+[45:41] Speaker 1:  आप इसमें ये भी try out कर सकते हो। And ये वाला ad देखते हैं अब।
+[45:44] Speaker 1:  We asked some questions to a few parents about their experience with Alpha Ma'am, and here is what they have to say. What change did you observe in your child before and after joining Alpha Ma'am's tuition?
+[45:54] Speaker 1:  Before, my son was facing lot of trouble. उसको इतनी difficulty हो रही थी, उसके basic concepts जो थे वो बिल्कुल clear नहीं थे।
+[46:00] Speaker 1:  लेकिन अभी Alpha Ma'am को join करने के बाद उसके concepts धीरे-धीरे clear हो रहे हैं। What makes Alpha Ma'am's teaching style different from the rest?
+[46:07] Speaker 1:  Actually, Alpha Ma'am का जो teaching method है, वो बाकी सब से बहुत ही different है। तो इसमें customer का testimonial use किया है for a tuition teacher, which is a pretty great format.
+[46:16] Speaker 1:  तो ये आप try कर सकते हो। Static ads में देखो, before vs after, इसको क्या हुआ, Tata 1MG का ad है कि exactly किस तरीके से उसका weight loss हुआ।
+[46:23] Speaker 1:  Two problems, two activities, one face wash. पहले क्या था, अब क्या हो गया।
+[46:26] Speaker 1:  Follow these steps for beard growth. Now let's see some of the ads that we created.
+[46:30] Speaker 1:  लड़का हो के कौन skin care करता है, ऐसा पहले मुझे भी लगता था। बस पानी से मुँह धो लो, and you are good to go.
+[46:35] Speaker 1:  और धीरे-धीरे मेरी skin पे acne आने लग गया, दाग spots आ गए, मेरी skin एकदम ही खराब हो गई। We are talking about the problems here.
+[46:40] Speaker 1:  मैं अपनी skin से इतना ज्यादा परेशान हो चुका था कि काफी research करने के बाद मैंने ये product ढूंढ निकाला। सोचा एक बार try करके देखूँ।
+[46:45] Speaker 1:  सच बताऊँ तो मुझे इस product से कोई ज्यादा खास expectations नहीं थीं, but एक दो हफ्ते बाद मुझे सच में visible results देखने को मिल गए थे। अब ये कोई overnight magic तो है नहीं।
+[46:52] Speaker 1:  इसे रोज consistently use करोगे तो results तो देखने को मिलेंगे ही ना। अब मैं रोज इतनी सारी steps वाला skin care तो कर नहीं सकता हूँ।
+[46:57] Speaker 1:  तो ये basically एक men skin care के लिए था। अब ये देखते हैं।
+[47:00] Speaker 1:  मेरा नाम सिद्धांत है। Hi, मेरा नाम रितिक है।
+[47:02] Speaker 1:  And my name is Priya. स्पेक्स बचपन से ही मेरी life का part रहा है।
+[47:05] Speaker 1:  मेरा mostly काम screen पर ही होता है, तो मुझे चश्मा दिन भर ही पहनना पड़ता है। I just like experimenting with my looks.
+[47:09] Speaker 1:  That's why I wear specs. पर main problem तो ये थी कि heavy frames और screen use करने के बाद जो strain होता है।
+[47:14] Speaker 1:  And my same boring side. Long time पहना तो बहुत ही uncomfortable लगता था।
+[47:17] Speaker 1:  And very limited options. फिर मैंने lens card try किया।
+[47:20] Speaker 1:  Difference काफी clear था। I mean, no comparison was left.
+[47:23] Speaker 1:  And options हजार से भी ज्यादा। और सही में specs इतने lightweight हैं कि मैं इसे पूरे दिन पहन सकता हूँ।
+[47:27] Speaker 1:  Blue cut lenses हैं, तो heavy screen time के बाद भी कोई effect नहीं पड़ता था। इतने कम prices में इतने सारे options मिलना was the best part।
+[47:33] Speaker 1:  Like अब मैं जब specs पहनता हूँ ना, तो वो देखने में भी बहुत ज्यादा stylish लगता है। अब ये मेरे routine का part हो गया है।
+[47:37] Speaker 1:  More like my work partner. I mean, hands down.
+[47:39] Speaker 1:  One of the coolest things in my outfit right now. Style हो, comfort हो, या daily use, बात सिर्फ specs की नहीं, right choice की होती है।
+[47:44] Speaker 1:  And that's what lens card brings. तो ये kind of lens card के लिए हमने बनाया था, जिसमें customer के testimonial हैं, सारे benefits की बात की है कि क्या change आया उनकी life में।
+[47:52] Speaker 1:  Always make sure करिए कि जब भी आप कोई testimonial edit करवाते हो, तो उसकी editing बहुत ज्यादा prof मत रखिए, until and unless आप उसको shoot भी उसी तरीके से करवा रहे हो। Simple editing रखिए।
+[48:00] Speaker 1:  कुछ editing guidelines हैं जो आपको इस drive, मतलब इस video के नीचे link पे मिल जाएगी, एक PDF मिल जाएगा, which you can definitely check it out. And दो-तीन चीज़ें हैं, जैसे testimonial ads बना रहे हो, तो make sure करिए कि आप उसको बहुत ज्यादा script ना करवाओ।
+[48:11] Speaker 1:  आप अपने customer को बोलो, एकदम honest और एकदम raw opinion दे। बाकी फिर आप उसे post-editing में change कर सकते हो।
+[48:16] Speaker 1:  कहीं पर कोई numbers use ना करे कि मेरे को 4 दिन में, 5 दिन में ऐसे results देखने को मिल गए। Customers को script मत करो।
+[48:21] Speaker 1:  सारे answers को stitch करने की कोशिश मत करो। Let the answer be one.
+[48:25] Speaker 1:  एक product, उसकी एक problem, उसका एक doubt, उसका एक solution, और उसका एक किस तरीके से उसने उसकी life को change किया, सिर्फ इतना आप customer testimonial में use करो। I hope आपको समझ आ गया होगा कि testimonial ads कैसे create करते हैं।
+[48:35] Speaker 1:  अब हम मिलेंगे next chapter में, जहाँ पर हम बात करने वाले हैं एक और बहुत ही crazy ad structure के बारे में, जो इस समय बहुत अच्छे चल रहे हैं। मिलते हैं next chapter में, तब तक के लिए bye-bye।
+[48:49] Speaker 1:  Podcast ads में genuinely ज्यादा अच्छी conversion चाहिए। Hi everyone, and welcome to our new chapter.
+[48:55] Speaker 1:  And आज हम जिस high converting ad structure के बारे में बात करने जा रहे हैं, that is podcast ads, and I'm pretty sure आपने कई सारे brands को इस type के ads run करते हुए देखा होगा, and मुझे personally ऐसा feel होता है कि podcast ads, you know, क्यों काम करते हैं। The reason is pretty simple.
+[49:08] Speaker 1:  जब मैं आपसे बिल्कुल directly face to camera बात कर रही हूँ, तो आपके सामने एक responsibility आ जाती है, in order to hear me, या आपको थोड़ा सा forceful महसूस होता है। लेकिन when I'm talking in this angle, मैं इस angle में अगर बात कर रही हूँ, और आपको ऐसा लग रहा है कि मैं किसी second बंदे से बात कर रही हूँ, तो ऐसी situation में क्या होता है, आपको बहुत ज्यादा force feel नहीं होता है, in order to buy that product।
+[49:25] Speaker 1:  देखने में बहुत ज्यादा organic और authentic लगता है, and that's why podcast ads आजकल बहुत ज्यादा conversions लाकर दे रहे हैं। Obviously, आपको अभी मुझे लगता है ऐसा feeling आ रहा होगा कि podcast ads के साथ ऐसा issue हो चुका है कि कई सारे brands के लिए ये performance नहीं दे रहे हैं, but कुछ ऐसी categories हैं जिनके लिए ये बहुत अच्छे convert करके दे रहे हैं।
+[49:40] Speaker 1:  तो देखो, podcast ads simply होते क्या हैं कि आपने कोई podcast shoot किया हो, कोई लंबी conversation हो, उसमें से आपने मान लो दो-तीन clips को cut short कर लिया, और उसको as a ad run किया। अब obviously हर एक बंदा podcast shoot नहीं कर सकता है, तो usually लोग fake करते हैं।
+[49:54] Speaker 1:  मतलब मेरे सामने कोई नई भी बैठा है, उसके बावजूद भी मेरा जो camera का angle है, वो change हो जाता है। लगता ऐसा है कि मैं किसी बंदे से बात कर रही हूँ, but it's all fake, in just to make कि वो लग podcast रहा है, but वो होता podcast नहीं है।
+[50:04] Speaker 1:  And ये style काफी ज्यादा काम कर रहा है। तो आप भी podcast ads बना सकते हो, जिसे बनाने के दो versions होते हैं।
+[50:09] Speaker 1:  देखो, real create करना हर एक situation में possible नहीं होता है। But if you have to fake your podcast, what do you exactly do?
+[50:15] Speaker 1:  आपको ना सबसे पहले आप कुछ ऐसा कर सकते हो कि आप ही एक single person हो podcast पर, and you are speaking to someone else। और कुछ ऐसा हो सकता है कि एक बंदे ने आपसे question पूछा, और आप उसका answer कर रहे हो।
+[50:25] Speaker 1:  तो इन दो तरीके से आप एक fake podcast ad create कर सकते हो। और usually क्या होता है, podcast ना a little serious in nature होते हैं, तो whatever monologue you say, वो सुनने में काफी ज्यादा serious लगता है, तो लोग आपकी बातों को, आपके ad को थोड़ा seriously लेने लगते हैं, जिससे आपकी target audience ना बहुत ही ज्यादा define हो जाती है, and ultimately आपको better conversions आती हैं।
+[50:41] Speaker 1:  And देखो, मुझे ऐसा लगता है कि अगर आपको podcast ads में genuinely ज्यादा अच्छी conversion चाहिए, तो आप अपने साथ एक और person को रखो, जो या तो आपकी बातें सुन रहा है, या आपसे कुछ question कर रहा है, जिससे वो और भी ज्यादा realistic लगे। Questions वो ऐसे पूछे जो बहुत ही ज्यादा pitchy questions ना हो।
+[50:54] Speaker 1:  ऐसे questions हों जो educational हों, और at the end उसमें आपका product या फिर service push हो। अब देखिए, हम हर chapter में mostly बात करते ही हैं कि कोई भी जो ad है, जो भी मैं आपको high converting ad structures बता रही हूँ, वो perform करते क्यों हैं।
+[51:05] Speaker 1:  इसके पीछे का reasons जानना बहुत ज्यादा important है, in order for you to understand कि आपके brand के लिए क्या suitable होगा। अब देखो, first of all, the eavesdropping effect।
+[51:12] Speaker 1:  Usually क्या होता है ना, जैसे मैंने आपको बताया कि अगर आप second POV से सामने वाले से बात करते हो, तो उसको ज्यादा forceful महसूस नहीं होता है, और वो आपकी बात को comparatively ज्यादा जल्दी सुन लेता है। And इसी के साथ-साथ कुछ ऐसे questions होते हैं आपकी industry के, या फिर कुछ ऐसी चीज़ें होती हैं।
+[51:25] Speaker 1:  कई बार ऐसा होता है ना, like for example, आपको नहीं बताना कि आपके brand में जो products मिलते हैं, वो काफी ज्यादा affordable हैं। Correct?
+[51:31] Speaker 1:  तो ये जो questions हैं, आप बताना तो चाहते हो, but आपको अपने मुँह से बोलना ज्यादा comfortable नहीं लगता है। But when you do a podcast style ad, वहाँ पर आपको ये questions पूछने की जरूरत नहीं पड़ती है, या बताने की जरूरत नहीं पड़ती है audience को।
+[51:41] Speaker 1:  आपका जो host होता है, वो सारे objections को carry करता है, and finally आप उनका सिर्फ answer करते हो, जिससे आपके ऊपर की जो वो होती है ना, accountability, वो कम हो जाती है। And the third is very strong and very simple.
+[51:51] Speaker 1:  Podcast ad में ना आपकी जो सबसे ज्यादा चीज़ increase होती है, authority। देखो, simple सी बात है, अगर आपको कोई podcast पर बुला रहा है, तो इसका मतलब simple सा रहता है कि सामने वाले बंदे को ऐसा perceive होता है कि आपके पास already made authority है, that's why आप किसी podcast पर जाकर बात कर रहे हो।
+[52:04] Speaker 1:  तो अगर आप podcast style ads create करते हो, तो already authority feel होने लगती है कि इस सामने वाले person के पास authority है, authority है, तो trustability है, and finally conversion है। And इसके बाद जो सबसे बड़ा reason आता है ना, वो बहुत ही ज्यादा simple सा है।
+[52:16] Speaker 1:  आपने YouTube पर जाकर आप mostly notice करो, podcast के जो channels होते हैं, और उस पर कितने views आते हैं। Like एक conversation जो 50 minutes, 8 minutes, डेढ़-दो घंटे की होती है, उस पर आपको millions में views मिल जाते हैं, because लोगों को conversation सुनना पसंद होता है।
+[52:29] Speaker 1:  अब वो conversation अगर आप छोटे-छोटे clips में काट करके as an ad use करते हो, तो वो automatically और अच्छे perform करते हैं। अब देखो, बहुत simple difference है podcast और straight talking head videos में।
+[52:38] Speaker 1:  क्या difference है? Let's check it out।
+[52:39] Speaker 1:  कि देखो, for example, viewers की position से क्या होता है? कि ऐसा लगता है कि आप directly एक conversation में हो, direct pitch नहीं कर रहे हो।
+[52:46] Speaker 1:  Attention आपको hook create करने की जरूरत नहीं पड़ती, because podcast में attention naturally higher रहता है, rather than direct talking head videos। और अगर आपको शुरुआत की audience, top of the funnel audience के लिए, और middle of the funnel audience के लिए ads create करने हैं, तो podcast ads आपके लिए एक बहुत ही अच्छा option हो सकता है।
+[53:01] Speaker 1:  अब question आता है कि एक podcast style ad create कैसे किया जाता है? देखो, बहुत ही ज्यादा simple है।
+[53:05] Speaker 1:  आप कभी भी कोई podcast style ad बनाओ, तो you first have to analyze कि भाई, question क्या होगा? ऐसा कौन सा मेरे product के around question है, जो उसके बारे में लोगों को सुनने में बहुत ज्यादा मजा आएगी, वो बहुत ज्यादा interested feel करेंगे।
+[53:15] Speaker 1:  Like for example, वापस यही लेते हैं, because अभी मेरे पास यही product है, ये Tumblr। ये Tumblr में ऐसा क्या है जो बहुत ही ज्यादा interesting लगेगा लोगों को सुनने में?
+[53:22] Speaker 1:  जैसे एक question ये हो सकता है कि आजकल Gen Z इस चीज़ का बहुत ज्यादा use कर रहे हैं, but why do you think इसकी popularity इतनी ज्यादा gain हो गई? That is a very good question, because ये एक ऐसा product है जो सिर्फ aesthetic के लिए है, इसका कोई exactly real life use case नहीं है, लेकिन फिर भी ये बहुत ज्यादा बिकता है।
+[53:36] Speaker 1:  उसके बाद जो उस product का founder होगा, या फिर जो भी उस podcast में answer देगा, वो उस specific question का answer कर सकता है। तो you will first have to figure out a question जो आप अपने podcast ad में पूछना चाहते हो, या फिर चाहते हो कि host आपसे पूछे।
+[53:48] Speaker 1:  फिर ना, मुझे personally ऐसा लगता है कि मैंने बहुत सारे podcast ads देखे हैं, बहुत सारे brands के, but वो देखने में ना realistic नहीं feel देते हैं, because उन्होंने create fake ही किया होता है, लेकिन because उनके videos में कोई reaction नहीं होता, कुछ नहीं होता, तो वो देखने में बड़े fake लगते हैं। तो always make sure कि अगर आपसे किसी host ने कुछ question पूछा है, उसके बाद आपको एक honest reaction add on करना है, ऐसा reaction जो देखने में लगे कि realistic हो।
+[54:09] Speaker 1:  That is your face expression. Like कोई मुझसे कुछ question पूछ रहा है, तो मैं पहले उसको उस पर react करूँगी, उसके बाद अपना answer दूँगी।
+[54:14] Speaker 1:  तो once you have an honest reaction, आप उसका answer करोगे। 
+[54:17] Speaker 1: ठीक है? उसके बाद जो आपका host होगा, वो basically उस specific चीज़ से या तो agree करेगा, या disagree करेगा, और उस पर एक follow-up question लेगा, and आप उसका solution देके एक CTA pitch करोगे। Let's understand this with an example.
+[54:29] Speaker 1:  मान लीजिए एक insurance advisor है, जिसमें एक host ने उससे question पूछा है, सबसे ज्यादा claim reject किस वजह से होते हैं? Honest beat में वो कह रहा है, लोग सोचते हैं company धोखा देती है, लेकिन सच ये है नहीं।
+[54:40] Speaker 1:  ज्यादातर rejection form भरते वक्त की गलती से होता है, medical history छुपाने की वजह से। तो host फिर ये पूछ सकता है, पर form तो agent भरता है ना, फिर गलती customer की कैसे होती है?
+[54:48] Speaker 1:  तो resolution में वो बोल सकता है, भारत agent है, sign up आप easily कर सकते हो, इसलिए ये तीन column खुद पढ़ो। Soft CTA, free policy check, link in bio।
+[54:56] Speaker 1:  तो ऐसे आप simple conversations initiate कर सकते हो। सबसे पहले आप एक question figure out करो, उस question पर अपना honest reaction, उसका answer।
+[55:03] Speaker 1:  सामने वाला host आपकी चीज़ से agree या disagree करके आपसे एक follow-up question ले, आप उसको resolve करो, and एक CTA दे दो। जरूरी नहीं है link in bio, अभी ले लो, ये सारे hard call to actions हों।
+[55:13] Speaker 1:  आप बहुत simple call to actions भी रख सकते हो, जो बहुत ही ज्यादा subtle हों, और आपकी conversation में बहुत softly fit in हो जाएँ। अब कुछ ऐसे podcast ads के style होते हैं, जो काफी ज्यादा work करते हैं।
+[55:20] Speaker 1:  That is, एक तो studio clip हो गई, जहाँ पर दो लोग बैठे हुए हैं, simply। एक remote call recording हो गई, जैसे for example split screen, Google Meet, या फिर phone call।
+[55:29] Speaker 1:  मैंने यहाँ पर mention भी किया है, client के साथ call की clips हो गई, या फिर कोई भी phone call की clips हो गई। एक हो सकता है कि founder को एक staff interview कर रहा है।
+[55:36] Speaker 1:  एक हो सकता है expert Q&A। एक हो सकता है headphones में आप mic में podcast framing में बात कर रहे हो, which is fake interview।
+[55:44] Speaker 1:  और एक हो सकता है disagreement clip, जहाँ पर आप दोनों साथ में हो, like आपका host और आप, लेकिन आप लोग एक दूसरे से disagree कर रहे हो। इससे क्या है, थोड़ी engagement आपके ad में increase होती है।
+[55:53] Speaker 1:  अब कौन सी categories के लिए podcast ads सबसे ज्यादा काम करते हैं? बहुत simple सा बात है, insurance, health, B2B, courses, legal and compliance services, real estate, agencies, and consulting।
+[56:05] Speaker 1:  इन specific categories के लिए ये बहुत ही अच्छे से काम करते हैं। जैसे for example कि कोई workflow की problem हो सकती है, या फिर आप ये बता सकते हो कि कौन से ऐसे, अगर आप real estate में हो, तो legal checks, loan myths, builder due diligence होते हैं।
+[56:17] Speaker 1:  ये सारी चीज़ों के बारे में आप बात कर सकते हो, ताकि आप अपनी audience को aware भी करो, and finally convert भी करो। Now let's look at some of the example of podcast ads.
+[56:24] Speaker 1:  तो अभी तक हमने देखा podcast, digital personal loans के बारे में आपका क्या ख्याल है, और कौन सा app आपको best लगता है? Happy that we are discussing this.
+[56:30] Speaker 1:  Personal loan। सबसे पहले question pitch हुआ, फिर उसने उस question पर react किया, happy we are discussing this, and उसके बाद अब वो respond कर रहा है अपने answer से।
+[56:36] Speaker 1:  Like all you are very safe. 5 लाख रुपये तक का personal loan मिनटों में direct bank account।
+[56:40] Speaker 1:  Last year मैंने भी दिवाली पे अपना timely stocks भरने के लिए ये app use किया था, कमाल का experience। Trust कर सकते हैं इन पे?
+[56:43] Speaker 1:  बिल्कुल यार, सौरव गांगुली इस app को endorse करते हैं। सारे lenders RBI registered हैं, और Play Store पे जाके देखो, 4.7 rating है।
+[56:48] Speaker 1:  Follow-up question लिया host ने, और उसके बाद उस basically question का वो resolution भी कर रहा है। Interest rates high होंगे।
+[56:54] Speaker 1:  Only 1.5% per month से शुरू, और EMI starting at 512 rupees। यार, as a freelance podcaster, मेरे लिए all you have काफी सारी होटल।
+[56:59] Speaker 1:  अभी download करूँगी, show के बाद। दादा, 50 code use कर लेना, 50% off processing।
+[57:02] Speaker 1:  Simple। जो हमने अभी structure discuss किया था, exactly वही structure पे ये create किया गया है।
+[57:06] Speaker 1:  Let's look at this specific ad. राया का खर्चा कुछ है ही नहीं, इससे ज्यादा तो normal shampoos और बाकी सब का खर्चा होता है।
+[57:12] Speaker 1:  मेरा 3 महीने का maintenance kit मैंने 1300 रुपये में लिया है। 1300 रुपये, literally 3 महीने।
+[57:16] Speaker 1:  ये basically ऐसा type of podcast ad है, जहाँ पर you know, लोग उसके brand को already जान रहे हैं। स्ट्रेस था फिर आया kit मेरे पास।
+[57:22] Speaker 1:  I got only 4 kits. बंगले ब्लॉग, बहुत अच्छा है।
+[57:24] Speaker 1:  कुछ रिग्लोसिन था, एंटीबायोटिक था, भैर रस। इसमें host ने कोई question नहीं पूछा है, because वो राया का founder ही है, तो वो exactly वही बता रहा है।
+[57:30] Speaker 1:  So when I received that, I thought, अरे इतना ही है? मुझे इतना ही use करना है?
+[57:33] Speaker 1:  हाँ सर, पहले आपका डैंड्रफ निकालेंगे, फिर हम मिनोक्सिडाइलिन चालू करेंगे। Within a month, my dandruff disappeared.
+[57:38] Speaker 1:  मैं सोच रहा हूँ, यार ये कैसे हो गया, 25 साल से नहीं जा रहा। अब अगर आप ये ad को देखोगे ना, तो इसमें आपको पता है सबसे best चीज़ क्या है, उसके reaction।
+[57:45] Speaker 1:  The way he is talking, बहुत ही ज्यादा लग रहा है कि realistically वो किसी conversation में है, इसलिए मुझे सुनने का मन कर रहा है। So you always have to make sure कि podcast ads आप जो बना रहे हो, वो देखने में बहुत ज्यादा realistic हों।
+[57:54] Speaker 1:  अब कुछ ऐसे ad creatives देखते हैं, जो हमने in-house create किए थे। बहुत ही ज्यादा hair fall की problem हो रही है इस time।
+[57:58] Speaker 1:  और मैं देख सकता हूँ कि आपके बाल तो काफी ज्यादा लंबे हो गए हैं, मैं पहली बार इतने लंबे बाल देख रहा हूँ, तो क्या reason हो सकता है? For our service.
+[58:04] Speaker 1:  दिक्कत क्या है ना कि hair growth। अब आपने notice किया होगा, host ने question पूछा, उसने हँस के react किया, and then she is answering the question।
+[58:10] Speaker 1:  किसी एक चीज़ पर depend नहीं करता है। And Gen Z की सबसे बड़ी problem ये है कि वो एक chemical-based product के पीछे भागते हैं, कभी कोई serum लगा लिया, कभी कोई shampoo पे shift कर लिया।
+[58:17] Speaker 1:  मुझे लगता है सबसे पहले आपको hair care पर focus करना है ना, तो आपको products से ज्यादा ayurvedic products पर shift करना चाहिए। तो आपका actually hair care routine क्या है, क्योंकि market में तो already इतने ज्यादा products available हैं।
+[58:27] Speaker 1:  बहुत natural conversation चल रही है, and देखो question भी पूछ रहा है, follow-up question पूछ रहा है, ताकि conversation continue हो सके। किस product पर trust करें, बहुत ज्यादा confusion होता है।
+[58:35] Speaker 1:  For example, ये serum मैंने recently use करना start किया है, and like पहले मेरे भी बहुत hair fall होते थे, and split ends। Basically मैंने इसे अपने ना crispy hair के लिए use किया था, but as I started using it continuously, तो मैंने अपने hair growth में बहुत difference देखा।
+[58:47] Speaker 1:  So मैं तो Dream Care का ayurvedic serum ही अभी continuously use कर रही हूँ, and you can see visible results in my hair growth। And आप भी इसे easily कहीं पे भी purchase कर सकते हैं, या फिर आप official website पे भी check out कर सकते हैं।
+[58:56] Speaker 1:  मुझे लगता है कि Gen Z को एक बार chemical product के साथ उसको skip करके एक ayurvedic product पे भी shift करना चाहिए। And the conversation ended जहाँ पर उसने end में CTA कुछ भी नहीं दिया है।
+[59:04] Speaker 1:  वो बातों से ही अगर कोई click करेगा, तो करेगा। वो ये मतलब kind of ऐसा kind of ad है।
+[59:09] Speaker 1:  Let's look at this one. क्या AI सबकी job ले लेगा?
+[59:13] Speaker 1:  Yes. The most controversial question of the year क्या AI सबकी job ले लेगा?
+[59:17] Speaker 1:  Yes, and I guess pretty soon, because हम अभी India में देख रहे हैं कि almost मुश्किल से 1% लोगों को ही AI सही तरीके से use करना आता है। Because ChatGPT के through prompting कर लेना, Gemini के through images generate करवा लेने का मतलब ये नहीं होता है कि आपको AI आता है।
+[59:27] Speaker 1:  AI में आज के time पर इतनी सारी opportunities हैं, आप vibe coding कर सकते हो, AI automation सीख सकते हो, agentic AI बनाना सीख सकते हो, and literally अपनी खुद की एक agency create करके उसका एक बहुत ही बड़ा business model create कर सकते हो। अभी लोगों को लग रहा है कि AI इतना ज्यादा हमारी jobs में नहीं आएगा, क्या ये हम designer हैं या फिर हम video editor हैं, AI क्या ही कर लेगा।
+[59:43] Speaker 1:  But pretty soon बहुत सारी चीज़ें change हो जाएँगी, because जब ChatGPT भी आया था, तभी लोगों को लगता था कि ChatGPT just एक LLM model है, आगे क्या ही कर लेगा। अभी recently में मैंने एक AI webinar लिया था, जहाँ पर बहुत सारे students के ये same questions थे, और वहाँ पर मैं almost हर time explain करती हूँ कि AI कितना ज्यादा helpful होगा।
+[59:56] Speaker 1:  जैसे हम हमारी agency में एक घंटे का काम 10 मिनट, 5 मिनट में कर लेते हैं, वैसे ही आपको भी सीखकर अपने काम को fasten up करना पड़ेगा। आपने बहुत जगह ये चीज़ already सुन ली होगी कि AI obviously आपको आपकी job नहीं लेगा, पर बहुत definitely आपको replace कर सकता है।
+[60:07] Speaker 1:  So you always have to make sure कि अगर market में कोई trend आता है, तो उसे फटाफट से अपनी industry में apply करके आगे बढ़ जाओ, वरना जो already उसे सीख लेंगे ना, वो आपसे आगे बढ़ जाएंगे। And ये सारी चीज़ें मैं obviously अपने webinars में बताती रहती हूँ।
+[60:16] Speaker 1:  अभी आपने एक webinar के बारे में बताया, so can you please tell what is it about? Okay, so literally ये जो webinar हम conduct करवा रहे हैं ना, this is not something India has ever seen.
+[60:23] Speaker 1:  Because यहाँ पर हम basic से लेकर advance तक का 3 घंटे के webinar में पूरा finish कर देते हैं। You don't have to buy a curriculum, उसमें कोई upsells नहीं होते हैं।
+[60:30] Speaker 1:  It's just कि आपको webinar attend करना है, and you get to learn everything about AI, and the next thing you know कि आप अपनी jobs को या फिर अपने career को already upscale कर रहे हो। तो मैं थोड़ा सा खो गई थी, because I loved the script।
+[60:41] Speaker 1:  आपने notice किया होगा कि चालू बहुत ही controversial question से हुआ कि AI क्या आपकी job ले लेगा। And then मुझे ऐसा लगता है जो मैंने script पढ़ी है ना, that was pretty pretty crazy.
+[60:49] Speaker 1:  बहुत ही ज्यादा converting script है। Because पहले problem के बारे में बात करी, credibility के बारे में बात करी, and आपने webinar देखा होगा तो बहुत ही smoothly integrate हो गया, without even people knowing कि यार ये अपने आप को pitch कर रहे हैं।
+[60:59] Speaker 1:  तो बहुत ही अच्छी script है। You should learn कि हम ऐसी script एक ऐसे create कर सकते हैं।
+[61:02] Speaker 1:  Obviously आगे आने वाले chapter में we will be talking about scripts कैसे लिखते हैं, but this is a very good script. Now look at this ad Like आपके products को कैसे influence किया?
+[61:10] Speaker 1:  आपने उन कंपनियों का भी नाम सुना होगा, कैंप। Okay, so थोड़ा जापान के stationary culture के बारे में बताइए, like आपके products को कैसे influence किया?
+[61:17] Speaker 1:  आपने उन कंपनियों का भी नाम सुना होगा, कैमलिन हो गया, क्योको हो गया, पायलट हो गया। ये जितनी भी कंपनियां हैं, ये भी जापान की हैं।
+[61:21] Speaker 1:  In fact, ये लोग एक annual competition held करते हैं, जिसमें ये लोग एक अपना best stationary product choose करते हैं। तो last month मैं भी जापान इसी competition में गया हुआ था देखने के लिए।
+[61:28] Speaker 1:  तो वहाँ पे मुझे एक like feeling आई कि इंडिया का भी एक ऐसा stationary brand होना चाहिए, जिसका जिसके product functional तो हों ही, साथ में उनके पीछे एक thought process भी छुपा हो। तो for example, आपने हमारा ये देखो रखा हुआ है, हैप्पी लाइफ का मिनी कैलेंडर।
+[61:38] Speaker 1:  तो हमारे इस product के पीछे भी एक thought process involved है। First of all, ये जो पेपर use किया है हमने इस कैलेंडर में, ये एक high quality पेपर है जो कि हम लोग जापान से import करते हैं।
+[61:45] Speaker 1:  तो इसका जो texture है ना, ये बहुत ज्यादा soft होता है। Plus आप देखोगे कि हर page में ना, like pattern बने हुए हैं, हर में एक design बनाया हुआ है हमने हर page पे।
+[61:52] Speaker 1:  So there is a thought process involved, because ये Japanese New Year के ऊपर based है। हर month में जो वो लोग flowers represent करते हैं, वो हमने इस कैलेंडर में print किया हुआ है।
+[61:59] Speaker 1:  अब जब आप कभी भी like date बढ़ती जाती है आगे आगे, तो आप pen से उसको round off करते जाते हो। By the end of the year, आपको एक sense of fulfillment feel होती है।
+[62:05] Speaker 1:  So like that we have created it। Plus ये छोटा सा cute सा भी है, तो आप इसको अपने desk पे भी रख सकते हो।
+[62:09] Speaker 1:  तो अगर किसी को ये कैलेंडर purchase करना हो, तो कहाँ से कर सकता है? तो like if you noticed, ये ना थोड़ा सा historical kind of podcast हो गया, जहाँ पर उसने कुछ पूछा और and जो founder है, उसने reply अपने product के हिसाब से किया।
+[62:20] Speaker 1:  तो ये भी एक style of podcast ad ही होता है। अब देखो, कुछ ऐसी चीज़ें हैं जो आपको podcast ads में देखने की जरूरत पड़ती है, like कुछ ऐसी metrics जिसके बारे में अभी हम बात कर लेते हैं।
+[62:27] Speaker 1:  सबसे पहला, अगर podcast ad है, तो make sure आप check करिए कि आपका hook rate कितना है। मैं पहले भी बता चुकी हूँ, आपका hook rate 20% के ऊपर होना चाहिए at any cost।
+[62:34] Speaker 1:  Hold rate कितना है, ये सारी चीज़ें आपको अपने dashboard में ही notice हो जाती हैं। तो आप make sure करिए, ये सारी चीज़ें देखते रहिए, in order to understand कि आपके business के लिए कौन सा ad type बहुत अच्छा perform कर रहा है।
+[62:43] Speaker 1:  Average watch time कितना है, 40% या फिर उसके ऊपर होना चाहिए। और conversions कितनी आ रही हैं, obviously cost per purchase या फिर cost per lead कितनी आ रही है, जो भी आप run कर रहे हो, in order to understand कि ये ad आपके लिए suitable है कि नहीं है।
+[62:54] Speaker 1:  अब always make sure कि भाई, जब podcast style ad बना रहे हो, तो ऐसा नहीं लगना चाहिए कि दोनों लोग script पढ़ रहे हैं। अगर आप लोगों का ad ऐसा निकल कर आता है कि बहुत ही ज्यादा scripted ad है, तो obviously वो बिल्कुल भी काम नहीं करेगा।
+[63:05] Speaker 1:  और ऐसा भी नहीं होना चाहिए कि आप अपने podcast ad में अपने आप को introduce कर रहे हो, like for example, किसी ने question पूछ लिया कि आपको क्या लगता है, AI आपकी job ले लेगा? And then you start introducing yourself, हाय, मेरा नाम डैश डैश डैश है, and मैं AI में इतने समय से हूँ।
+[63:18] Speaker 1:  And उसके बाद आप script start कर रहे हो। यहाँ पर क्या होता है, आपकी जो engagement है, वो drop हो जाती है।
+[63:21] Speaker 1:  Because beginning में किसी को ये नहीं जानना कि भाई, आप हो कौन। आप ये बाद में अपनी ad script में integrate कर सकते हो, but शुरू में answer that exact question, because लोग उसी को सुनने के लिए आपका ad देख रहे हैं।
+[63:32] Speaker 1:  एक exact spoken CTA मत दो, जरूरी नहीं आपको बोलना है, LinkedIn bio है, या फिर अभी register कर लो। ये hard CTAs जो होते हैं ना, जरूरी नहीं है आप इनको use करिए, because soft CTAs भी podcast style ads में काम कर जाते हैं।
+[63:44] Speaker 1:  और इसके बाद ऐसा नहीं लगना चाहिए कि आपने तीन चार question आपके host ने पूछे, और उन तीन चार question को आप merge करके answer कर रहे हो। इससे क्या है, आपकी audience multiple segments में distribute हो जाएगी, और किसी को भी एक perfect answer नहीं मिलेगा, और automatically आपकी conversions drop होंगी।
+[63:57] Speaker 1:  I hope आप लोग समझ गए होंगे कि exact podcast ads होते कैसे हैं, create कैसे करते हैं। Now I'll be moving on to the next chapter, where we will be talking about a really great high.
+[64:05] Speaker 1:  तो नाम है बसिया मोहन, और ये भी बहुत ज्यादा famous है, and it's full।

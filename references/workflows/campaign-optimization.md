@@ -1,0 +1,8 @@
+# Optimization
+Operational extension applying all creative modules. Read integration-contract.md and sheets-data-model.md via the shared path. Fix client/account, dates, complete days, timezone/currency, attribution, event, grain and freshness. Check tracking, late conversions, delivery, budget, mix and landing/CRM data before blaming creative.
+Calculate ratios from totals. Diagnose CPM/delivery → relevant attention → link CTR/CPC → click-to-LPV → action → qualified leads → sales/revenue/refunds. Hook rate alone is not a business win. Map weak attention to hook hypotheses, weak clicking to message/CTA, weak conversion to offer/trust/speed, poor lead quality to qualification/follow-up. These are hypotheses, not proven causes.
+Assess fatigue from trends, efficiency and exposure together, not a universal frequency cutoff. Distinguish insufficient delivery from failure. Do not declare winners on tiny samples or observational comparisons. Course thresholds and 48-72 hour examples create no automatic rules.
+Recommend keep, iterate, retest, pause or scale with evidence, uncertainty, expected impact, cost cap, review time and rollback. Avoid overlapping attribution/rollup counts. Scaling depends on marginal economics and capacity. Complete an exact change preview and obtain spending authorization before execution. Update next creative hypotheses and decision log. Install no monitoring schedule unless requested.
+
+
+For source-based metric interpretation read [P01 metrics notes](../knowledge/metrics-freebee-notes.md), especially click definitions, denominator choices, attribution, estimated reach and the contextual frequency warning. Do not turn these notes into automatic pause/scale rules.

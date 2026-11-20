@@ -1,0 +1,14 @@
+[
+  {
+    "id": "P01",
+    "file": "FREEBEE 5 IMPORTANT METRICS.pdf",
+    "relative_path": "supplemental/FREEBEE 5 IMPORTANT METRICS.pdf",
+    "sha256": "444b61f4a29ef561dce582fe9b36719b29ce8fde12e031e0fadd6836bebe740f",
+    "bytes": 149619,
+    "pages": 5,
+    "metric_topics": 12,
+    "role": "User-supplied supplemental measurement knowledge; nine original transcripts remain primary creative training",
+    "extraction": "Page-by-page pypdf text, all five pages rendered with PyMuPDF and visually inspected",
+    "supplied": "2026-11-20"
+  }
+]

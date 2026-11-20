@@ -1,0 +1,6 @@
+interface:
+  display_name: "QW Adcreative Intelligence"
+  short_description: "Meta strategy, ad images, copy and optimization"
+  default_prompt: "Use $qw-adcreative-intelligence to research my business and create a source-grounded Meta ad with an actual image and matching copy."
+policy:
+  allow_implicit_invocation: true
