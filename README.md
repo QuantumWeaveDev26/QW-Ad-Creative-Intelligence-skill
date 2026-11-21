@@ -1,200 +1,64 @@
-#  QW Ad Creative Intelligence Skill
+# QW Adcreative Intelligence
 
-### AI-Powered Advertising Intelligence | Creative Strategy | Performance Marketing
+An all-in-one Meta Ads skill by Quantum Weave: customer research, buying motivations, offers, actual ad images, copy, landing pages, campaign planning, optimization and reporting.
 
-**Developed by Quantum Weave**
+**Version 0.4.0.** The complete skill lives at this repository's root (`SKILL.md`). Its knowledge and workflows are included; no files from the creator's computer or sibling QW skills are needed.
 
----
+## Install and share
 
-##  Overview
+Share [this repository](https://github.com/QuantumWeaveDev26/QW-Ad-Creative-Intelligence-skill). Opening the link or starring it does not install the skill. In Codex, ask:
 
-**QW Ad Creative Intelligence Skill** is an AI-powered advertising strategy and creative intelligence framework designed to help marketers, agencies, businesses, and creative professionals develop effective, audience-focused advertising campaigns.
+> Use the skill installer to install https://github.com/QuantumWeaveDev26/QW-Ad-Creative-Intelligence-skill from repository path `.` with the installed name `qw-adcreative-intelligence`. Include the complete references, agents and scripts folders. Review any existing installation before replacing it.
 
-The project aims to combine artificial intelligence, marketing psychology, creative strategy, audience insights, and performance-oriented thinking into a structured, repeatable workflow.
-
-Its purpose is to support better advertising decisions, accelerate creative development, and improve the consistency of marketing execution.
-
-##  Mission
-
-**Transform advertising from guesswork into an intelligence-driven creative process.**
-
-We aim to empower marketers and businesses with AI-assisted workflows that connect audience understanding, persuasive communication, creative experimentation, and measurable marketing outcomes.
-
-##  Core Capabilities
-
-###  1. Advertising Intelligence
-- Audience research and segmentation
-- Customer pain-point identification
-- Market and competitor analysis
-- Consumer psychology insights
-- Value proposition development
-
-###  2. Creative Strategy
-- Advertising concept generation
-- Creative angle exploration
-- Marketing hooks and headlines
-- Brand-aligned messaging
-- Emotional and rational appeal development
-
-###  3. AI-Powered Copywriting
-- Social media advertising copy
-- Google Ads headlines and descriptions
-- Meta advertising concepts
-- Landing page messaging
-- Calls to action (CTAs)
-- Multiple copy variations for experimentation
-
-###  4. Performance-Oriented Thinking
-- Campaign objective alignment
-- Creative hypothesis development
-- A/B testing recommendations
-- Performance metric identification
-- Creative iteration strategies
-
-### ⚙️ 5. Structured AI Workflows
-- Repeatable creative development processes
-- Context-aware prompt instructions
-- Brand consistency guidelines
-- Quality evaluation frameworks
-- Human review and approval checkpoints
-
-##  Creative Intelligence Workflow
+Or download the repository ZIP, extract it, open a terminal in that folder and run with Python 3.9 or newer:
 
 ```text
-Business Objective
-       ↓
-Audience Understanding
-       ↓
-Market & Competitor Insights
-       ↓
-Creative Strategy
-       ↓
-Advertising Concepts
-       ↓
-Copy & Messaging Development
-       ↓
-Creative Evaluation
-       ↓
-Human Review
-       ↓
-Campaign Experimentation
-       ↓
-Performance Analysis
-       ↓
-Continuous Improvement
+python scripts/install.py
 ```
 
-##  Who Is This For?
+On macOS/Linux, use `python3` if appropriate. The installer copies the complete skill to `~/.codex/skills/qw-adcreative-intelligence`, respecting `CODEX_HOME`. It verifies the sources before and after copying, makes no network calls, and refuses to overwrite an existing installation. For updates, review and back up the old folder before replacing it; preserve personal changes.
 
-This project is intended for:
+Start a new Codex chat, then use:
 
-- Digital marketing agencies
-- Advertising professionals
-- Creative strategists
-- Performance marketers
-- Entrepreneurs and startups
-- Marketing students
-- AI automation developers
-- Brand and content teams
-
-##  Getting Started
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/QuantumWeaveDev26/QW-Ad-Creative-Intelligence-skill.git
+```text
+$qw-adcreative-intelligence
+For my business, identify one promising customer segment and buying motivation, propose a truthful offer, and write a matching Meta headline, primary text, CTA and landing page. Use supplied facts, label hypotheses and cite relevant training timestamps. Do not spend money or launch ads.
 ```
 
-### Step 2: Open the Project
+For an actual ad image, attach an authorized product reference and request a rendered image. The host needs image generation enabled. Generation may consume included host usage; the skill cannot enable disabled tools or bypass limits.
 
-```bash
-cd QW-Ad-Creative-Intelligence-skill
+## Included knowledge
+
+- All **nine original multilingual transcripts**, with source hashes and timestamps.
+- **127 lossless extracts**, source navigation and offline keyword search.
+- **FREEBEE 5 IMPORTANT METRICS.pdf**, its five-page extraction and notes covering its 12 topics.
+- Selective English paraphrases and on-demand translation guidance, not a complete translation.
+- Embedded research, strategy, offers, scripts, image generation, landing page, campaign management, optimization, data analysis and Google Sheets workflows.
+- Detailed product review for model identity, controls, packaging, regional variants and unresolved microprint.
+
+The linked Cash Flow Copy System GPT's hidden files were **not imported**. Documents and training action items are knowledge, not permission to launch ads, spend money or share data.
+
+## Tools and integrations
+
+Web Search, Image Generation and Code Interpreter / Data Analysis depend on the active host and workspace. Installation does not add a model, grant account access or create a running integration.
+
+Meta operations require an authorized supported connection, such as configured Windsor tools. Sheets operations require authorized Google Drive/Sheets tools. Actual accounts, fields and actions must be discovered. No credentials are included. The private ChatGPT plugin is separate: a GitHub installation does not grant plugin access or invitations. Plugin access and live integration testing remain deferred.
+
+## Verify
+
+```text
+python scripts/verify_package.py
+python -m unittest discover -s tests -v
 ```
 
-### Step 3: Review the Skill Instructions
+These offline checks validate original hashes, extract contents, local links, clean installation, working retrieval, refusal to overwrite, and detection of changed source files. GitHub Actions is configured for Windows and Ubuntu. A local pass is separate from a completed hosted CI run.
 
-If the repository includes a `SKILL.md` file, review it to understand the skill's supported workflows, inputs, outputs, and operating instructions.
+[Evaluation evidence and repeatable briefs](tests/README.md) documents unfamiliar-business tests and two actual detailed-product image tests. These support observed capabilities, not universal accuracy or conversion guarantees. Real performance needs approved campaigns and measured business outcomes.
 
-### Step 4: Configure Your AI Environment
+## Audience and source rights
 
-Follow the installation and configuration requirements documented in the repository.
+This repository was observed to be **public** on 2026-11-21 and already included the original transcripts and PDF. Anyone can download the packaged knowledge while it remains public. The skill is not DRM. For team-only distribution, the owner must set appropriate repository visibility and collaborator access; private ChatGPT plugin permissions are separate. This update does not change either audience.
 
-Compatibility and installation steps depend on the final skill implementation.
-
-##  Example Use Cases
-
-**Use Case 1: Advertising Campaign Strategy**
-
-Develop an advertising strategy for a business by identifying its target audience, customer pain points, unique value proposition, and potential creative approaches.
-
-**Use Case 2: Creative Concept Development**
-
-Generate multiple advertising concepts for a product, exploring different customer motivations, messaging angles, and calls to action.
-
-**Use Case 3: Advertising Copy Optimization**
-
-Evaluate existing advertising copy for clarity, relevance, differentiation, persuasiveness, and alignment with campaign objectives.
-
-**Use Case 4: Creative Experimentation**
-
-Develop structured A/B testing hypotheses and creative variations to support data-informed campaign optimization.
-
-##  Responsible AI Principles
-
-QW Ad Creative Intelligence Skill aims to follow responsible AI practices:
-
-- Prioritize truthful advertising claims.
-- Avoid misleading or fabricated information.
-- Respect intellectual property and brand guidelines.
-- Protect confidential business and customer information.
-- Encourage human oversight of AI-generated content.
-- Distinguish verified evidence from assumptions.
-- Avoid guaranteeing advertising performance.
-
-##  Development Roadmap
-
-The following are proposed development directions, not confirmed completed features.
-
-- [ ] Standardize the skill architecture.
-- [ ] Develop reusable advertising strategy templates.
-- [ ] Build structured creative evaluation frameworks.
-- [ ] Introduce brand-specific personalization.
-- [ ] Explore integration with advertising platforms.
-- [ ] Develop creative experimentation workflows.
-- [ ] Evaluate opportunities for agentic automation.
-- [ ] Establish performance measurement and feedback processes.
-
-##  Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your improvements.
-4. Commit your changes.
-5. Submit a pull request.
-
-Please follow the repository's contribution guidelines when available.
-
-##  About Quantum Weave
-
-**Quantum Weave** focuses on applying artificial intelligence, creative intelligence, and marketing strategy to develop practical solutions for modern advertising and business growth.
-
-This repository represents an initiative to make advertising intelligence more structured, accessible, and repeatable.
-
-##  Repository
-
-**GitHub:**  
-https://github.com/QuantumWeaveDev26/QW-Ad-Creative-Intelligence-skill
-
----
-
-###  Support the Project
-
-If you find this project useful, consider starring the repository.
-
-**Built with intelligence. Driven by creativity. Focused on outcomes.**
+No new license for bundled training or third-party materials is granted here. Existing rights remain applicable. Keep credentials, client data and private account exports out of the repository.
 
 © 2026 Quantum Weave. All rights reserved.

@@ -72,3 +72,5 @@ For examples of stronger visual arguments, consult [image brief examples](image-
 
 ## Real-reference acceptance
 Check the generated result beside the exact source: model/edition, colour, print/label, controls/closure and overall proportions. Record visible matches and unresolved details, not a fabricated preservation percentage. If the generator has changed identity-critical artwork or packaging, revise through the native edit tool and re-check. If fidelity remains inadequate, deliver it as an incomplete concept, not a finished product ad. Keep actual source URLs and images in the task's evidence folder; do not silently add third-party product images to the private training library.
+
+For dense controls, patterned packaging or regional variants, use the landmark comparison in [visual review](visual-review.md) before approving the image. Distinguish observed source details from product specifications: an unreadable label cannot substantiate a feature claim. An in-image CTA is design text; it is not evidence of an available Meta button, working destination or submitted campaign.
