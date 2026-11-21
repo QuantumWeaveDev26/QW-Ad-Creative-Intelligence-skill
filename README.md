@@ -2,7 +2,7 @@
 
 An all-in-one Meta Ads skill by Quantum Weave: customer research, buying motivations, offers, actual ad images, copy, landing pages, campaign planning, optimization and reporting.
 
-**Version 0.4.0.** The complete skill lives at this repository's root (`SKILL.md`). Its knowledge and workflows are included; no files from the creator's computer or sibling QW skills are needed.
+**Version 0.4.1.** The complete skill lives at this repository's root (`SKILL.md`). Its knowledge and workflows are included; no files from the creator's computer or sibling QW skills are needed.
 
 ## Install and share
 

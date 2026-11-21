@@ -1,6 +1,6 @@
 # Evaluation evidence and repeatable briefs
 
-Package version: 0.4.0. Evaluation date: 2026-11-21.
+Package version: 0.4.1. Evaluation date: 2026-11-21.
 
 `python -m unittest discover -s tests -v` checks complete installation to a new folder, source integrity, working offline retrieval, refusal to overwrite an existing installation, and detection of a corrupted original. CI runs these checks on Windows and Ubuntu. A passing check does not prove model quality or host invocation.
 
