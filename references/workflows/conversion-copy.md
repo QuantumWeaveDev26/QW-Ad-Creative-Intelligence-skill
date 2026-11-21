@@ -13,6 +13,8 @@ Draft the requested WhatsApp/DM/form confirmation/email/quote follow-up sequence
 ## Copy audit
 Assess audience specificity, hook, single message, motivation, offer clarity, proof, objection coverage, language, CTA, qualification and ad-to-page continuity. Show a focused rewrite and why it improves the hypothesis. Avoid unsupported performance promises. Deliver evidence references and the next experiment, not a claimed conversion uplift.
 
+For a complete funnel or changed CTA, apply [funnel review](../funnel-review.md). Check actual copy across stages, including alternate destinations, the distinction between enquiry and confirmed service, conditional acknowledgements and downstream metric definitions. Do not treat a page's existence as evidence that it fulfills every variant's promise.
+
 
 
 ## Useful copy with incomplete operations

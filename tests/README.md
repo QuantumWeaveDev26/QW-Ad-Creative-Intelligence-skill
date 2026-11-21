@@ -1,6 +1,16 @@
 # Evaluation evidence and repeatable briefs
 
-Package version: 0.5.0. Evaluation date: 2026-11-21.
+Package version: 0.6.0. Evaluation date: 2026-11-21.
+
+## Version 0.6.0 full-funnel and image evaluation
+
+Independent agents applied version 0.5.0 to four fictional businesses: VentCare exhaust cleaning, ThreadAgain saree repair, QuietForm desk dividers and BatchBoard job-tracking SaaS. They produced eight ad concepts, four complete recommended landing pages, lead fields, eight exact unsent message drafts and measurement definitions. Source passages were retrieved from originals. Manual review found no material invented commercial promise in the recommended funnels, but exposed useful gaps around alternate CTA destinations, enquiry/booking/job stages, repeated form questions and file import versus native sync. Those findings informed the new funnel review reference.
+
+The updated guidance is also evaluated on ScentPaper, a separate paid-proof stationery brief with two requested destinations and known-versus-missing form answers. See [raw briefs and semantic rubric](funnel-benchmark.json). This benchmark requires human/agent judgment; no regex or section-count score is presented as behavioral accuracy. Detailed outputs are task evaluation artifacts, rather than extra business knowledge the skill loads by default.
+
+Two actual native product ad concepts were generated using official KNIPEX Cobra 87 01 250 and Logitech MX Master 3S for Mac Pale Gray reference images. An independent visual reviewer found missing small handle printing on KNIPEX v1. A targeted native edit produced unverifiable glyphs in v2: **the repair did not pass**. Both KNIPEX versions remain incomplete for faithful product publication; retries stopped with this 480px source. The Logitech concept retained the visible controls reviewed, with geometry, rights/owner approval and upload acceptance still unverified. The image workflow now explicitly rejects restored print footprints as proof of exact lettering. No third-party product photos were added to this repository's training library.
+
+These local model applications, manual reviews and three native image calls (two generations plus one edit) used no separately billed API or ad spend. Native calls used host usage. Plugin access, hosted invocation, live integrations and campaign outcomes remain deferred/unverified. The eight automated retrieval/distribution tests are separate evidence; prior tests below are historical rather than new runs.
 
 Version 0.5.0 adds six exact-retrieval regression tests: real T08 04:35 quote/context/line, missing timestamp, wrong quote from an adjacent passage, summary exclusion and unusual timestamp parsing, unknown source/empty quote, and altered original rejection. Together with the two distribution tests, eight automated tests ran locally. These test deterministic tools and packaging, not overall AI accuracy. The source-based image/business observations below describe the earlier runs; they were not rerun or relabelled as fresh model evaluations.
 

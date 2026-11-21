@@ -2,7 +2,7 @@
 
 An all-in-one Meta Ads skill by Quantum Weave: customer research, buying motivations, offers, actual ad images, copy, landing pages, campaign planning, optimization and reporting.
 
-**Version 0.5.0.** The complete skill lives at this repository's root (`SKILL.md`). Its knowledge and workflows are included; no files from the creator's computer or sibling QW skills are needed.
+**Version 0.6.0.** The complete skill lives at this repository's root (`SKILL.md`). Its knowledge and workflows are included; no files from the creator's computer or sibling QW skills are needed.
 
 ## Install and share
 
@@ -56,6 +56,8 @@ These offline checks validate original hashes, extract contents, local links, cl
 For an exact original passage and adjacent context, run `python scripts/read_source.py --source T08 --timestamp 04:35 --context 1`. Optional `--quote "specific, relatable hook"` verifies those words occur in that passage. The helper rejects altered originals, missing timestamps and mismatched quotes. Citation verification checks provenance, not truth, translation quality or whether a recommendation logically follows. No 100% answer-accuracy guarantee is made.
 
 [Evaluation evidence and repeatable briefs](tests/README.md) documents unfamiliar-business tests and two actual detailed-product image tests. These support observed capabilities, not universal accuracy or conversion guarantees. Real performance needs approved campaigns and measured business outcomes.
+
+Version 0.6.0 adds complete-funnel review and a [five-business semantic benchmark](tests/funnel-benchmark.json). It distinguishes enquiries from confirmed jobs, matches alternate CTAs to their destinations, and uses known form answers in acknowledgements. Detailed-image review now rejects guessed microprint even after a polished edit; an incomplete image is reported as incomplete.
 
 ## Audience and source rights
 
