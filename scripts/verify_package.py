@@ -44,7 +44,7 @@ def verify(root):
             resolved = (path.parent / unquote(target)).resolve()
             if not resolved.is_relative_to(root) or not resolved.exists():
                 errors.append(f'{path.relative_to(root)}: invalid local link {target}')
-    for required in ['SKILL.md', 'agents/openai.yaml', 'scripts/search_transcripts.py']:
+    for required in ['SKILL.md', 'agents/openai.yaml', 'scripts/search_transcripts.py', 'scripts/read_source.py']:
         if not (root / required).is_file():
             errors.append(f'Missing {required}')
     counts['transcript_extracts'] = len(catalog)

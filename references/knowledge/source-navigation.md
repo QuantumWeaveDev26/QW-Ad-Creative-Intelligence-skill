@@ -4,6 +4,8 @@ Use this map for English requests against Hindi/Hinglish originals. Choose topic
 
 ## Module maps
 
+For exact citation verification with a Python runtime, run `python scripts/read_source.py --source T08 --timestamp 04:35 --context 1` from the skill folder. Add `--quote "specific, relatable hook"` to check a verbatim excerpt. It checks original bytes and rejects missing timestamps or mismatched quotes; it does not substitute a nearby passage. Context includes adjacent original utterances, not a summary. If code execution is unavailable, read the original passage and its neighbours directly. Retrieval verifies provenance, not whether an interpretation follows from the quote.
+
 - [T01: 01 - Ad Creative Essentials and Psychology.txt](T01-source-map.md)
 
 - [T02: 02 - Ad Angles and UGC Strategies.txt](T02-source-map.md)

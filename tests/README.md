@@ -1,6 +1,8 @@
 # Evaluation evidence and repeatable briefs
 
-Package version: 0.4.1. Evaluation date: 2026-11-21.
+Package version: 0.5.0. Evaluation date: 2026-11-21.
+
+Version 0.5.0 adds six exact-retrieval regression tests: real T08 04:35 quote/context/line, missing timestamp, wrong quote from an adjacent passage, summary exclusion and unusual timestamp parsing, unknown source/empty quote, and altered original rejection. Together with the two distribution tests, eight automated tests ran locally. These test deterministic tools and packaging, not overall AI accuracy. The source-based image/business observations below describe the earlier runs; they were not rerun or relabelled as fresh model evaluations.
 
 `python -m unittest discover -s tests -v` checks complete installation to a new folder, source integrity, working offline retrieval, refusal to overwrite an existing installation, and detection of a corrupted original. CI runs these checks on Windows and Ubuntu. A passing check does not prove model quality or host invocation.
 

@@ -2,7 +2,7 @@
 
 An all-in-one Meta Ads skill by Quantum Weave: customer research, buying motivations, offers, actual ad images, copy, landing pages, campaign planning, optimization and reporting.
 
-**Version 0.4.1.** The complete skill lives at this repository's root (`SKILL.md`). Its knowledge and workflows are included; no files from the creator's computer or sibling QW skills are needed.
+**Version 0.5.0.** The complete skill lives at this repository's root (`SKILL.md`). Its knowledge and workflows are included; no files from the creator's computer or sibling QW skills are needed.
 
 ## Install and share
 
@@ -52,6 +52,8 @@ python -m unittest discover -s tests -v
 ```
 
 These offline checks validate original hashes, extract contents, local links, clean installation, working retrieval, refusal to overwrite, and detection of changed source files. GitHub Actions is configured for Windows and Ubuntu. A local pass is separate from a completed hosted CI run.
+
+For an exact original passage and adjacent context, run `python scripts/read_source.py --source T08 --timestamp 04:35 --context 1`. Optional `--quote "specific, relatable hook"` verifies those words occur in that passage. The helper rejects altered originals, missing timestamps and mismatched quotes. Citation verification checks provenance, not truth, translation quality or whether a recommendation logically follows. No 100% answer-accuracy guarantee is made.
 
 [Evaluation evidence and repeatable briefs](tests/README.md) documents unfamiliar-business tests and two actual detailed-product image tests. These support observed capabilities, not universal accuracy or conversion guarantees. Real performance needs approved campaigns and measured business outcomes.
 
