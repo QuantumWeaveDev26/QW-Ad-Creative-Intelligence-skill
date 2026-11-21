@@ -24,7 +24,7 @@ class DistributionTests(unittest.TestCase):
             self.assertFalse((destination / '.git').exists())
             search = subprocess.run([sys.executable, str(destination / 'scripts/search_transcripts.py'),
                                      'CTA', '--source', 'T08', '--limit', '1'], capture_output=True, text=True,
-                                    encoding='utf-8', env={**__import__('os').environ, 'PYTHONUTF8': '1'})
+                                    encoding='utf-8')
             self.assertEqual(search.returncode, 0, search.stderr)
             results = json.loads(search.stdout)
             self.assertTrue(results, 'Installed search must retrieve original knowledge')
